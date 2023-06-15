@@ -1,4 +1,4 @@
-\Children and adults’ intuitions of what people can believe\
+# Children and adults’ intuitions of what people can believe
 ================
 
 *Last updated on Wednesday, June 14, 2023 at 08:10 PM*
@@ -7,9 +7,9 @@
 
 This repository contains a preregistration, data, code, ans the manuscript and 
 supplement for a project entitled 
-‘\Children and adults’ intuitions of what people can believe\’.
+‘Children and adults’ intuitions of what people can believe’.
 
-\Two pre-registered studies tested how 5-6-year-olds, 7-8-year-olds, and adults 
+Two pre-registered studies tested how 5-6-year-olds, 7-8-year-olds, and adults 
 judged the possibility of holding alternative beliefs. In Study 1 (N=120, 
 52 females, mostly white), children and adults thought people could hold 
 alternative beliefs when their initial beliefs were not supported by evidence. 
@@ -21,7 +21,7 @@ beliefs. However, when people held moral beliefs, children and adults thought
 people could not form other beliefs. Young children viewed moral beliefs as 
 more constrained than adults. Our results suggest that young children already 
 have sophisticated intuitions of the possibility of holding various beliefs 
-and how certain beliefs are constrained.\.
+and how certain beliefs are constrained.
 
 ## Directory Structure
 
