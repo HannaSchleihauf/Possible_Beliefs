@@ -37,7 +37,8 @@ BO.2 <- read.csv("./Study_2/Data/merged.data.Study2.csv")
 # preparation for model fitting ------------------------------------
 ftable(Answer ~ Condition + Age.3, BO.2)
 table(BO.2$Answer, BO.2$Condition, BO.2$Age.3,
-      useNA = "ifany")
+  useNA = "ifany"
+)
 # here we see that we have in a few cells a 0
 # --> therefore we might have a complete separation problem
 
@@ -56,7 +57,8 @@ BO.belief$Condition <-
   factor(BO.belief$Condition, ordered = FALSE)
 BO.belief$Condition <-
   relevel(BO.belief$Condition,
-          ref = "Opinion")
+    ref = "Opinion"
+  )
 levels(as.factor(BO.belief$Condition))
 
 # prepare data frame for analysis (dummy-code factors etc.)
@@ -93,7 +95,7 @@ contr <-
   )
 full.inital <-
   glmer(Answer ~
-          Condition * Age.3 +
+    Condition * Age.3 +
     (1 + (c.Condition.Immoral +
       c.Condition.Moral) +
       z.Trial || ID),
@@ -108,25 +110,29 @@ summary(full.inital)$coefficients
 # function to keep warnings
 keepWarnings <-
   function(expr) {
-  localWarnings <- list()
-  value <- withCallingHandlers(expr,
-    warning = function(w) {
-      localWarnings[[length(localWarnings) + 1]] <<- w
-      invokeRestart("muffleWarning")
-    }
-  )
-  list(value = value,
-       warnings = localWarnings)
-}
+    localWarnings <- list()
+    value <- withCallingHandlers(expr,
+      warning = function(w) {
+        localWarnings[[length(localWarnings) + 1]] <<- w
+        invokeRestart("muffleWarning")
+      }
+    )
+    list(
+      value = value,
+      warnings = localWarnings
+    )
+  }
 
 # make a new variable for the response
 t.data$resp <-
   as.numeric(t.data$Answer)
 
 # check again which cells have a complete separation issue (have no 1s in it)
-ftable(Answer ~
-  Condition + Age.3,
-  t.data) # immoral 7-8 year olds
+ftable(
+  Answer ~
+    Condition + Age.3,
+  t.data
+) # immoral 7-8 year olds
 table(tapply(
   t.data$resp,
   list(
@@ -139,7 +145,8 @@ table(tapply(
 to.change.1 <-
   (1:nrow(t.data))[
     (t.data$Condition == "Immoral" &
-    t.data$Age.3 == "7-8 group")]
+      t.data$Age.3 == "7-8 group")
+  ]
 
 # creating empty variables to store the results
 all.res <-
@@ -327,14 +334,18 @@ for (i in 1:(length(to.change.1))) { # i = 1
     emm <-
       emmeans(full, ~ Condition * Age.3)
     emm.post.hoc.full <-
-      rbind(emm.post.hoc.full,
-            as.data.frame(summary(emm)))
+      rbind(
+        emm.post.hoc.full,
+        as.data.frame(summary(emm))
+      )
     emm.post.hoc.full.cis <-
       rbind(
         emm.post.hoc.full.cis,
         as.data.frame(
           summary(emm,
-                              type = "response"))
+            type = "response"
+          )
+        )
       )
 
     emm.pairs.full <-
@@ -347,13 +358,15 @@ for (i in 1:(length(to.change.1))) { # i = 1
         adjust = "sidak"
       )
     emm.post.hoc.full.pairs <-
-      rbind(emm.post.hoc.full.pairs,
-            data.frame(
-        term = emm.pairs.full$contrast,
-        odds.ratio =  emm.pairs.full$odds.ratio,
-        se = emm.pairs.full$SE,
-        p.value =  emm.pairs.full$p.value
-      ))
+      rbind(
+        emm.post.hoc.full.pairs,
+        data.frame(
+          term = emm.pairs.full$contrast,
+          odds.ratio = emm.pairs.full$odds.ratio,
+          se = emm.pairs.full$SE,
+          p.value = emm.pairs.full$p.value
+        )
+      )
   } else {
     all.res$full.warnings[i] <- "yes"
   }
@@ -448,36 +461,44 @@ for (i in 1:(length(to.change.1))) { # i = 1
     emm <-
       emmeans(red, ~Condition)
     emm.pairs.red <-
-      summary(contrast(emm,
-                       "pairwise"),
-        type = "response",
-        adjust = "tukey"
+      summary(contrast(
+        emm,
+        "pairwise"
+      ),
+      type = "response",
+      adjust = "tukey"
       )
     emm.post.hoc.Condition <-
-      rbind(emm.post.hoc.Condition,
-            data.frame(
-        term = emm.pairs.red$contrast,
-        odds.ratio = emm.pairs.red$odds.ratio,
-        se = emm.pairs.red$SE,
-        p.value = emm.pairs.red$p.value
-      ))
+      rbind(
+        emm.post.hoc.Condition,
+        data.frame(
+          term = emm.pairs.red$contrast,
+          odds.ratio = emm.pairs.red$odds.ratio,
+          se = emm.pairs.red$SE,
+          p.value = emm.pairs.red$p.value
+        )
+      )
     emm <-
       emmeans(red, ~Age.3)
     emm.pairs.red <-
       summary(
-        contrast(emm,
-                 "pairwise"),
+        contrast(
+          emm,
+          "pairwise"
+        ),
         type = "response",
         adjust = "tukey"
       )
     emm.post.hoc.Age.3 <-
-      rbind(emm.post.hoc.Age.3,
-            data.frame(
-        term = emm.pairs.red$contrast,
-        odds.ratio = emm.pairs.red$odds.ratio,
-        se = emm.pairs.red$SE,
-        p.value = emm.pairs.red$p.value
-      ))
+      rbind(
+        emm.post.hoc.Age.3,
+        data.frame(
+          term = emm.pairs.red$contrast,
+          odds.ratio = emm.pairs.red$odds.ratio,
+          se = emm.pairs.red$SE,
+          p.value = emm.pairs.red$p.value
+        )
+      )
   }
   print(i)
 }
@@ -519,7 +540,8 @@ round(range(all.res$colliniarity.test.Age.3, na.rm = T), 10)
 
 # means of two-way interaction
 sum(all.res$test.2.way.Condition.Age.3.n.opt.warnings == 0,
-    na.rm = T)
+  na.rm = T
+)
 # Chisq
 round(mean(all.res$test.2.way.Condition.Age.3.Chisq, na.rm = T), 10)
 round(range(all.res$test.2.way.Condition.Age.3.Chisq, na.rm = T), 10)
@@ -638,15 +660,15 @@ emm.post.hoc.full$term <- paste(
   emm.post.hoc.full$Condition,
   emm.post.hoc.full$Age.3
 )
-mean.prob <- round(tapply(emm.post.hoc.full$prob,
+mean.prob <- round(tapply(emm.post.hoc.full$emmean,
   emm.post.hoc.full$term,
   FUN = mean
 ), 3)
-min.prob <- round(tapply(emm.post.hoc.full$prob,
+min.prob <- round(tapply(emm.post.hoc.full$emmean,
   emm.post.hoc.full$term,
   FUN = min
 ), 3)
-max.prob <- round(tapply(emm.post.hoc.full$prob,
+max.prob <- round(tapply(emm.post.hoc.full$emmean,
   emm.post.hoc.full$term,
   FUN = max
 ), 3)
@@ -685,7 +707,8 @@ xx <- data.frame(
   asymp.UCL = mean.CI.upper
 )
 pdf("./Study_2/Plots/Study_2_Estimates_and_CIs_Initial.pdf",
-    width = 8, height = 6)
+  width = 8, height = 6
+)
 p <- ggplot(
   xx,
   aes(
@@ -693,9 +716,12 @@ p <- ggplot(
     y = prob
   )
 ) +
-  geom_pointrange(aes(ymin = asymp.LCL,
-                      ymax = asymp.UCL),
-                  size = 1) +
+  geom_pointrange(aes(
+    ymin = asymp.LCL,
+    ymax = asymp.UCL
+  ),
+  size = 1
+  ) +
   facet_wrap(~Condition, nrow = 1) +
   xlab("") +
   ylab("predicted probability that\nparticipants judge belief possible")
