@@ -28,44 +28,51 @@ and how certain beliefs are constrained.
 The names of each folder are intended to be self-explanatory. There are
 eight components per study organize the inputs and outputs of this project:
 
-1.  [`Study 1 Codebooks`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Codebooks):
-    lists of variable names, labels, and value labels (where applicable).
-2.  [`Study 1 Data`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Data):
-    raw data stored in .csv files.
-3.  [`Study 1 Preregistration`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Preregistration):
-    a preregistration document that details the plans for this project.
-4.  [`Study 1 Scripts`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Scripts):
-    R-scripts that read, analyze, and produce all outputs.
-5.  [`Study 1 R_Images`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/R_Images):
-    R images containing all outputs stored as `.RData`
-6.  [`Study 1 Functions`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Functions):
-    All functions that are loaded within the scripts.
-7.  [`Study 1 Plots`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Plots):
-    Plots produced within scripts.
-8.  [`Study 1 Materials`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Materials):
-    Powerpoint slides used for testing.
+1.   [`Study 1 Codebooks`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Codebooks):
+     Lists of variable names, labels, and value labels (where applicable).
+2.   [`Study 1 Data`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Data):
+     Raw data stored in .csv files.
+3.   [`Study 1 Preregistration`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Preregistration):
+     A preregistration document that details the plans for this project.
+4.   [`Study 1 Scripts`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Scripts):
+     R-scripts that read, analyze, and produce all outputs.
+5.   [`Study 1 R_Images`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/R_Images):
+     R images containing all outputs stored as `.RData`
+6.   [`Study 1 Functions`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Functions):
+     All functions that are loaded within the scripts.
+7.   [`Study 1 Plots`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Plots):
+     Plots produced within scripts.
+8.   [`Study 1 Materials`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1/Materials):
+     Powerpoint slides used for testing.
     
-9.  [`Study 2 Codebooks`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Codebooks):
-    lists of variable names, labels, and value labels (where applicable).
+    
+9.   [`Study 2 Codebooks`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Codebooks):
+     Lists of variable names, labels, and value labels (where applicable).
 10.  [`Study 2 Data`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Data):
-    raw data stored in .csv files.
+     Raw data stored in .csv files.
 11.  [`Study 2 Preregistration`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Preregistration):
-    a preregistration document that details the plans for this project.
+     A preregistration document that details the plans for this project.
 12.  [`Study 2 Scripts`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Scripts):
-    R-scripts that read, analyze, and produce all outputs.
+     R-scripts that read, analyze, and produce all outputs.
 13.  [`Study 2 R_Images`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/R_Images):
      R images containing all outputs stored as `.RData`
 14.  [`Study 2 Functions`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Functions):
-    All functions that are loaded within the scripts.
+     All functions that are loaded within the scripts.
 15.  [`Study 2 Plots`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Plots):
-    Plots produced within scripts.
+     Plots produced within scripts.
 16.  [`Study 2 Materials`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_2/Materials):
-    Powerpoint slides used for testing.
+     Powerpoint slides used for testing.
+
+
+17.  [`Study 1 & Study 2 Scripts`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1_and_2_combined/Scripts):
+     R-scripts that read, analyze, and produce all outputs.
+18.  [`Study 1 & Study 2 R_Images`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Study_1_and_2_combined/R_Images):
+     R images containing all outputs stored as `.RData`
     
-17.  [`Manuscript`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Manuscript):
-    the manuscript accapted at the journal Child Development.
-18.  [`Supplement`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Supplement):
-    a supplemental text with additional information and materials.
+19.  [`Manuscript`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Manuscript):
+     The manuscript accapted at the journal Child Development.
+20.  [`Supplement`](https://github.com/HannaSchleihauf/Possible_Beliefs/tree/master/Supplement):
+     A supplemental text with additional information and materials.
 
 Further details of how to run the analyses can be found in the README.md within
 the individual studies. 
