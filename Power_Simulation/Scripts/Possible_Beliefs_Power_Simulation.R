@@ -34,6 +34,7 @@ n.condition <- 3 # number of conditions
 n.per.condition <- 3 # observations per subject and condition
 subj.id <-
   as.factor(paste("subj", 1:n.subject, sep = "."))
+
 start.data <-
   data.frame(subj.id)
 # duplicate rows according to the number obs. per subject:
@@ -134,7 +135,7 @@ range(apply(X = xx > 0, MARGIN = 1, sum)) # should be 3 and 3
 xx <- table(start.data$subj.id, start.data$trial)
 range(apply(X = xx > 0, MARGIN = 1, sum)) # should be 10 and 10
 
-n.simus <- 1000 # small number for testing
+n.simus <- 100 # small number for testing
 r.effects <-
   c(0.1, 0.2, 0.4)
 qlogis(per.no.evidence.4.5)
