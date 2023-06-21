@@ -149,7 +149,7 @@ round(test.2$drop1.res, 3)
 
 # belief condition comparisons
 library("emmeans")
-emm <- emmeans(full, ~ Condition * Age.3)
+emm <- emmeans(full, ~ Condition)
 summary(emm, type = "scale")
 summary(emm, type = "response")
 summary(pairs(emm), type = "response")

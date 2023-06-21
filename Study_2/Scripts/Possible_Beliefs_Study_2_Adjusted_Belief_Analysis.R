@@ -321,22 +321,21 @@ for (i in 1:(length(to.change.1))) { # i = 1
     emm.post.hoc.full <-
       rbind(
         emm.post.hoc.full,
-        as.data.frame(summary(emm, type = "scale"))
+        as.data.frame(summary(emm, type = "none"))
       )
     emm.post.hoc.full.cis <-
       rbind(
         emm.post.hoc.full.cis,
         as.data.frame(summary(emm,
-          type = "response"
+          type = "none"
         ))
       )
 
     emm.pairs.full <-
-      summary(contrast(emm, "pairwise")[c(
-        1, 2, 3, 6, 9, 11, 14, 18, 21, 22, 23, 24, 29, 33, 34, 35, 36
+      summary(contrast(emm, "pairwise")[c(18, 21, 33
       )],
       type = "response",
-      adjust = "sidak"
+      adjust = "none"
       )
   } else {
     all.res$full.warnings[i] <- "yes"
@@ -443,12 +442,12 @@ for (i in 1:(length(to.change.1))) { # i = 1
       emmeans(red, ~Condition)
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
     emm.post.hoc.Condition <-
       rbind(emm.post.hoc.Condition, data.frame(
         term = emm.pairs.red$contrast,
-        odds.ratio = emm.pairs.red$odds.ratio,
+        #odds.ratio = emm.pairs.red$odds.ratio,
         se = emm.pairs.red$SE,
         p.value = emm.pairs.red$p.value
       ))
@@ -456,7 +455,7 @@ for (i in 1:(length(to.change.1))) { # i = 1
       emmeans(red, ~Age.3)
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
     emm.post.hoc.Age.3 <-
       rbind(emm.post.hoc.Age.3, data.frame(
@@ -563,6 +562,19 @@ hist(all.res$test.main.Condition.Pr..Chisq,
   breaks = seq(from = 0, to = 1, by = 0.05)
 )
 
+# post-hoc full
+xx <- mapply(FUN = tapply, X = as.data.frame(emm.pairs.full$p.value),
+             MoreArgs = list(INDEX = emm.pairs.full$contrast, FUN = mean))
+round(xx, 3)
+
+# post-hoc red
+xx <- mapply(FUN = tapply, X = as.data.frame(emm.post.hoc.Condition$p.value),
+             MoreArgs = list(INDEX = emm.post.hoc.Condition$term, FUN = mean))
+round(xx, 3)
+xx <- mapply(FUN = tapply, X = as.data.frame(emm.post.hoc.Age.3$p.value),
+             MoreArgs = list(INDEX = emm.post.hoc.Age.3$term, FUN = mean))
+round(xx, 3)
+
 library("tidyselect")
 all.coefs <-
   all.res %>%
@@ -654,6 +666,8 @@ mean.CI.upper <-
   ), 3)
 cbind(min.CI, max.CI)
 cbind(mean.CI.lower, mean.CI.upper)
+
+
 
 
 ############################################################################

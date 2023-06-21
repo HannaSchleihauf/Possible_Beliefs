@@ -43,12 +43,8 @@ BO <- rbind(BO.1, BO.2)
 BO_belief <-
   subset(
     BO,
-    BO$Condition == "No Evidence" |
       BO$Condition == "Strong Evidence" |
-      BO$Condition == "Counter Evidence" |
-      BO$Condition == "Opinion" |
-      BO$Condition == "Moral" |
-      BO$Condition == "Immoral"
+      BO$Condition == "Moral"
   )
 str(BO_belief)
 BO_belief$Condition <-
@@ -56,7 +52,7 @@ BO_belief$Condition <-
 str(BO_belief)
 BO_belief$Condition <-
   relevel(as.factor(BO_belief$Condition),
-    ref = "No Evidence"
+    ref = "Strong Evidence"
   )
 
 ############################################################################
@@ -76,25 +72,12 @@ t.data <-
 str(t.data)
 
 # center and z-transform variables that are in the random slopes
-t.data$c.Condition.Counter.Evidence <-
-  as.numeric(t.data$Condition.Counter.Evidence) -
-  mean(as.numeric(t.data$Condition.Counter.Evidence))
-t.data$c.Condition.Strong.Evidence <-
-  as.numeric(t.data$Condition.Strong.Evidence) -
-  mean(as.numeric(t.data$Condition.Strong.Evidence))
 t.data$z.Trial <- scale(t.data$Trial)
 
 # center and z-transform variables that are in the random slopes
-t.data$c.Condition.Opinion <-
-  as.numeric(t.data$Condition.Opinion) -
-  mean(as.numeric(t.data$Condition.Opinion))
-t.data$c.Condition.Immoral <-
-  as.numeric(t.data$Condition.Immoral) -
-  mean(as.numeric(t.data$Condition.Immoral))
 t.data$c.Condition.Moral <-
   as.numeric(t.data$Condition.Moral) -
   mean(as.numeric(t.data$Condition.Moral))
-
 
 contr <- glmerControl(
   optimizer = "bobyqa",
@@ -104,11 +87,7 @@ contr <- glmerControl(
 full <-
   glmer(Answer ~
     Condition * Age.3 +
-    (1 + (c.Condition.Counter.Evidence +
-      c.Condition.Strong.Evidence
-      + c.Condition.Opinion +
-      c.Condition.Immoral +
-      c.Condition.Moral) +
+    (1 + (c.Condition.Moral) +
       z.Trial || ID),
   data = t.data,
   family = binomial,
@@ -139,11 +118,7 @@ test.1$drop1.res
 
 full.2 <- glmer(Answer ~
   Condition + Age.3 +
-  (1 + (c.Condition.Counter.Evidence +
-    c.Condition.Strong.Evidence +
-    c.Condition.Opinion +
-    c.Condition.Immoral +
-    c.Condition.Moral) +
+  (1 + (c.Condition.Moral) +
     z.Trial || ID),
 data = t.data,
 family = binomial,
@@ -158,31 +133,6 @@ round(test.2$drop1.res, 3)
 
 summary(full.2)$coefficients
 round(summary(full.2)$coefficients, 3)
-
-# age only
-ageonly <-
-  glmer(Answer ~ Age.3 +
-    (1 + (c.Condition.Counter.Evidence +
-      c.Condition.Strong.Evidence) +
-      z.Trial || ID),
-  data = t.data,
-  family = binomial,
-  control = contr
-  )
-
-# null model
-null <-
-  glmer(Answer ~ 1 +
-    (1 + (c.Condition.Counter.Evidence +
-      c.Condition.Strong.Evidence) +
-      z.Trial || ID),
-  data = t.data,
-  family = binomial,
-  control = contr
-  )
-
-anova(full, null, test = "Chisq")
-anova(full.2, null, test = "Chisq")
 
 # belief condition comparisons
 library("emmeans")
