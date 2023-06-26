@@ -586,7 +586,7 @@ for (i in 1:(length(to.change.1))) { # i=1
 
     emm.pairs.full <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
 
     # detect which pairwise comparisons  make sense
@@ -616,7 +616,7 @@ for (i in 1:(length(to.change.1))) { # i=1
 
     emm.pairs.of.interest <-
       summary(contrast(emm, "pairwise")[comparions.of.interest],
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
 
     emm.post.hoc.full_i.ap <-
@@ -689,7 +689,7 @@ for (i in 1:(length(to.change.1))) { # i=1
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
         type = "response",
-        adjust = "tukey"
+        adjust = "none"
       )
     emm.post.hoc.Condition_i.ap <-
       rbind(
@@ -707,7 +707,7 @@ for (i in 1:(length(to.change.1))) { # i=1
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
         type = "response",
-        adjust = "tukey"
+        adjust = "none"
       )
     emm.post.hoc.Age.3_i.ap <-
       rbind(
@@ -1071,7 +1071,7 @@ for (i in 1:(length(to.change.1))) { # i = 1
 
     emm.pairs.full <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
 
     # detect comparisons that make sense
@@ -1101,7 +1101,7 @@ for (i in 1:(length(to.change.1))) { # i = 1
 
     emm.pairs.of.interest <-
       summary(contrast(emm, "pairwise")[comparions.of.interest],
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
 
     emm.post.hoc.full_i.ip <-
@@ -1173,7 +1173,7 @@ for (i in 1:(length(to.change.1))) { # i = 1
       emmeans(red, ~Condition)
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
     emm.post.hoc.Condition_i.ip <-
       rbind(
@@ -1190,7 +1190,7 @@ for (i in 1:(length(to.change.1))) { # i = 1
       emmeans(red, ~Age.3)
     emm.pairs.red <-
       summary(contrast(emm, "pairwise"),
-        type = "response", adjust = "tukey"
+        type = "response", adjust = "none"
       )
     emm.post.hoc.Age.3_i.ip <-
       rbind(

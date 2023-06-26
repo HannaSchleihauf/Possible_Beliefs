@@ -1,1201 +1,1201 @@
-"","ID","Age.3","Stimuli","Trial","Gender","Condition","Answer"
-"1","061027 - GB - 1948","5-6 group","A",NA,"Female","Action Possible",1
-"2","061027 - GB - 1948","5-6 group","A",NA,"Female","Action Impossible",0
-"3","061027 - GB - 1948","5-6 group","A",NA,"Female","Action Impossible",0
-"4","061027 - GB - 1948","5-6 group","A",NA,"Female","Action Possible",1
-"5","061027 - GB - 1948","5-6 group","A",1,"Female","No Evidence",1
-"6","061027 - GB - 1948","5-6 group","A",2,"Female","No Evidence",1
-"7","061027 - GB - 1948","5-6 group","A",3,"Female","Strong Evidence",0
-"8","061027 - GB - 1948","5-6 group","A",4,"Female","Strong Evidence",0
-"9","061027 - GB - 1948","5-6 group","A",5,"Female","Counter Evidence",1
-"10","061027 - GB - 1948","5-6 group","A",6,"Female","Counter Evidence",1
-"11","051615 - NL - 1924","5-6 group","C",NA,"Female","Action Possible",1
-"12","051615 - NL - 1924","5-6 group","C",NA,"Female","Action Impossible",0
-"13","051615 - NL - 1924","5-6 group","C",NA,"Female","Action Impossible",0
-"14","051615 - NL - 1924","5-6 group","C",NA,"Female","Action Possible",1
-"15","051615 - NL - 1924","5-6 group","C",1,"Female","No Evidence",1
-"16","051615 - NL - 1924","5-6 group","C",2,"Female","No Evidence",1
-"17","051615 - NL - 1924","5-6 group","C",3,"Female","Strong Evidence",1
-"18","051615 - NL - 1924","5-6 group","C",4,"Female","Strong Evidence",1
-"19","051615 - NL - 1924","5-6 group","C",5,"Female","Counter Evidence",1
-"20","051615 - NL - 1924","5-6 group","C",6,"Female","Counter Evidence",1
-"21","100913 - BR - 2408","5-6 group","A",NA,"Female","Action Possible",1
-"22","100913 - BR - 2408","5-6 group","A",NA,"Female","Action Impossible",0
-"23","100913 - BR - 2408","5-6 group","A",NA,"Female","Action Impossible",0
-"24","100913 - BR - 2408","5-6 group","A",NA,"Female","Action Possible",1
-"25","100913 - BR - 2408","5-6 group","A",1,"Female","No Evidence",1
-"26","100913 - BR - 2408","5-6 group","A",2,"Female","No Evidence",1
-"27","100913 - BR - 2408","5-6 group","A",3,"Female","Strong Evidence",0
-"28","100913 - BR - 2408","5-6 group","A",4,"Female","Strong Evidence",0
-"29","100913 - BR - 2408","5-6 group","A",5,"Female","Counter Evidence",1
-"30","100913 - BR - 2408","5-6 group","A",6,"Female","Counter Evidence",1
-"31","061512 - LL - 2601","7-8 group","B",NA,"Male","Action Possible",1
-"32","061512 - LL - 2601","7-8 group","B",NA,"Male","Action Impossible",0
-"33","061512 - LL - 2601","7-8 group","B",NA,"Male","Action Impossible",0
-"34","061512 - LL - 2601","7-8 group","B",NA,"Male","Action Possible",1
-"35","061512 - LL - 2601","7-8 group","B",1,"Male","No Evidence",1
-"36","061512 - LL - 2601","7-8 group","B",2,"Male","No Evidence",1
-"37","061512 - LL - 2601","7-8 group","B",3,"Male","Strong Evidence",1
-"38","061512 - LL - 2601","7-8 group","B",4,"Male","Strong Evidence",1
-"39","061512 - LL - 2601","7-8 group","B",5,"Male","Counter Evidence",1
-"40","061512 - LL - 2601","7-8 group","B",6,"Male","Counter Evidence",1
-"41","082513 - KH - 535","7-8 group","C",NA,"Female","Action Possible",1
-"42","082513 - KH - 535","7-8 group","C",NA,"Female","Action Impossible",0
-"43","082513 - KH - 535","7-8 group","C",NA,"Female","Action Impossible",0
-"44","082513 - KH - 535","7-8 group","C",NA,"Female","Action Possible",1
-"45","082513 - KH - 535","7-8 group","C",1,"Female","No Evidence",1
-"46","082513 - KH - 535","7-8 group","C",2,"Female","No Evidence",1
-"47","082513 - KH - 535","7-8 group","C",3,"Female","Strong Evidence",1
-"48","082513 - KH - 535","7-8 group","C",4,"Female","Strong Evidence",0
-"49","082513 - KH - 535","7-8 group","C",5,"Female","Counter Evidence",1
-"50","082513 - KH - 535","7-8 group","C",6,"Female","Counter Evidence",1
-"51","010914 - LL - 1907","5-6 group","C",NA,"Male","Action Possible",1
-"52","010914 - LL - 1907","5-6 group","C",NA,"Male","Action Impossible",0
-"53","010914 - LL - 1907","5-6 group","C",NA,"Male","Action Impossible",0
-"54","010914 - LL - 1907","5-6 group","C",NA,"Male","Action Possible",1
-"55","010914 - LL - 1907","5-6 group","C",1,"Male","No Evidence",1
-"56","010914 - LL - 1907","5-6 group","C",2,"Male","No Evidence",1
-"57","010914 - LL - 1907","5-6 group","C",3,"Male","Strong Evidence",1
-"58","010914 - LL - 1907","5-6 group","C",4,"Male","Strong Evidence",0
-"59","010914 - LL - 1907","5-6 group","C",5,"Male","Counter Evidence",1
-"60","010914 - LL - 1907","5-6 group","C",6,"Male","Counter Evidence",1
-"61","010914 - AL - 1906","5-6 group","C",NA,"Male","Action Possible",1
-"62","010914 - AL - 1906","5-6 group","C",NA,"Male","Action Impossible",0
-"63","010914 - AL - 1906","5-6 group","C",NA,"Male","Action Impossible",0
-"64","010914 - AL - 1906","5-6 group","C",NA,"Male","Action Possible",1
-"65","010914 - AL - 1906","5-6 group","C",1,"Male","No Evidence",1
-"66","010914 - AL - 1906","5-6 group","C",2,"Male","No Evidence",1
-"67","010914 - AL - 1906","5-6 group","C",3,"Male","Strong Evidence",1
-"68","010914 - AL - 1906","5-6 group","C",4,"Male","Strong Evidence",0
-"69","010914 - AL - 1906","5-6 group","C",5,"Male","Counter Evidence",1
-"70","010914 - AL - 1906","5-6 group","C",6,"Male","Counter Evidence",1
-"71","031612 - JB - 245","7-8 group","B",NA,"Male","Action Possible",1
-"72","031612 - JB - 245","7-8 group","B",NA,"Male","Action Impossible",0
-"73","031612 - JB - 245","7-8 group","B",NA,"Male","Action Impossible",0
-"74","031612 - JB - 245","7-8 group","B",NA,"Male","Action Possible",1
-"75","031612 - JB - 245","7-8 group","B",1,"Male","No Evidence",1
-"76","031612 - JB - 245","7-8 group","B",2,"Male","No Evidence",1
-"77","031612 - JB - 245","7-8 group","B",3,"Male","Strong Evidence",0
-"78","031612 - JB - 245","7-8 group","B",4,"Male","Strong Evidence",0
-"79","031612 - JB - 245","7-8 group","B",5,"Male","Counter Evidence",1
-"80","031612 - JB - 245","7-8 group","B",6,"Male","Counter Evidence",1
-"81","100913 - GB - 244","5-6 group","B",NA,"Female","Action Possible",1
-"82","100913 - GB - 244","5-6 group","B",NA,"Female","Action Impossible",0
-"83","100913 - GB - 244","5-6 group","B",NA,"Female","Action Impossible",0
-"84","100913 - GB - 244","5-6 group","B",NA,"Female","Action Possible",1
-"85","100913 - GB - 244","5-6 group","B",1,"Female","No Evidence",1
-"86","100913 - GB - 244","5-6 group","B",2,"Female","No Evidence",1
-"87","100913 - GB - 244","5-6 group","B",3,"Female","Strong Evidence",0
-"88","100913 - GB - 244","5-6 group","B",4,"Female","Strong Evidence",1
-"89","100913 - GB - 244","5-6 group","B",5,"Female","Counter Evidence",1
-"90","100913 - GB - 244","5-6 group","B",6,"Female","Counter Evidence",1
-"91","042314 - DA - 1116","5-6 group","B",NA,"Male","Action Possible",1
-"92","042314 - DA - 1116","5-6 group","B",NA,"Male","Action Impossible",0
-"93","042314 - DA - 1116","5-6 group","B",NA,"Male","Action Impossible",0
-"94","042314 - DA - 1116","5-6 group","B",NA,"Male","Action Possible",1
-"95","042314 - DA - 1116","5-6 group","B",1,"Male","No Evidence",1
-"96","042314 - DA - 1116","5-6 group","B",2,"Male","No Evidence",1
-"97","042314 - DA - 1116","5-6 group","B",3,"Male","Strong Evidence",0
-"98","042314 - DA - 1116","5-6 group","B",4,"Male","Strong Evidence",1
-"99","042314 - DA - 1116","5-6 group","B",5,"Male","Counter Evidence",1
-"100","042314 - DA - 1116","5-6 group","B",6,"Male","Counter Evidence",1
-"101","062414 - IT - 200","5-6 group","C",NA,"Female","Action Possible",1
-"102","062414 - IT - 200","5-6 group","C",NA,"Female","Action Impossible",0
-"103","062414 - IT - 200","5-6 group","C",NA,"Female","Action Impossible",0
-"104","062414 - IT - 200","5-6 group","C",NA,"Female","Action Possible",1
-"105","062414 - IT - 200","5-6 group","C",1,"Female","No Evidence",1
-"106","062414 - IT - 200","5-6 group","C",2,"Female","No Evidence",1
-"107","062414 - IT - 200","5-6 group","C",3,"Female","Strong Evidence",1
-"108","062414 - IT - 200","5-6 group","C",4,"Female","Strong Evidence",1
-"109","062414 - IT - 200","5-6 group","C",5,"Female","Counter Evidence",1
-"110","062414 - IT - 200","5-6 group","C",6,"Female","Counter Evidence",1
-"111","20213 - MH - 375","7-8 group","B",NA,"Female","Action Possible",1
-"112","20214 - MH - 375","7-8 group","B",NA,"Female","Action Impossible",0
-"113","20215 - MH - 375","7-8 group","B",NA,"Female","Action Impossible",0
-"114","20216 - MH - 375","7-8 group","B",NA,"Female","Action Possible",1
-"115","20217 - MH - 375","7-8 group","B",1,"Female","No Evidence",1
-"116","20218 - MH - 375","7-8 group","B",2,"Female","No Evidence",0
-"117","20219 - MH - 375","7-8 group","B",3,"Female","Strong Evidence",0
-"118","20220 - MH - 375","7-8 group","B",4,"Female","Strong Evidence",1
-"119","20221 - MH - 375","7-8 group","B",5,"Female","Counter Evidence",1
-"120","20222 - MH - 375","7-8 group","B",6,"Female","Counter Evidence",0
-"121","112613 - LD - 297","5-6 group","C",NA,"Female","Action Possible",1
-"122","112613 - LD - 297","5-6 group","C",NA,"Female","Action Impossible",0
-"123","112613 - LD - 297","5-6 group","C",NA,"Female","Action Impossible",0
-"124","112613 - LD - 297","5-6 group","C",NA,"Female","Action Possible",1
-"125","112613 - LD - 297","5-6 group","C",1,"Female","No Evidence",1
-"126","112613 - LD - 297","5-6 group","C",2,"Female","No Evidence",1
-"127","112613 - LD - 297","5-6 group","C",3,"Female","Strong Evidence",0
-"128","112613 - LD - 297","5-6 group","C",4,"Female","Strong Evidence",1
-"129","112613 - LD - 297","5-6 group","C",5,"Female","Counter Evidence",1
-"130","112613 - LD - 297","5-6 group","C",6,"Female","Counter Evidence",1
-"131","073112 - BJ - 162","7-8 group","C",NA,"Female","Action Possible",1
-"132","073112 - BJ - 162","7-8 group","C",NA,"Female","Action Impossible",0
-"133","073112 - BJ - 162","7-8 group","C",NA,"Female","Action Impossible",0
-"134","073112 - BJ - 162","7-8 group","C",NA,"Female","Action Possible",1
-"135","073112 - BJ - 162","7-8 group","C",1,"Female","No Evidence",1
-"136","073112 - BJ - 162","7-8 group","C",2,"Female","No Evidence",1
-"137","073112 - BJ - 162","7-8 group","C",3,"Female","Strong Evidence",0
-"138","073112 - BJ - 162","7-8 group","C",4,"Female","Strong Evidence",0
-"139","073112 - BJ - 162","7-8 group","C",5,"Female","Counter Evidence",1
-"140","073112 - BJ - 162","7-8 group","C",6,"Female","Counter Evidence",1
-"141","062715 - YM - 1190","5-6 group","A",NA,"Female","Action Possible",1
-"142","062715 - YM - 1190","5-6 group","A",NA,"Female","Action Impossible",0
-"143","062715 - YM - 1190","5-6 group","A",NA,"Female","Action Impossible",0
-"144","062715 - YM - 1190","5-6 group","A",NA,"Female","Action Possible",1
-"145","062715 - YM - 1190","5-6 group","A",1,"Female","No Evidence",0
-"146","062715 - YM - 1190","5-6 group","A",2,"Female","No Evidence",1
-"147","062715 - YM - 1190","5-6 group","A",3,"Female","Strong Evidence",0
-"148","062715 - YM - 1190","5-6 group","A",4,"Female","Strong Evidence",0
-"149","062715 - YM - 1190","5-6 group","A",5,"Female","Counter Evidence",1
-"150","062715 - YM - 1190","5-6 group","A",6,"Female","Counter Evidence",1
-"151","090514 - WE - 768","5-6 group","A",NA,"Male","Action Possible",1
-"152","090514 - WE - 768","5-6 group","A",NA,"Male","Action Impossible",0
-"153","090514 - WE - 768","5-6 group","A",NA,"Male","Action Impossible",0
-"154","090514 - WE - 768","5-6 group","A",NA,"Male","Action Possible",1
-"155","090514 - WE - 768","5-6 group","A",1,"Male","No Evidence",1
-"156","090514 - WE - 768","5-6 group","A",2,"Male","No Evidence",0
-"157","090514 - WE - 768","5-6 group","A",3,"Male","Strong Evidence",0
-"158","090514 - WE - 768","5-6 group","A",4,"Male","Strong Evidence",0
-"159","090514 - WE - 768","5-6 group","A",5,"Male","Counter Evidence",1
-"160","090514 - WE - 768","5-6 group","A",6,"Male","Counter Evidence",1
-"161","090315 - LH - 744","5-6 group","A",NA,"Female","Action Possible",1
-"162","090315 - LH - 744","5-6 group","A",NA,"Female","Action Impossible",0
-"163","090315 - LH - 744","5-6 group","A",NA,"Female","Action Impossible",0
-"164","090315 - LH - 744","5-6 group","A",NA,"Female","Action Possible",1
-"165","090315 - LH - 744","5-6 group","A",1,"Female","No Evidence",1
-"166","090315 - LH - 744","5-6 group","A",2,"Female","No Evidence",1
-"167","090315 - LH - 744","5-6 group","A",3,"Female","Strong Evidence",1
-"168","090315 - LH - 744","5-6 group","A",4,"Female","Strong Evidence",0
-"169","090315 - LH - 744","5-6 group","A",5,"Female","Counter Evidence",1
-"170","090315 - LH - 744","5-6 group","A",6,"Female","Counter Evidence",1
-"171","082912 - JK - 1146","7-8 group","A",NA,"Male","Action Possible",1
-"172","082912 - JK - 1146","7-8 group","A",NA,"Male","Action Impossible",0
-"173","082912 - JK - 1146","7-8 group","A",NA,"Male","Action Impossible",0
-"174","082912 - JK - 1146","7-8 group","A",NA,"Male","Action Possible",1
-"175","082912 - JK - 1146","7-8 group","A",1,"Male","No Evidence",1
-"176","082912 - JK - 1146","7-8 group","A",2,"Male","No Evidence",1
-"177","082912 - JK - 1146","7-8 group","A",3,"Male","Strong Evidence",1
-"178","082912 - JK - 1146","7-8 group","A",4,"Male","Strong Evidence",1
-"179","082912 - JK - 1146","7-8 group","A",5,"Male","Counter Evidence",1
-"180","082912 - JK - 1146","7-8 group","A",6,"Male","Counter Evidence",1
-"181","082912 - AK - 1147","7-8 group","A",NA,"Male","Action Possible",1
-"182","082912 - AK - 1147","7-8 group","A",NA,"Male","Action Impossible",0
-"183","082912 - AK - 1147","7-8 group","A",NA,"Male","Action Impossible",0
-"184","082912 - AK - 1147","7-8 group","A",NA,"Male","Action Possible",1
-"185","082912 - AK - 1147","7-8 group","A",1,"Male","No Evidence",1
-"186","082912 - AK - 1147","7-8 group","A",2,"Male","No Evidence",1
-"187","082912 - AK - 1147","7-8 group","A",3,"Male","Strong Evidence",1
-"188","082912 - AK - 1147","7-8 group","A",4,"Male","Strong Evidence",0
-"189","082912 - AK - 1147","7-8 group","A",5,"Male","Counter Evidence",1
-"190","082912 - AK - 1147","7-8 group","A",6,"Male","Counter Evidence",1
-"191","030514 - KM - 55","5-6 group","B",NA,"Female","Action Possible",1
-"192","030514 - KM - 55","5-6 group","B",NA,"Female","Action Impossible",0
-"193","030514 - KM - 55","5-6 group","B",NA,"Female","Action Impossible",0
-"194","030514 - KM - 55","5-6 group","B",NA,"Female","Action Possible",1
-"195","030514 - KM - 55","5-6 group","B",1,"Female","No Evidence",1
-"196","030514 - KM - 55","5-6 group","B",2,"Female","No Evidence",1
-"197","030514 - KM - 55","5-6 group","B",3,"Female","Strong Evidence",0
-"198","030514 - KM - 55","5-6 group","B",4,"Female","Strong Evidence",0
-"199","030514 - KM - 55","5-6 group","B",5,"Female","Counter Evidence",1
-"200","030514 - KM - 55","5-6 group","B",6,"Female","Counter Evidence",1
-"201","031413 - SM - 1188","7-8 group","A",NA,"Male","Action Possible",1
-"202","031413 - SM - 1188","7-8 group","A",NA,"Male","Action Impossible",0
-"203","031413 - SM - 1188","7-8 group","A",NA,"Male","Action Impossible",0
-"204","031413 - SM - 1188","7-8 group","A",NA,"Male","Action Possible",1
-"205","031413 - SM - 1188","7-8 group","A",1,"Male","No Evidence",1
-"206","031413 - SM - 1188","7-8 group","A",2,"Male","No Evidence",1
-"207","031413 - SM - 1188","7-8 group","A",3,"Male","Strong Evidence",1
-"208","031413 - SM - 1188","7-8 group","A",4,"Male","Strong Evidence",0
-"209","031413 - SM - 1188","7-8 group","A",5,"Male","Counter Evidence",1
-"210","031413 - SM - 1188","7-8 group","A",6,"Male","Counter Evidence",1
-"211","062412 - RM - 295","7-8 group","A",NA,"Female","Action Possible",1
-"212","062412 - RM - 295","7-8 group","A",NA,"Female","Action Impossible",0
-"213","062412 - RM - 295","7-8 group","A",NA,"Female","Action Impossible",0
-"214","062412 - RM - 295","7-8 group","A",NA,"Female","Action Possible",1
-"215","062412 - RM - 295","7-8 group","A",1,"Female","No Evidence",1
-"216","062412 - RM - 295","7-8 group","A",2,"Female","No Evidence",1
-"217","062412 - RM - 295","7-8 group","A",3,"Female","Strong Evidence",0
-"218","062412 - RM - 295","7-8 group","A",4,"Female","Strong Evidence",0
-"219","062412 - RM - 295","7-8 group","A",5,"Female","Counter Evidence",1
-"220","062412 - RM - 295","7-8 group","A",6,"Female","Counter Evidence",1
-"221","072315 - SS - 1446","5-6 group","A",NA,"Male","Action Possible",1
-"222","072315 - SS - 1446","5-6 group","A",NA,"Male","Action Impossible",0
-"223","072315 - SS - 1446","5-6 group","A",NA,"Male","Action Impossible",0
-"224","072315 - SS - 1446","5-6 group","A",NA,"Male","Action Possible",1
-"225","072315 - SS - 1446","5-6 group","A",1,"Male","No Evidence",1
-"226","072315 - SS - 1446","5-6 group","A",2,"Male","No Evidence",0
-"227","072315 - SS - 1446","5-6 group","A",3,"Male","Strong Evidence",1
-"228","072315 - SS - 1446","5-6 group","A",4,"Male","Strong Evidence",0
-"229","072315 - SS - 1446","5-6 group","A",5,"Male","Counter Evidence",1
-"230","072315 - SS - 1446","5-6 group","A",6,"Male","Counter Evidence",1
-"231","080113 - WS - 1447","7-8 group","A",NA,"Male","Action Possible",1
-"232","080113 - WS - 1447","7-8 group","A",NA,"Male","Action Impossible",0
-"233","080113 - WS - 1447","7-8 group","A",NA,"Male","Action Impossible",0
-"234","080113 - WS - 1447","7-8 group","A",NA,"Male","Action Possible",1
-"235","080113 - WS - 1447","7-8 group","A",1,"Male","No Evidence",1
-"236","080113 - WS - 1447","7-8 group","A",2,"Male","No Evidence",1
-"237","080113 - WS - 1447","7-8 group","A",3,"Male","Strong Evidence",0
-"238","080113 - WS - 1447","7-8 group","A",4,"Male","Strong Evidence",0
-"239","080113 - WS - 1447","7-8 group","A",5,"Male","Counter Evidence",1
-"240","080113 - WS - 1447","7-8 group","A",6,"Male","Counter Evidence",1
-"241","022512 - IRW - 408","7-8 group","B",NA,"Female","Action Possible",1
-"242","022512 - IRW - 408","7-8 group","B",NA,"Female","Action Impossible",0
-"243","022512 - IRW - 408","7-8 group","B",NA,"Female","Action Impossible",0
-"244","022512 - IRW - 408","7-8 group","B",NA,"Female","Action Possible",1
-"245","022512 - IRW - 408","7-8 group","B",1,"Female","No Evidence",1
-"246","022512 - IRW - 408","7-8 group","B",2,"Female","No Evidence",1
-"247","022512 - IRW - 408","7-8 group","B",3,"Female","Strong Evidence",1
-"248","022512 - IRW - 408","7-8 group","B",4,"Female","Strong Evidence",1
-"249","022512 - IRW - 408","7-8 group","B",5,"Female","Counter Evidence",1
-"250","022512 - IRW - 408","7-8 group","B",6,"Female","Counter Evidence",1
-"251","062114 - RW - 2001","5-6 group","B",NA,"Female","Action Possible",1
-"252","062114 - RW - 2001","5-6 group","B",NA,"Female","Action Impossible",0
-"253","062114 - RW - 2001","5-6 group","B",NA,"Female","Action Impossible",0
-"254","062114 - RW - 2001","5-6 group","B",NA,"Female","Action Possible",1
-"255","062114 - RW - 2001","5-6 group","B",1,"Female","No Evidence",1
-"256","062114 - RW - 2001","5-6 group","B",2,"Female","No Evidence",1
-"257","062114 - RW - 2001","5-6 group","B",3,"Female","Strong Evidence",1
-"258","062114 - RW - 2001","5-6 group","B",4,"Female","Strong Evidence",1
-"259","062114 - RW - 2001","5-6 group","B",5,"Female","Counter Evidence",1
-"260","062114 - RW - 2001","5-6 group","B",6,"Female","Counter Evidence",1
-"261","052914 - FHLY - 90","5-6 group","B",NA,"Female","Action Possible",1
-"262","052914 - FHLY - 90","5-6 group","B",NA,"Female","Action Impossible",0
-"263","052914 - FHLY - 90","5-6 group","B",NA,"Female","Action Impossible",0
-"264","052914 - FHLY - 90","5-6 group","B",NA,"Female","Action Possible",1
-"265","052914 - FHLY - 90","5-6 group","B",1,"Female","No Evidence",1
-"266","052914 - FHLY - 90","5-6 group","B",2,"Female","No Evidence",1
-"267","052914 - FHLY - 90","5-6 group","B",3,"Female","Strong Evidence",1
-"268","052914 - FHLY - 90","5-6 group","B",4,"Female","Strong Evidence",1
-"269","052914 - FHLY - 90","5-6 group","B",5,"Female","Counter Evidence",1
-"270","052914 - FHLY - 90","5-6 group","B",6,"Female","Counter Evidence",1
-"271","092912 - GW - 2476","7-8 group","C",NA,"Male","Action Possible",1
-"272","092912 - GW - 2476","7-8 group","C",NA,"Male","Action Impossible",0
-"273","092912 - GW - 2476","7-8 group","C",NA,"Male","Action Impossible",0
-"274","092912 - GW - 2476","7-8 group","C",NA,"Male","Action Possible",1
-"275","092912 - GW - 2476","7-8 group","C",1,"Male","No Evidence",1
-"276","092912 - GW - 2476","7-8 group","C",2,"Male","No Evidence",1
-"277","092912 - GW - 2476","7-8 group","C",3,"Male","Strong Evidence",0
-"278","092912 - GW - 2476","7-8 group","C",4,"Male","Strong Evidence",0
-"279","092912 - GW - 2476","7-8 group","C",5,"Male","Counter Evidence",1
-"280","092912 - GW - 2476","7-8 group","C",6,"Male","Counter Evidence",1
-"281","041814 - FC - 1672","5-6 group","A",NA,"Male","Action Possible",1
-"282","041814 - FC - 1672","5-6 group","A",NA,"Male","Action Impossible",0
-"283","041814 - FC - 1672","5-6 group","A",NA,"Male","Action Impossible",0
-"284","041814 - FC - 1672","5-6 group","A",NA,"Male","Action Possible",1
-"285","041814 - FC - 1672","5-6 group","A",1,"Male","No Evidence",1
-"286","041814 - FC - 1672","5-6 group","A",2,"Male","No Evidence",1
-"287","041814 - FC - 1672","5-6 group","A",3,"Male","Strong Evidence",0
-"288","041814 - FC - 1672","5-6 group","A",4,"Male","Strong Evidence",0
-"289","041814 - FC - 1672","5-6 group","A",5,"Male","Counter Evidence",1
-"290","041814 - FC - 1672","5-6 group","A",6,"Male","Counter Evidence",1
-"291","030112 - CL - 417","7-8 group","B",NA,"Female","Action Possible",1
-"292","030112 - CL - 417","7-8 group","B",NA,"Female","Action Impossible",0
-"293","030112 - CL - 417","7-8 group","B",NA,"Female","Action Impossible",0
-"294","030112 - CL - 417","7-8 group","B",NA,"Female","Action Possible",1
-"295","030112 - CL - 417","7-8 group","B",1,"Female","No Evidence",1
-"296","030112 - CL - 417","7-8 group","B",2,"Female","No Evidence",1
-"297","030112 - CL - 417","7-8 group","B",3,"Female","Strong Evidence",1
-"298","030112 - CL - 417","7-8 group","B",4,"Female","Strong Evidence",1
-"299","030112 - CL - 417","7-8 group","B",5,"Female","Counter Evidence",1
-"300","030112 - CL - 417","7-8 group","B",6,"Female","Counter Evidence",1
-"301","033114 - TH - 121","5-6 group","A",NA,"Male","Action Possible",1
-"302","033114 - TH - 121","5-6 group","A",NA,"Male","Action Impossible",0
-"303","033114 - TH - 121","5-6 group","A",NA,"Male","Action Impossible",0
-"304","033114 - TH - 121","5-6 group","A",NA,"Male","Action Possible",1
-"305","033114 - TH - 121","5-6 group","A",1,"Male","No Evidence",1
-"306","033114 - TH - 121","5-6 group","A",2,"Male","No Evidence",1
-"307","033114 - TH - 121","5-6 group","A",3,"Male","Strong Evidence",1
-"308","033114 - TH - 121","5-6 group","A",4,"Male","Strong Evidence",0
-"309","033114 - TH - 121","5-6 group","A",5,"Male","Counter Evidence",1
-"310","033114 - TH - 121","5-6 group","A",6,"Male","Counter Evidence",1
-"311","050413 - TK - 277","7-8 group","B",NA,"Male","Action Possible",1
-"312","050413 - TK - 277","7-8 group","B",NA,"Male","Action Impossible",0
-"313","050413 - TK - 277","7-8 group","B",NA,"Male","Action Impossible",0
-"314","050413 - TK - 277","7-8 group","B",NA,"Male","Action Possible",1
-"315","050413 - TK - 277","7-8 group","B",1,"Male","No Evidence",1
-"316","050413 - TK - 277","7-8 group","B",2,"Male","No Evidence",1
-"317","050413 - TK - 277","7-8 group","B",3,"Male","Strong Evidence",1
-"318","050413 - TK - 277","7-8 group","B",4,"Male","Strong Evidence",1
-"319","050413 - TK - 277","7-8 group","B",5,"Male","Counter Evidence",1
-"320","050413 - TK - 277","7-8 group","B",6,"Male","Counter Evidence",1
-"321","053115 - TC - 2867","5-6 group","B",NA,"Female","Action Possible",1
-"322","053115 - TC - 2867","5-6 group","B",NA,"Female","Action Impossible",0
-"323","053115 - TC - 2867","5-6 group","B",NA,"Female","Action Impossible",0
-"324","053115 - TC - 2867","5-6 group","B",NA,"Female","Action Possible",1
-"325","053115 - TC - 2867","5-6 group","B",1,"Female","No Evidence",1
-"326","053115 - TC - 2867","5-6 group","B",2,"Female","No Evidence",1
-"327","053115 - TC - 2867","5-6 group","B",3,"Female","Strong Evidence",1
-"328","053115 - TC - 2867","5-6 group","B",4,"Female","Strong Evidence",1
-"329","053115 - TC - 2867","5-6 group","B",5,"Female","Counter Evidence",1
-"330","053115 - TC - 2867","5-6 group","B",6,"Female","Counter Evidence",1
-"331","091312 - MP - 930","7-8 group","A",NA,"Female","Action Possible",1
-"332","091312 - MP - 930","7-8 group","A",NA,"Female","Action Impossible",0
-"333","091312 - MP - 930","7-8 group","A",NA,"Female","Action Impossible",0
-"334","091312 - MP - 930","7-8 group","A",NA,"Female","Action Possible",1
-"335","091312 - MP - 930","7-8 group","A",1,"Female","No Evidence",1
-"336","091312 - MP - 930","7-8 group","A",2,"Female","No Evidence",1
-"337","091312 - MP - 930","7-8 group","A",3,"Female","Strong Evidence",0
-"338","091312 - MP - 930","7-8 group","A",4,"Female","Strong Evidence",0
-"339","091312 - MP - 930","7-8 group","A",5,"Female","Counter Evidence",1
-"340","091312 - MP - 930","7-8 group","A",6,"Female","Counter Evidence",1
-"341","032612 - JT - 410","7-8 group","B",NA,"Female","Action Possible",1
-"342","032612 - JT - 410","7-8 group","B",NA,"Female","Action Impossible",0
-"343","032612 - JT - 410","7-8 group","B",NA,"Female","Action Impossible",1
-"344","032612 - JT - 410","7-8 group","B",NA,"Female","Action Possible",1
-"345","032612 - JT - 410","7-8 group","B",1,"Female","No Evidence",0
-"346","032612 - JT - 410","7-8 group","B",2,"Female","No Evidence",0
-"347","032612 - JT - 410","7-8 group","B",3,"Female","Strong Evidence",0
-"348","032612 - JT - 410","7-8 group","B",4,"Female","Strong Evidence",NA
-"349","032612 - JT - 410","7-8 group","B",5,"Female","Counter Evidence",NA
-"350","032612 - JT - 410","7-8 group","B",6,"Female","Counter Evidence",1
-"351","010715 - IT - 411","5-6 group","B",NA,"Female","Action Possible",1
-"352","010715 - IT - 411","5-6 group","B",NA,"Female","Action Impossible",1
-"353","010715 - IT - 411","5-6 group","B",NA,"Female","Action Impossible",1
-"354","010715 - IT - 411","5-6 group","B",NA,"Female","Action Possible",1
-"355","010715 - IT - 411","5-6 group","B",1,"Female","No Evidence",1
-"356","010715 - IT - 411","5-6 group","B",2,"Female","No Evidence",0
-"357","010715 - IT - 411","5-6 group","B",3,"Female","Strong Evidence",0
-"358","010715 - IT - 411","5-6 group","B",4,"Female","Strong Evidence",1
-"359","010715 - IT - 411","5-6 group","B",5,"Female","Counter Evidence",1
-"360","010715 - IT - 411","5-6 group","B",6,"Female","Counter Evidence",1
-"361","101314 - VM - 2511","5-6 group","C",NA,"Female","Action Possible",1
-"362","101314 - VM - 2511","5-6 group","C",NA,"Female","Action Impossible",1
-"363","101314 - VM - 2511","5-6 group","C",NA,"Female","Action Impossible",0
-"364","101314 - VM - 2511","5-6 group","C",NA,"Female","Action Possible",1
-"365","101314 - VM - 2511","5-6 group","C",1,"Female","No Evidence",1
-"366","101314 - VM - 2511","5-6 group","C",2,"Female","No Evidence",1
-"367","101314 - VM - 2511","5-6 group","C",3,"Female","Strong Evidence",0
-"368","101314 - VM - 2511","5-6 group","C",4,"Female","Strong Evidence",0
-"369","101314 - VM - 2511","5-6 group","C",5,"Female","Counter Evidence",1
-"370","101314 - VM - 2511","5-6 group","C",6,"Female","Counter Evidence",1
-"371","010715 - AR - 1751","5-6 group","B",NA,"Male","Action Possible",1
-"372","010715 - AR - 1751","5-6 group","B",NA,"Male","Action Impossible",1
-"373","010715 - AR - 1751","5-6 group","B",NA,"Male","Action Impossible",0
-"374","010715 - AR - 1751","5-6 group","B",NA,"Male","Action Possible",1
-"375","010715 - AR - 1751","5-6 group","B",1,"Male","No Evidence",1
-"376","010715 - AR - 1751","5-6 group","B",2,"Male","No Evidence",1
-"377","010715 - AR - 1751","5-6 group","B",3,"Male","Strong Evidence",0
-"378","010715 - AR - 1751","5-6 group","B",4,"Male","Strong Evidence",1
-"379","010715 - AR - 1751","5-6 group","B",5,"Male","Counter Evidence",1
-"380","010715 - AR - 1751","5-6 group","B",6,"Male","Counter Evidence",0
-"381","120514 - AEY - 1726","5-6 group","B",NA,"Female","Action Possible",1
-"382","120514 - AEY - 1726","5-6 group","B",NA,"Female","Action Impossible",0
-"383","120514 - AEY - 1726","5-6 group","B",NA,"Female","Action Impossible",0
-"384","120514 - AEY - 1726","5-6 group","B",NA,"Female","Action Possible",1
-"385","120514 - AEY - 1726","5-6 group","B",1,"Female","No Evidence",1
-"386","120514 - AEY - 1726","5-6 group","B",2,"Female","No Evidence",1
-"387","120514 - AEY - 1726","5-6 group","B",3,"Female","Strong Evidence",0
-"388","120514 - AEY - 1726","5-6 group","B",4,"Female","Strong Evidence",0
-"389","120514 - AEY - 1726","5-6 group","B",5,"Female","Counter Evidence",1
-"390","120514 - AEY - 1726","5-6 group","B",6,"Female","Counter Evidence",1
-"391","071014 - OM - 2330","5-6 group","C",NA,"Male","Action Possible",1
-"392","071014 - OM - 2330","5-6 group","C",NA,"Male","Action Impossible",0
-"393","071014 - OM - 2330","5-6 group","C",NA,"Male","Action Impossible",0
-"394","071014 - OM - 2330","5-6 group","C",NA,"Male","Action Possible",1
-"395","071014 - OM - 2330","5-6 group","C",1,"Male","No Evidence",1
-"396","071014 - OM - 2330","5-6 group","C",2,"Male","No Evidence",1
-"397","071014 - OM - 2330","5-6 group","C",3,"Male","Strong Evidence",0
-"398","071014 - OM - 2330","5-6 group","C",4,"Male","Strong Evidence",0
-"399","071014 - OM - 2330","5-6 group","C",5,"Male","Counter Evidence",1
-"400","071014 - OM - 2330","5-6 group","C",6,"Male","Counter Evidence",1
-"401","092914 - CO - 3603","5-6 group","B",NA,"Male","Action Possible",1
-"402","092914 - CO - 3603","5-6 group","B",NA,"Male","Action Impossible",0
-"403","092914 - CO - 3603","5-6 group","B",NA,"Male","Action Impossible",0
-"404","092914 - CO - 3603","5-6 group","B",NA,"Male","Action Possible",1
-"405","092914 - CO - 3603","5-6 group","B",1,"Male","No Evidence",1
-"406","092914 - CO - 3603","5-6 group","B",2,"Male","No Evidence",1
-"407","092914 - CO - 3603","5-6 group","B",3,"Male","Strong Evidence",1
-"408","092914 - CO - 3603","5-6 group","B",4,"Male","Strong Evidence",1
-"409","092914 - CO - 3603","5-6 group","B",5,"Male","Counter Evidence",1
-"410","092914 - CO - 3603","5-6 group","B",6,"Male","Counter Evidence",1
-"411","011112 - OM - 3088","7-8 group","C",NA,"Female","Action Possible",1
-"412","011112 - OM - 3088","7-8 group","C",NA,"Female","Action Impossible",1
-"413","011112 - OM - 3088","7-8 group","C",NA,"Female","Action Impossible",0
-"414","011112 - OM - 3088","7-8 group","C",NA,"Female","Action Possible",1
-"415","011112 - OM - 3088","7-8 group","C",1,"Female","No Evidence",1
-"416","011112 - OM - 3088","7-8 group","C",2,"Female","No Evidence",1
-"417","011112 - OM - 3088","7-8 group","C",3,"Female","Strong Evidence",0
-"418","011112 - OM - 3088","7-8 group","C",4,"Female","Strong Evidence",0
-"419","011112 - OM - 3088","7-8 group","C",5,"Female","Counter Evidence",1
-"420","011112 - OM - 3088","7-8 group","C",6,"Female","Counter Evidence",1
-"421","010214 - MM - 3087","5-6 group","C",NA,"Female","Action Possible",1
-"422","010214 - MM - 3087","5-6 group","C",NA,"Female","Action Impossible",0
-"423","010214 - MM - 3087","5-6 group","C",NA,"Female","Action Impossible",0
-"424","010214 - MM - 3087","5-6 group","C",NA,"Female","Action Possible",1
-"425","010214 - MM - 3087","5-6 group","C",1,"Female","No Evidence",1
-"426","010214 - MM - 3087","5-6 group","C",2,"Female","No Evidence",1
-"427","010214 - MM - 3087","5-6 group","C",3,"Female","Strong Evidence",1
-"428","010214 - MM - 3087","5-6 group","C",4,"Female","Strong Evidence",0
-"429","010214 - MM - 3087","5-6 group","C",5,"Female","Counter Evidence",1
-"430","010214 - MM - 3087","5-6 group","C",6,"Female","Counter Evidence",1
-"431","021712 - AN - 3346","7-8 group","B",NA,"Female","Action Possible",1
-"432","021712 - AN - 3346","7-8 group","B",NA,"Female","Action Impossible",0
-"433","021712 - AN - 3346","7-8 group","B",NA,"Female","Action Impossible",0
-"434","021712 - AN - 3346","7-8 group","B",NA,"Female","Action Possible",1
-"435","021712 - AN - 3346","7-8 group","B",1,"Female","No Evidence",1
-"436","021712 - AN - 3346","7-8 group","B",2,"Female","No Evidence",1
-"437","021712 - AN - 3346","7-8 group","B",3,"Female","Strong Evidence",1
-"438","021712 - AN - 3346","7-8 group","B",4,"Female","Strong Evidence",1
-"439","021712 - AN - 3346","7-8 group","B",5,"Female","Counter Evidence",1
-"440","021712 - AN - 3346","7-8 group","B",6,"Female","Counter Evidence",1
-"441","092613 - MN - 3347","7-8 group","A",NA,"Female","Action Possible",1
-"442","092613 - MN - 3347","7-8 group","A",NA,"Female","Action Impossible",0
-"443","092613 - MN - 3347","7-8 group","A",NA,"Female","Action Impossible",0
-"444","092613 - MN - 3347","7-8 group","A",NA,"Female","Action Possible",1
-"445","092613 - MN - 3347","7-8 group","A",1,"Female","No Evidence",1
-"446","092613 - MN - 3347","7-8 group","A",2,"Female","No Evidence",1
-"447","092613 - MN - 3347","7-8 group","A",3,"Female","Strong Evidence",0
-"448","092613 - MN - 3347","7-8 group","A",4,"Female","Strong Evidence",0
-"449","092613 - MN - 3347","7-8 group","A",5,"Female","Counter Evidence",1
-"450","092613 - MN - 3347","7-8 group","A",6,"Female","Counter Evidence",1
-"451","090615 - TA - 1715","5-6 group","C",NA,"Male","Action Possible",1
-"452","090615 - TA - 1715","5-6 group","C",NA,"Male","Action Impossible",1
-"453","090615 - TA - 1715","5-6 group","C",NA,"Male","Action Impossible",0
-"454","090615 - TA - 1715","5-6 group","C",NA,"Male","Action Possible",1
-"455","090615 - TA - 1715","5-6 group","C",1,"Male","No Evidence",0
-"456","090615 - TA - 1715","5-6 group","C",2,"Male","No Evidence",1
-"457","090615 - TA - 1715","5-6 group","C",3,"Male","Strong Evidence",1
-"458","090615 - TA - 1715","5-6 group","C",4,"Male","Strong Evidence",1
-"459","090615 - TA - 1715","5-6 group","C",5,"Male","Counter Evidence",1
-"460","090615 - TA - 1715","5-6 group","C",6,"Male","Counter Evidence",1
-"461","061912 - PH - 1993","7-8 group","C",NA,"Female","Action Possible",1
-"462","061912 - PH - 1993","7-8 group","C",NA,"Female","Action Impossible",0
-"463","061912 - PH - 1993","7-8 group","C",NA,"Female","Action Impossible",0
-"464","061912 - PH - 1993","7-8 group","C",NA,"Female","Action Possible",1
-"465","061912 - PH - 1993","7-8 group","C",1,"Female","No Evidence",1
-"466","061912 - PH - 1993","7-8 group","C",2,"Female","No Evidence",1
-"467","061912 - PH - 1993","7-8 group","C",3,"Female","Strong Evidence",1
-"468","061912 - PH - 1993","7-8 group","C",4,"Female","Strong Evidence",1
-"469","061912 - PH - 1993","7-8 group","C",5,"Female","Counter Evidence",1
-"470","061912 - PH - 1993","7-8 group","C",6,"Female","Counter Evidence",1
-"471","060215 - MH - 3318","5-6 group","C",NA,"Female","Action Possible",1
-"472","060215 - MH - 3318","5-6 group","C",NA,"Female","Action Impossible",0
-"473","060215 - MH - 3318","5-6 group","C",NA,"Female","Action Impossible",0
-"474","060215 - MH - 3318","5-6 group","C",NA,"Female","Action Possible",1
-"475","060215 - MH - 3318","5-6 group","C",1,"Female","No Evidence",1
-"476","060215 - MH - 3318","5-6 group","C",2,"Female","No Evidence",1
-"477","060215 - MH - 3318","5-6 group","C",3,"Female","Strong Evidence",1
-"478","060215 - MH - 3318","5-6 group","C",4,"Female","Strong Evidence",0
-"479","060215 - MH - 3318","5-6 group","C",5,"Female","Counter Evidence",1
-"480","060215 - MH - 3318","5-6 group","C",6,"Female","Counter Evidence",1
-"481","050912 - SOB - 3183","7-8 group","C",NA,"Male","Action Possible",1
-"482","050912 - SOB - 3183","7-8 group","C",NA,"Male","Action Impossible",0
-"483","050912 - SOB - 3183","7-8 group","C",NA,"Male","Action Impossible",0
-"484","050912 - SOB - 3183","7-8 group","C",NA,"Male","Action Possible",1
-"485","050912 - SOB - 3183","7-8 group","C",1,"Male","No Evidence",1
-"486","050912 - SOB - 3183","7-8 group","C",2,"Male","No Evidence",1
-"487","050912 - SOB - 3183","7-8 group","C",3,"Male","Strong Evidence",1
-"488","050912 - SOB - 3183","7-8 group","C",4,"Male","Strong Evidence",0
-"489","050912 - SOB - 3183","7-8 group","C",5,"Male","Counter Evidence",1
-"490","050912 - SOB - 3183","7-8 group","C",6,"Male","Counter Evidence",1
-"491","110714 - NR - 3706","5-6 group","A",NA,"Female","Action Possible",1
-"492","110714 - NR - 3706","5-6 group","A",NA,"Female","Action Impossible",0
-"493","110714 - NR - 3706","5-6 group","A",NA,"Female","Action Impossible",0
-"494","110714 - NR - 3706","5-6 group","A",NA,"Female","Action Possible",1
-"495","110714 - NR - 3706","5-6 group","A",1,"Female","No Evidence",1
-"496","110714 - NR - 3706","5-6 group","A",2,"Female","No Evidence",0
-"497","110714 - NR - 3706","5-6 group","A",3,"Female","Strong Evidence",0
-"498","110714 - NR - 3706","5-6 group","A",4,"Female","Strong Evidence",0
-"499","110714 - NR - 3706","5-6 group","A",5,"Female","Counter Evidence",1
-"500","110714 - NR - 3706","5-6 group","A",6,"Female","Counter Evidence",1
-"501","032613 - RV - 3810","7-8 group","A",NA,"Female","Action Possible",1
-"502","032613 - RV - 3810","7-8 group","A",NA,"Female","Action Impossible",0
-"503","032613 - RV - 3810","7-8 group","A",NA,"Female","Action Impossible",0
-"504","032613 - RV - 3810","7-8 group","A",NA,"Female","Action Possible",1
-"505","032613 - RV - 3810","7-8 group","A",1,"Female","No Evidence",1
-"506","032613 - RV - 3810","7-8 group","A",2,"Female","No Evidence",1
-"507","032613 - RV - 3810","7-8 group","A",3,"Female","Strong Evidence",0
-"508","032613 - RV - 3810","7-8 group","A",4,"Female","Strong Evidence",0
-"509","032613 - RV - 3810","7-8 group","A",5,"Female","Counter Evidence",1
-"510","032613 - RV - 3810","7-8 group","A",6,"Female","Counter Evidence",1
-"511","081215 - LP - 3608","5-6 group","B",NA,"Female","Action Possible",1
-"512","081215 - LP - 3608","5-6 group","B",NA,"Female","Action Impossible",0
-"513","081215 - LP - 3608","5-6 group","B",NA,"Female","Action Impossible",0
-"514","081215 - LP - 3608","5-6 group","B",NA,"Female","Action Possible",1
-"515","081215 - LP - 3608","5-6 group","B",1,"Female","No Evidence",1
-"516","081215 - LP - 3608","5-6 group","B",2,"Female","No Evidence",1
-"517","081215 - LP - 3608","5-6 group","B",3,"Female","Strong Evidence",1
-"518","081215 - LP - 3608","5-6 group","B",4,"Female","Strong Evidence",0
-"519","081215 - LP - 3608","5-6 group","B",5,"Female","Counter Evidence",1
-"520","081215 - LP - 3608","5-6 group","B",6,"Female","Counter Evidence",1
-"521","091412 - ZW - 3710","7-8 group","C",NA,"Male","Action Possible",1
-"522","091412 - ZW - 3710","7-8 group","C",NA,"Male","Action Impossible",0
-"523","091412 - ZW - 3710","7-8 group","C",NA,"Male","Action Impossible",0
-"524","091412 - ZW - 3710","7-8 group","C",NA,"Male","Action Possible",1
-"525","091412 - ZW - 3710","7-8 group","C",1,"Male","No Evidence",1
-"526","091412 - ZW - 3710","7-8 group","C",2,"Male","No Evidence",1
-"527","091412 - ZW - 3710","7-8 group","C",3,"Male","Strong Evidence",1
-"528","091412 - ZW - 3710","7-8 group","C",4,"Male","Strong Evidence",0
-"529","091412 - ZW - 3710","7-8 group","C",5,"Male","Counter Evidence",1
-"530","091412 - ZW - 3710","7-8 group","C",6,"Male","Counter Evidence",1
-"531","022213 - FF - 145","7-8 group","C",NA,"Male","Action Possible",1
-"532","022213 - FF - 145","7-8 group","C",NA,"Male","Action Impossible",0
-"533","022213 - FF - 145","7-8 group","C",NA,"Male","Action Impossible",0
-"534","022213 - FF - 145","7-8 group","C",NA,"Male","Action Possible",1
-"535","022213 - FF - 145","7-8 group","C",1,"Male","No Evidence",1
-"536","022213 - FF - 145","7-8 group","C",2,"Male","No Evidence",1
-"537","022213 - FF - 145","7-8 group","C",3,"Male","Strong Evidence",0
-"538","022213 - FF - 145","7-8 group","C",4,"Male","Strong Evidence",0
-"539","022213 - FF - 145","7-8 group","C",5,"Male","Counter Evidence",1
-"540","022213 - FF - 145","7-8 group","C",6,"Male","Counter Evidence",1
-"541","111913 - HS - 3812","7-8 group","C",NA,"Female","Action Possible",1
-"542","111913 - HS - 3812","7-8 group","C",NA,"Female","Action Impossible",0
-"543","111913 - HS - 3812","7-8 group","C",NA,"Female","Action Impossible",0
-"544","111913 - HS - 3812","7-8 group","C",NA,"Female","Action Possible",1
-"545","111913 - HS - 3812","7-8 group","C",1,"Female","No Evidence",1
-"546","111913 - HS - 3812","7-8 group","C",2,"Female","No Evidence",1
-"547","111913 - HS - 3812","7-8 group","C",3,"Female","Strong Evidence",1
-"548","111913 - HS - 3812","7-8 group","C",4,"Female","Strong Evidence",1
-"549","111913 - HS - 3812","7-8 group","C",5,"Female","Counter Evidence",1
-"550","111913 - HS - 3812","7-8 group","C",6,"Female","Counter Evidence",1
-"551","033113 - FESW - 3526","7-8 group","B",NA,"Female","Action Possible",1
-"552","033113 - FESW - 3526","7-8 group","B",NA,"Female","Action Impossible",0
-"553","033113 - FESW - 3526","7-8 group","B",NA,"Female","Action Impossible",0
-"554","033113 - FESW - 3526","7-8 group","B",NA,"Female","Action Possible",1
-"555","033113 - FESW - 3526","7-8 group","B",1,"Female","No Evidence",0
-"556","033113 - FESW - 3526","7-8 group","B",2,"Female","No Evidence",1
-"557","033113 - FESW - 3526","7-8 group","B",3,"Female","Strong Evidence",1
-"558","033113 - FESW - 3526","7-8 group","B",4,"Female","Strong Evidence",1
-"559","033113 - FESW - 3526","7-8 group","B",5,"Female","Counter Evidence",1
-"560","033113 - FESW - 3526","7-8 group","B",6,"Female","Counter Evidence",1
-"561","021112 - AT - 3450","7-8 group","A",NA,"Male","Action Possible",1
-"562","021112 - AT - 3450","7-8 group","A",NA,"Male","Action Impossible",0
-"563","021112 - AT - 3450","7-8 group","A",NA,"Male","Action Impossible",0
-"564","021112 - AT - 3450","7-8 group","A",NA,"Male","Action Possible",1
-"565","021112 - AT - 3450","7-8 group","A",1,"Male","No Evidence",1
-"566","021112 - AT - 3450","7-8 group","A",2,"Male","No Evidence",1
-"567","021112 - AT - 3450","7-8 group","A",3,"Male","Strong Evidence",0
-"568","021112 - AT - 3450","7-8 group","A",4,"Male","Strong Evidence",1
-"569","021112 - AT - 3450","7-8 group","A",5,"Male","Counter Evidence",1
-"570","021112 - AT - 3450","7-8 group","A",6,"Male","Counter Evidence",1
-"571","102314 - MSR - 3813","5-6 group","C",NA,"Female","Action Possible",0
-"572","102314 - MSR - 3813","5-6 group","C",NA,"Female","Action Impossible",0
-"573","102314 - MSR - 3813","5-6 group","C",NA,"Female","Action Impossible",0
-"574","102314 - MSR - 3813","5-6 group","C",NA,"Female","Action Possible",0
-"575","102314 - MSR - 3813","5-6 group","C",1,"Female","No Evidence",1
-"576","102314 - MSR - 3813","5-6 group","C",2,"Female","No Evidence",0
-"577","102314 - MSR - 3813","5-6 group","C",3,"Female","Strong Evidence",0
-"578","102314 - MSR - 3813","5-6 group","C",4,"Female","Strong Evidence",NA
-"579","102314 - MSR - 3813","5-6 group","C",5,"Female","Counter Evidence",0
-"580","102314 - MSR - 3813","5-6 group","C",6,"Female","Counter Evidence",1
-"581","050613 - LC - 3895","7-8 group","B",NA,"Male","Action Possible",1
-"582","050613 - LC - 3895","7-8 group","B",NA,"Male","Action Impossible",0
-"583","050613 - LC - 3895","7-8 group","B",NA,"Male","Action Impossible",0
-"584","050613 - LC - 3895","7-8 group","B",NA,"Male","Action Possible",1
-"585","050613 - LC - 3895","7-8 group","B",1,"Male","No Evidence",1
-"586","050613 - LC - 3895","7-8 group","B",2,"Male","No Evidence",1
-"587","050613 - LC - 3895","7-8 group","B",3,"Male","Strong Evidence",0
-"588","050613 - LC - 3895","7-8 group","B",4,"Male","Strong Evidence",0
-"589","050613 - LC - 3895","7-8 group","B",5,"Male","Counter Evidence",1
-"590","050613 - LC - 3895","7-8 group","B",6,"Male","Counter Evidence",1
-"591","102914 - XRL","5-6 group","B",NA,"Female","Action Possible",0
-"592","102914 - XRL","5-6 group","B",NA,"Female","Action Impossible",0
-"593","102914 - XRL","5-6 group","B",NA,"Female","Action Impossible",0
-"594","102914 - XRL","5-6 group","B",NA,"Female","Action Possible",0
-"595","102914 - XRL","5-6 group","B",1,"Female","No Evidence",1
-"596","102914 - XRL","5-6 group","B",2,"Female","No Evidence",1
-"597","102914 - XRL","5-6 group","B",3,"Female","Strong Evidence",0
-"598","102914 - XRL","5-6 group","B",4,"Female","Strong Evidence",0
-"599","102914 - XRL","5-6 group","B",5,"Female","Counter Evidence",NA
-"600","102914 - XRL","5-6 group","B",6,"Female","Counter Evidence",1
-"601","031912 - KL - 2945","7-8 group","C",NA,"Female","Action Possible",0
-"602","031912 - KL - 2945","7-8 group","C",NA,"Female","Action Impossible",0
-"603","031912 - KL - 2945","7-8 group","C",NA,"Female","Action Impossible",0
-"604","031912 - KL - 2945","7-8 group","C",NA,"Female","Action Possible",0
-"605","031912 - KL - 2945","7-8 group","C",1,"Female","No Evidence",1
-"606","031912 - KL - 2945","7-8 group","C",2,"Female","No Evidence",1
-"607","031912 - KL - 2945","7-8 group","C",3,"Female","Strong Evidence",0
-"608","031912 - KL - 2945","7-8 group","C",4,"Female","Strong Evidence",0
-"609","031912 - KL - 2945","7-8 group","C",5,"Female","Counter Evidence",1
-"610","031912 - KL - 2945","7-8 group","C",6,"Female","Counter Evidence",0
-"611","033115 - VL - 3284","5-6 group","C",NA,"Female","Action Possible",1
-"612","033115 - VL - 3284","5-6 group","C",NA,"Female","Action Impossible",0
-"613","033115 - VL - 3284","5-6 group","C",NA,"Female","Action Impossible",0
-"614","033115 - VL - 3284","5-6 group","C",NA,"Female","Action Possible",1
-"615","033115 - VL - 3284","5-6 group","C",1,"Female","No Evidence",1
-"616","033115 - VL - 3284","5-6 group","C",2,"Female","No Evidence",1
-"617","033115 - VL - 3284","5-6 group","C",3,"Female","Strong Evidence",0
-"618","033115 - VL - 3284","5-6 group","C",4,"Female","Strong Evidence",1
-"619","033115 - VL - 3284","5-6 group","C",5,"Female","Counter Evidence",1
-"620","033115 - VL - 3284","5-6 group","C",6,"Female","Counter Evidence",1
-"621","080414 - MV - 3316","5-6 group","C",NA,"Female","Action Possible",1
-"622","080414 - MV - 3316","5-6 group","C",NA,"Female","Action Impossible",0
-"623","080414 - MV - 3316","5-6 group","C",NA,"Female","Action Impossible",0
-"624","080414 - MV - 3316","5-6 group","C",NA,"Female","Action Possible",0
-"625","080414 - MV - 3316","5-6 group","C",1,"Female","No Evidence",1
-"626","080414 - MV - 3316","5-6 group","C",2,"Female","No Evidence",1
-"627","080414 - MV - 3316","5-6 group","C",3,"Female","Strong Evidence",0
-"628","080414 - MV - 3316","5-6 group","C",4,"Female","Strong Evidence",0
-"629","080414 - MV - 3316","5-6 group","C",5,"Female","Counter Evidence",1
-"630","080414 - MV - 3316","5-6 group","C",6,"Female","Counter Evidence",1
-"631","082214 - HR - 3500","5-6 group","C",NA,"Male","Action Possible",1
-"632","082214 - HR - 3500","5-6 group","C",NA,"Male","Action Impossible",0
-"633","082214 - HR - 3500","5-6 group","C",NA,"Male","Action Impossible",0
-"634","082214 - HR - 3500","5-6 group","C",NA,"Male","Action Possible",1
-"635","082214 - HR - 3500","5-6 group","C",1,"Male","No Evidence",1
-"636","082214 - HR - 3500","5-6 group","C",2,"Male","No Evidence",1
-"637","082214 - HR - 3500","5-6 group","C",3,"Male","Strong Evidence",1
-"638","082214 - HR - 3500","5-6 group","C",4,"Male","Strong Evidence",1
-"639","082214 - HR - 3500","5-6 group","C",5,"Male","Counter Evidence",1
-"640","082214 - HR - 3500","5-6 group","C",6,"Male","Counter Evidence",1
-"641","053112 - SR - 3439","7-8 group","C",NA,"Female","Action Possible",1
-"642","053112 - SR - 3439","7-8 group","C",NA,"Female","Action Impossible",0
-"643","053112 - SR - 3439","7-8 group","C",NA,"Female","Action Impossible",0
-"644","053112 - SR - 3439","7-8 group","C",NA,"Female","Action Possible",1
-"645","053112 - SR - 3439","7-8 group","C",1,"Female","No Evidence",1
-"646","053112 - SR - 3439","7-8 group","C",2,"Female","No Evidence",1
-"647","053112 - SR - 3439","7-8 group","C",3,"Female","Strong Evidence",1
-"648","053112 - SR - 3439","7-8 group","C",4,"Female","Strong Evidence",1
-"649","053112 - SR - 3439","7-8 group","C",5,"Female","Counter Evidence",1
-"650","053112 - SR - 3439","7-8 group","C",6,"Female","Counter Evidence",1
-"651","033015 - SS - 1667","5-6 group","A",NA,"Male","Action Possible",1
-"652","033015 - SS - 1667","5-6 group","A",NA,"Male","Action Impossible",0
-"653","033015 - SS - 1667","5-6 group","A",NA,"Male","Action Impossible",0
-"654","033015 - SS - 1667","5-6 group","A",NA,"Male","Action Possible",1
-"655","033015 - SS - 1667","5-6 group","A",1,"Male","No Evidence",1
-"656","033015 - SS - 1667","5-6 group","A",2,"Male","No Evidence",1
-"657","033015 - SS - 1667","5-6 group","A",3,"Male","Strong Evidence",1
-"658","033015 - SS - 1667","5-6 group","A",4,"Male","Strong Evidence",1
-"659","033015 - SS - 1667","5-6 group","A",5,"Male","Counter Evidence",1
-"660","033015 - SS - 1667","5-6 group","A",6,"Male","Counter Evidence",1
-"661","071012 - RS - 3641","7-8 group","B",NA,"Male","Action Possible",1
-"662","071012 - RS - 3641","7-8 group","B",NA,"Male","Action Impossible",0
-"663","071012 - RS - 3641","7-8 group","B",NA,"Male","Action Impossible",0
-"664","071012 - RS - 3641","7-8 group","B",NA,"Male","Action Possible",1
-"665","071012 - RS - 3641","7-8 group","B",1,"Male","No Evidence",1
-"666","071012 - RS - 3641","7-8 group","B",2,"Male","No Evidence",1
-"667","071012 - RS - 3641","7-8 group","B",3,"Male","Strong Evidence",0
-"668","071012 - RS - 3641","7-8 group","B",4,"Male","Strong Evidence",0
-"669","071012 - RS - 3641","7-8 group","B",5,"Male","Counter Evidence",1
-"670","071012 - RS - 3641","7-8 group","B",6,"Male","Counter Evidence",1
-"671","011215 - LS - 3642","5-6 group","C",NA,"Male","Action Possible",1
-"672","011215 - LS - 3642","5-6 group","C",NA,"Male","Action Impossible",0
-"673","011215 - LS - 3642","5-6 group","C",NA,"Male","Action Impossible",0
-"674","011215 - LS - 3642","5-6 group","C",NA,"Male","Action Possible",1
-"675","011215 - LS - 3642","5-6 group","C",1,"Male","No Evidence",1
-"676","011215 - LS - 3642","5-6 group","C",2,"Male","No Evidence",0
-"677","011215 - LS - 3642","5-6 group","C",3,"Male","Strong Evidence",NA
-"678","011215 - LS - 3642","5-6 group","C",4,"Male","Strong Evidence",NA
-"679","011215 - LS - 3642","5-6 group","C",5,"Male","Counter Evidence",NA
-"680","011215 - LS - 3642","5-6 group","C",6,"Male","Counter Evidence",1
-"681","103115 - CC - 464","5-6 group","A",NA,"Male","Action Possible",1
-"682","103115 - CC - 464","5-6 group","A",NA,"Male","Action Impossible",0
-"683","103115 - CC - 464","5-6 group","A",NA,"Male","Action Impossible",0
-"684","103115 - CC - 464","5-6 group","A",NA,"Male","Action Possible",0
-"685","103115 - CC - 464","5-6 group","A",1,"Male","No Evidence",1
-"686","103115 - CC - 464","5-6 group","A",2,"Male","No Evidence",1
-"687","103115 - CC - 464","5-6 group","A",3,"Male","Strong Evidence",0
-"688","103115 - CC - 464","5-6 group","A",4,"Male","Strong Evidence",0
-"689","103115 - CC - 464","5-6 group","A",5,"Male","Counter Evidence",1
-"690","103115 - CC - 464","5-6 group","A",6,"Male","Counter Evidence",1
-"691","012113 - JK - 1323","7-8 group","B",NA,"Male","Action Possible",1
-"692","012113 - JK - 1323","7-8 group","B",NA,"Male","Action Impossible",0
-"693","012113 - JK - 1323","7-8 group","B",NA,"Male","Action Impossible",0
-"694","012113 - JK - 1323","7-8 group","B",NA,"Male","Action Possible",1
-"695","012113 - JK - 1323","7-8 group","B",1,"Male","No Evidence",1
-"696","012113 - JK - 1323","7-8 group","B",2,"Male","No Evidence",1
-"697","012113 - JK - 1323","7-8 group","B",3,"Male","Strong Evidence",0
-"698","012113 - JK - 1323","7-8 group","B",4,"Male","Strong Evidence",0
-"699","012113 - JK - 1323","7-8 group","B",5,"Male","Counter Evidence",1
-"700","012113 - JK - 1323","7-8 group","B",6,"Male","Counter Evidence",1
-"701","091715 - RJ - 1718","5-6 group","C",NA,"Male","Action Possible",1
-"702","091715 - RJ - 1718","5-6 group","C",NA,"Male","Action Impossible",0
-"703","091715 - RJ - 1718","5-6 group","C",NA,"Male","Action Impossible",0
-"704","091715 - RJ - 1718","5-6 group","C",NA,"Male","Action Possible",1
-"705","091715 - RJ - 1718","5-6 group","C",1,"Male","No Evidence",1
-"706","091715 - RJ - 1718","5-6 group","C",2,"Male","No Evidence",1
-"707","091715 - RJ - 1718","5-6 group","C",3,"Male","Strong Evidence",1
-"708","091715 - RJ - 1718","5-6 group","C",4,"Male","Strong Evidence",1
-"709","091715 - RJ - 1718","5-6 group","C",5,"Male","Counter Evidence",1
-"710","091715 - RJ - 1718","5-6 group","C",6,"Male","Counter Evidence",1
-"711","052812 - GJNA -3952","7-8 group","A",NA,"Male","Action Possible",1
-"712","052812 - GJNA -3952","7-8 group","A",NA,"Male","Action Impossible",0
-"713","052812 - GJNA -3952","7-8 group","A",NA,"Male","Action Impossible",0
-"714","052812 - GJNA -3952","7-8 group","A",NA,"Male","Action Possible",1
-"715","052812 - GJNA -3952","7-8 group","A",1,"Male","No Evidence",1
-"716","052812 - GJNA -3952","7-8 group","A",2,"Male","No Evidence",1
-"717","052812 - GJNA -3952","7-8 group","A",3,"Male","Strong Evidence",1
-"718","052812 - GJNA -3952","7-8 group","A",4,"Male","Strong Evidence",1
-"719","052812 - GJNA -3952","7-8 group","A",5,"Male","Counter Evidence",0
-"720","052812 - GJNA -3952","7-8 group","A",6,"Male","Counter Evidence",0
-"721","082313 - JM - 2082","7-8 group","C",NA,"Male","Action Possible",1
-"722","082313 - JM - 2082","7-8 group","C",NA,"Male","Action Impossible",0
-"723","082313 - JM - 2082","7-8 group","C",NA,"Male","Action Impossible",0
-"724","082313 - JM - 2082","7-8 group","C",NA,"Male","Action Possible",1
-"725","082313 - JM - 2082","7-8 group","C",1,"Male","No Evidence",1
-"726","082313 - JM - 2082","7-8 group","C",2,"Male","No Evidence",1
-"727","082313 - JM - 2082","7-8 group","C",3,"Male","Strong Evidence",1
-"728","082313 - JM - 2082","7-8 group","C",4,"Male","Strong Evidence",1
-"729","082313 - JM - 2082","7-8 group","C",5,"Male","Counter Evidence",1
-"730","082313 - JM - 2082","7-8 group","C",6,"Male","Counter Evidence",1
-"731","042613 - RM - 3002","7-8 group","A",NA,"Male","Action Possible",1
-"732","042613 - RM - 3002","7-8 group","A",NA,"Male","Action Impossible",0
-"733","042613 - RM - 3002","7-8 group","A",NA,"Male","Action Impossible",0
-"734","042613 - RM - 3002","7-8 group","A",NA,"Male","Action Possible",1
-"735","042613 - RM - 3002","7-8 group","A",1,"Male","No Evidence",0
-"736","042613 - RM - 3002","7-8 group","A",2,"Male","No Evidence",1
-"737","042613 - RM - 3002","7-8 group","A",3,"Male","Strong Evidence",0
-"738","042613 - RM - 3002","7-8 group","A",4,"Male","Strong Evidence",0
-"739","042613 - RM - 3002","7-8 group","A",5,"Male","Counter Evidence",1
-"740","042613 - RM - 3002","7-8 group","A",6,"Male","Counter Evidence",1
-"741","040915 - EM - 3001","5-6 group","A",NA,"Female","Action Possible",1
-"742","040915 - EM - 3001","5-6 group","A",NA,"Female","Action Impossible",0
-"743","040915 - EM - 3001","5-6 group","A",NA,"Female","Action Impossible",0
-"744","040915 - EM - 3001","5-6 group","A",NA,"Female","Action Possible",1
-"745","040915 - EM - 3001","5-6 group","A",1,"Female","No Evidence",1
-"746","040915 - EM - 3001","5-6 group","A",2,"Female","No Evidence",1
-"747","040915 - EM - 3001","5-6 group","A",3,"Female","Strong Evidence",1
-"748","040915 - EM - 3001","5-6 group","A",4,"Female","Strong Evidence",0
-"749","040915 - EM - 3001","5-6 group","A",5,"Female","Counter Evidence",1
-"750","040915 - EM - 3001","5-6 group","A",6,"Female","Counter Evidence",1
-"751","112013 - AD - 3738","7-8 group","A",NA,"Female","Action Possible",1
-"752","112013 - AD - 3738","7-8 group","A",NA,"Female","Action Impossible",0
-"753","112013 - AD - 3738","7-8 group","A",NA,"Female","Action Impossible",0
-"754","112013 - AD - 3738","7-8 group","A",NA,"Female","Action Possible",1
-"755","112013 - AD - 3738","7-8 group","A",1,"Female","No Evidence",0
-"756","112013 - AD - 3738","7-8 group","A",2,"Female","No Evidence",1
-"757","112013 - AD - 3738","7-8 group","A",3,"Female","Strong Evidence",1
-"758","112013 - AD - 3738","7-8 group","A",4,"Female","Strong Evidence",0
-"759","112013 - AD - 3738","7-8 group","A",5,"Female","Counter Evidence",1
-"760","112013 - AD - 3738","7-8 group","A",6,"Female","Counter Evidence",1
-"761","062413 - AR - 3429","7-8 group","A",NA,"Female","Action Possible",1
-"762","062413 - AR - 3429","7-8 group","A",NA,"Female","Action Impossible",0
-"763","062413 - AR - 3429","7-8 group","A",NA,"Female","Action Impossible",0
-"764","062413 - AR - 3429","7-8 group","A",NA,"Female","Action Possible",1
-"765","062413 - AR - 3429","7-8 group","A",1,"Female","No Evidence",1
-"766","062413 - AR - 3429","7-8 group","A",2,"Female","No Evidence",1
-"767","062413 - AR - 3429","7-8 group","A",3,"Female","Strong Evidence",1
-"768","062413 - AR - 3429","7-8 group","A",4,"Female","Strong Evidence",1
-"769","062413 - AR - 3429","7-8 group","A",5,"Female","Counter Evidence",1
-"770","062413 - AR - 3429","7-8 group","A",6,"Female","Counter Evidence",1
-"771","122613 - DH - 978","7-8 group","C",NA,"Male","Action Possible",1
-"772","122613 - DH - 978","7-8 group","C",NA,"Male","Action Impossible",0
-"773","122613 - DH - 978","7-8 group","C",NA,"Male","Action Impossible",0
-"774","122613 - DH - 978","7-8 group","C",NA,"Male","Action Possible",1
-"775","122613 - DH - 978","7-8 group","C",1,"Male","No Evidence",1
-"776","122613 - DH - 978","7-8 group","C",2,"Male","No Evidence",0
-"777","122613 - DH - 978","7-8 group","C",3,"Male","Strong Evidence",0
-"778","122613 - DH - 978","7-8 group","C",4,"Male","Strong Evidence",0
-"779","122613 - DH - 978","7-8 group","C",5,"Male","Counter Evidence",1
-"780","122613 - DH - 978","7-8 group","C",6,"Male","Counter Evidence",1
-"781","122613 - AH - 979","7-8 group","C",NA,"Female","Action Possible",1
-"782","122613 - AH - 979","7-8 group","C",NA,"Female","Action Impossible",0
-"783","122613 - AH - 979","7-8 group","C",NA,"Female","Action Impossible",0
-"784","122613 - AH - 979","7-8 group","C",NA,"Female","Action Possible",1
-"785","122613 - AH - 979","7-8 group","C",1,"Female","No Evidence",1
-"786","122613 - AH - 979","7-8 group","C",2,"Female","No Evidence",1
-"787","122613 - AH - 979","7-8 group","C",3,"Female","Strong Evidence",0
-"788","122613 - AH - 979","7-8 group","C",4,"Female","Strong Evidence",0
-"789","122613 - AH - 979","7-8 group","C",5,"Female","Counter Evidence",1
-"790","122613 - AH - 979","7-8 group","C",6,"Female","Counter Evidence",1
-"791","042413 - TK","7-8 group","C",NA,"Female","Action Possible",1
-"792","042413 - TK","7-8 group","C",NA,"Female","Action Impossible",0
-"793","042413 - TK","7-8 group","C",NA,"Female","Action Impossible",0
-"794","042413 - TK","7-8 group","C",NA,"Female","Action Possible",1
-"795","042413 - TK","7-8 group","C",1,"Female","No Evidence",1
-"796","042413 - TK","7-8 group","C",2,"Female","No Evidence",1
-"797","042413 - TK","7-8 group","C",3,"Female","Strong Evidence",0
-"798","042413 - TK","7-8 group","C",4,"Female","Strong Evidence",0
-"799","042413 - TK","7-8 group","C",5,"Female","Counter Evidence",1
-"800","042413 - TK","7-8 group","C",6,"Female","Counter Evidence",1
-"801","R_0HxHrLxtq05CpAR","Adult","B",NA,"Male","Action Possible",1
-"802","R_0HxHrLxtq05CpAR","Adult","B",NA,"Male","Action Impossible",0
-"803","R_0HxHrLxtq05CpAR","Adult","B",NA,"Male","Action Impossible",0
-"804","R_0HxHrLxtq05CpAR","Adult","B",NA,"Male","Action Possible",1
-"805","R_0HxHrLxtq05CpAR","Adult","B",1,"Male","No Evidence",1
-"806","R_0HxHrLxtq05CpAR","Adult","B",2,"Male","No Evidence",1
-"807","R_0HxHrLxtq05CpAR","Adult","B",3,"Male","Strong Evidence",1
-"808","R_0HxHrLxtq05CpAR","Adult","B",4,"Male","Strong Evidence",0
-"809","R_0HxHrLxtq05CpAR","Adult","B",5,"Male","Counter Evidence",1
-"810","R_0HxHrLxtq05CpAR","Adult","B",6,"Male","Counter Evidence",1
-"811","R_1117lR41MJSJq8Z","Adult","A",NA,"Male","Action Possible",0
-"812","R_1117lR41MJSJq8Z","Adult","A",NA,"Male","Action Impossible",0
-"813","R_1117lR41MJSJq8Z","Adult","A",NA,"Male","Action Impossible",0
-"814","R_1117lR41MJSJq8Z","Adult","A",NA,"Male","Action Possible",1
-"815","R_1117lR41MJSJq8Z","Adult","A",1,"Male","No Evidence",1
-"816","R_1117lR41MJSJq8Z","Adult","A",2,"Male","No Evidence",1
-"817","R_1117lR41MJSJq8Z","Adult","A",3,"Male","Strong Evidence",0
-"818","R_1117lR41MJSJq8Z","Adult","A",4,"Male","Strong Evidence",1
-"819","R_1117lR41MJSJq8Z","Adult","A",5,"Male","Counter Evidence",1
-"820","R_1117lR41MJSJq8Z","Adult","A",6,"Male","Counter Evidence",1
-"821","R_1DMCdNEpDS8QfvB","Adult","A",NA,"Male","Action Possible",1
-"822","R_1DMCdNEpDS8QfvB","Adult","A",NA,"Male","Action Impossible",0
-"823","R_1DMCdNEpDS8QfvB","Adult","A",NA,"Male","Action Impossible",0
-"824","R_1DMCdNEpDS8QfvB","Adult","A",NA,"Male","Action Possible",1
-"825","R_1DMCdNEpDS8QfvB","Adult","A",1,"Male","No Evidence",1
-"826","R_1DMCdNEpDS8QfvB","Adult","A",2,"Male","No Evidence",1
-"827","R_1DMCdNEpDS8QfvB","Adult","A",3,"Male","Strong Evidence",0
-"828","R_1DMCdNEpDS8QfvB","Adult","A",4,"Male","Strong Evidence",0
-"829","R_1DMCdNEpDS8QfvB","Adult","A",5,"Male","Counter Evidence",1
-"830","R_1DMCdNEpDS8QfvB","Adult","A",6,"Male","Counter Evidence",1
-"831","R_1EKXS1K2gAVdeDv","Adult","A",NA,"Male","Action Possible",1
-"832","R_1EKXS1K2gAVdeDv","Adult","A",NA,"Male","Action Impossible",0
-"833","R_1EKXS1K2gAVdeDv","Adult","A",NA,"Male","Action Impossible",0
-"834","R_1EKXS1K2gAVdeDv","Adult","A",NA,"Male","Action Possible",1
-"835","R_1EKXS1K2gAVdeDv","Adult","A",1,"Male","No Evidence",1
-"836","R_1EKXS1K2gAVdeDv","Adult","A",2,"Male","No Evidence",1
-"837","R_1EKXS1K2gAVdeDv","Adult","A",3,"Male","Strong Evidence",0
-"838","R_1EKXS1K2gAVdeDv","Adult","A",4,"Male","Strong Evidence",0
-"839","R_1EKXS1K2gAVdeDv","Adult","A",5,"Male","Counter Evidence",1
-"840","R_1EKXS1K2gAVdeDv","Adult","A",6,"Male","Counter Evidence",1
-"841","R_1ie5IKTElBAaPXW","Adult","C",NA,"Male","Action Possible",1
-"842","R_1ie5IKTElBAaPXW","Adult","C",NA,"Male","Action Impossible",0
-"843","R_1ie5IKTElBAaPXW","Adult","C",NA,"Male","Action Impossible",0
-"844","R_1ie5IKTElBAaPXW","Adult","C",NA,"Male","Action Possible",1
-"845","R_1ie5IKTElBAaPXW","Adult","C",1,"Male","No Evidence",1
-"846","R_1ie5IKTElBAaPXW","Adult","C",2,"Male","No Evidence",1
-"847","R_1ie5IKTElBAaPXW","Adult","C",3,"Male","Strong Evidence",1
-"848","R_1ie5IKTElBAaPXW","Adult","C",4,"Male","Strong Evidence",1
-"849","R_1ie5IKTElBAaPXW","Adult","C",5,"Male","Counter Evidence",1
-"850","R_1ie5IKTElBAaPXW","Adult","C",6,"Male","Counter Evidence",1
-"851","R_1P1Ayl8RUVOaqol","Adult","C",NA,"Male","Action Possible",1
-"852","R_1P1Ayl8RUVOaqol","Adult","C",NA,"Male","Action Impossible",0
-"853","R_1P1Ayl8RUVOaqol","Adult","C",NA,"Male","Action Impossible",0
-"854","R_1P1Ayl8RUVOaqol","Adult","C",NA,"Male","Action Possible",1
-"855","R_1P1Ayl8RUVOaqol","Adult","C",1,"Male","No Evidence",1
-"856","R_1P1Ayl8RUVOaqol","Adult","C",2,"Male","No Evidence",1
-"857","R_1P1Ayl8RUVOaqol","Adult","C",3,"Male","Strong Evidence",0
-"858","R_1P1Ayl8RUVOaqol","Adult","C",4,"Male","Strong Evidence",0
-"859","R_1P1Ayl8RUVOaqol","Adult","C",5,"Male","Counter Evidence",1
-"860","R_1P1Ayl8RUVOaqol","Adult","C",6,"Male","Counter Evidence",1
-"861","R_1PcmfmT1CK6R3HM","Adult","A",NA,"Male","Action Possible",1
-"862","R_1PcmfmT1CK6R3HM","Adult","A",NA,"Male","Action Impossible",0
-"863","R_1PcmfmT1CK6R3HM","Adult","A",NA,"Male","Action Impossible",0
-"864","R_1PcmfmT1CK6R3HM","Adult","A",NA,"Male","Action Possible",1
-"865","R_1PcmfmT1CK6R3HM","Adult","A",1,"Male","No Evidence",0
-"866","R_1PcmfmT1CK6R3HM","Adult","A",2,"Male","No Evidence",1
-"867","R_1PcmfmT1CK6R3HM","Adult","A",3,"Male","Strong Evidence",0
-"868","R_1PcmfmT1CK6R3HM","Adult","A",4,"Male","Strong Evidence",0
-"869","R_1PcmfmT1CK6R3HM","Adult","A",5,"Male","Counter Evidence",1
-"870","R_1PcmfmT1CK6R3HM","Adult","A",6,"Male","Counter Evidence",0
-"871","R_1XIlCmzaOeIsXwB","Adult","A",NA,"Male","Action Possible",1
-"872","R_1XIlCmzaOeIsXwB","Adult","A",NA,"Male","Action Impossible",0
-"873","R_1XIlCmzaOeIsXwB","Adult","A",NA,"Male","Action Impossible",0
-"874","R_1XIlCmzaOeIsXwB","Adult","A",NA,"Male","Action Possible",1
-"875","R_1XIlCmzaOeIsXwB","Adult","A",1,"Male","No Evidence",1
-"876","R_1XIlCmzaOeIsXwB","Adult","A",2,"Male","No Evidence",1
-"877","R_1XIlCmzaOeIsXwB","Adult","A",3,"Male","Strong Evidence",1
-"878","R_1XIlCmzaOeIsXwB","Adult","A",4,"Male","Strong Evidence",0
-"879","R_1XIlCmzaOeIsXwB","Adult","A",5,"Male","Counter Evidence",1
-"880","R_1XIlCmzaOeIsXwB","Adult","A",6,"Male","Counter Evidence",1
-"881","R_200XqaQQbBanIrL","Adult","C",NA,"Male","Action Possible",1
-"882","R_200XqaQQbBanIrL","Adult","C",NA,"Male","Action Impossible",0
-"883","R_200XqaQQbBanIrL","Adult","C",NA,"Male","Action Impossible",0
-"884","R_200XqaQQbBanIrL","Adult","C",NA,"Male","Action Possible",1
-"885","R_200XqaQQbBanIrL","Adult","C",1,"Male","No Evidence",1
-"886","R_200XqaQQbBanIrL","Adult","C",2,"Male","No Evidence",1
-"887","R_200XqaQQbBanIrL","Adult","C",3,"Male","Strong Evidence",1
-"888","R_200XqaQQbBanIrL","Adult","C",4,"Male","Strong Evidence",1
-"889","R_200XqaQQbBanIrL","Adult","C",5,"Male","Counter Evidence",1
-"890","R_200XqaQQbBanIrL","Adult","C",6,"Male","Counter Evidence",1
-"891","R_24C9ebtNVZZ2Heh","Adult","C",NA,"Male","Action Possible",1
-"892","R_24C9ebtNVZZ2Heh","Adult","C",NA,"Male","Action Impossible",1
-"893","R_24C9ebtNVZZ2Heh","Adult","C",NA,"Male","Action Impossible",0
-"894","R_24C9ebtNVZZ2Heh","Adult","C",NA,"Male","Action Possible",1
-"895","R_24C9ebtNVZZ2Heh","Adult","C",1,"Male","No Evidence",1
-"896","R_24C9ebtNVZZ2Heh","Adult","C",2,"Male","No Evidence",1
-"897","R_24C9ebtNVZZ2Heh","Adult","C",3,"Male","Strong Evidence",1
-"898","R_24C9ebtNVZZ2Heh","Adult","C",4,"Male","Strong Evidence",1
-"899","R_24C9ebtNVZZ2Heh","Adult","C",5,"Male","Counter Evidence",1
-"900","R_24C9ebtNVZZ2Heh","Adult","C",6,"Male","Counter Evidence",1
-"901","R_27xKYDAa9ZD5s6c","Adult","A",NA,"Male","Action Possible",0
-"902","R_27xKYDAa9ZD5s6c","Adult","A",NA,"Male","Action Impossible",0
-"903","R_27xKYDAa9ZD5s6c","Adult","A",NA,"Male","Action Impossible",0
-"904","R_27xKYDAa9ZD5s6c","Adult","A",NA,"Male","Action Possible",0
-"905","R_27xKYDAa9ZD5s6c","Adult","A",1,"Male","No Evidence",0
-"906","R_27xKYDAa9ZD5s6c","Adult","A",2,"Male","No Evidence",1
-"907","R_27xKYDAa9ZD5s6c","Adult","A",3,"Male","Strong Evidence",0
-"908","R_27xKYDAa9ZD5s6c","Adult","A",4,"Male","Strong Evidence",0
-"909","R_27xKYDAa9ZD5s6c","Adult","A",5,"Male","Counter Evidence",1
-"910","R_27xKYDAa9ZD5s6c","Adult","A",6,"Male","Counter Evidence",1
-"911","R_2aac4SsWH9VrRGt","Adult","B",NA,"Male","Action Possible",1
-"912","R_2aac4SsWH9VrRGt","Adult","B",NA,"Male","Action Impossible",0
-"913","R_2aac4SsWH9VrRGt","Adult","B",NA,"Male","Action Impossible",0
-"914","R_2aac4SsWH9VrRGt","Adult","B",NA,"Male","Action Possible",1
-"915","R_2aac4SsWH9VrRGt","Adult","B",1,"Male","No Evidence",1
-"916","R_2aac4SsWH9VrRGt","Adult","B",2,"Male","No Evidence",0
-"917","R_2aac4SsWH9VrRGt","Adult","B",3,"Male","Strong Evidence",0
-"918","R_2aac4SsWH9VrRGt","Adult","B",4,"Male","Strong Evidence",0
-"919","R_2aac4SsWH9VrRGt","Adult","B",5,"Male","Counter Evidence",1
-"920","R_2aac4SsWH9VrRGt","Adult","B",6,"Male","Counter Evidence",1
-"921","R_2Pcj43btYJczSXC","Adult","B",NA,"Male","Action Possible",1
-"922","R_2Pcj43btYJczSXC","Adult","B",NA,"Male","Action Impossible",0
-"923","R_2Pcj43btYJczSXC","Adult","B",NA,"Male","Action Impossible",0
-"924","R_2Pcj43btYJczSXC","Adult","B",NA,"Male","Action Possible",1
-"925","R_2Pcj43btYJczSXC","Adult","B",1,"Male","No Evidence",1
-"926","R_2Pcj43btYJczSXC","Adult","B",2,"Male","No Evidence",1
-"927","R_2Pcj43btYJczSXC","Adult","B",3,"Male","Strong Evidence",0
-"928","R_2Pcj43btYJczSXC","Adult","B",4,"Male","Strong Evidence",1
-"929","R_2Pcj43btYJczSXC","Adult","B",5,"Male","Counter Evidence",1
-"930","R_2Pcj43btYJczSXC","Adult","B",6,"Male","Counter Evidence",1
-"931","R_2TCdEa3G98f11Lx","Adult","A",NA,"Male","Action Possible",1
-"932","R_2TCdEa3G98f11Lx","Adult","A",NA,"Male","Action Impossible",0
-"933","R_2TCdEa3G98f11Lx","Adult","A",NA,"Male","Action Impossible",0
-"934","R_2TCdEa3G98f11Lx","Adult","A",NA,"Male","Action Possible",1
-"935","R_2TCdEa3G98f11Lx","Adult","A",1,"Male","No Evidence",1
-"936","R_2TCdEa3G98f11Lx","Adult","A",2,"Male","No Evidence",1
-"937","R_2TCdEa3G98f11Lx","Adult","A",3,"Male","Strong Evidence",0
-"938","R_2TCdEa3G98f11Lx","Adult","A",4,"Male","Strong Evidence",0
-"939","R_2TCdEa3G98f11Lx","Adult","A",5,"Male","Counter Evidence",1
-"940","R_2TCdEa3G98f11Lx","Adult","A",6,"Male","Counter Evidence",1
-"941","R_2UggNRZqvDsRZvf","Adult","A",NA,"Male","Action Possible",0
-"942","R_2UggNRZqvDsRZvf","Adult","A",NA,"Male","Action Impossible",0
-"943","R_2UggNRZqvDsRZvf","Adult","A",NA,"Male","Action Impossible",0
-"944","R_2UggNRZqvDsRZvf","Adult","A",NA,"Male","Action Possible",0
-"945","R_2UggNRZqvDsRZvf","Adult","A",1,"Male","No Evidence",0
-"946","R_2UggNRZqvDsRZvf","Adult","A",2,"Male","No Evidence",0
-"947","R_2UggNRZqvDsRZvf","Adult","A",3,"Male","Strong Evidence",0
-"948","R_2UggNRZqvDsRZvf","Adult","A",4,"Male","Strong Evidence",0
-"949","R_2UggNRZqvDsRZvf","Adult","A",5,"Male","Counter Evidence",1
-"950","R_2UggNRZqvDsRZvf","Adult","A",6,"Male","Counter Evidence",0
-"951","R_2ydWhZtpBYP98MG","Adult","B",NA,"Female","Action Possible",1
-"952","R_2ydWhZtpBYP98MG","Adult","B",NA,"Female","Action Impossible",0
-"953","R_2ydWhZtpBYP98MG","Adult","B",NA,"Female","Action Impossible",0
-"954","R_2ydWhZtpBYP98MG","Adult","B",NA,"Female","Action Possible",1
-"955","R_2ydWhZtpBYP98MG","Adult","B",1,"Female","No Evidence",1
-"956","R_2ydWhZtpBYP98MG","Adult","B",2,"Female","No Evidence",1
-"957","R_2ydWhZtpBYP98MG","Adult","B",3,"Female","Strong Evidence",0
-"958","R_2ydWhZtpBYP98MG","Adult","B",4,"Female","Strong Evidence",0
-"959","R_2ydWhZtpBYP98MG","Adult","B",5,"Female","Counter Evidence",1
-"960","R_2ydWhZtpBYP98MG","Adult","B",6,"Female","Counter Evidence",0
-"961","R_2YxM0S4dqgLFuPR","Adult","A",NA,"Male","Action Possible",1
-"962","R_2YxM0S4dqgLFuPR","Adult","A",NA,"Male","Action Impossible",0
-"963","R_2YxM0S4dqgLFuPR","Adult","A",NA,"Male","Action Impossible",0
-"964","R_2YxM0S4dqgLFuPR","Adult","A",NA,"Male","Action Possible",1
-"965","R_2YxM0S4dqgLFuPR","Adult","A",1,"Male","No Evidence",0
-"966","R_2YxM0S4dqgLFuPR","Adult","A",2,"Male","No Evidence",0
-"967","R_2YxM0S4dqgLFuPR","Adult","A",3,"Male","Strong Evidence",0
-"968","R_2YxM0S4dqgLFuPR","Adult","A",4,"Male","Strong Evidence",0
-"969","R_2YxM0S4dqgLFuPR","Adult","A",5,"Male","Counter Evidence",1
-"970","R_2YxM0S4dqgLFuPR","Adult","A",6,"Male","Counter Evidence",1
-"971","R_308cQ5OY15potNe","Adult","B",NA,"Male","Action Possible",1
-"972","R_308cQ5OY15potNe","Adult","B",NA,"Male","Action Impossible",0
-"973","R_308cQ5OY15potNe","Adult","B",NA,"Male","Action Impossible",0
-"974","R_308cQ5OY15potNe","Adult","B",NA,"Male","Action Possible",1
-"975","R_308cQ5OY15potNe","Adult","B",1,"Male","No Evidence",1
-"976","R_308cQ5OY15potNe","Adult","B",2,"Male","No Evidence",1
-"977","R_308cQ5OY15potNe","Adult","B",3,"Male","Strong Evidence",1
-"978","R_308cQ5OY15potNe","Adult","B",4,"Male","Strong Evidence",0
-"979","R_308cQ5OY15potNe","Adult","B",5,"Male","Counter Evidence",1
-"980","R_308cQ5OY15potNe","Adult","B",6,"Male","Counter Evidence",1
-"981","R_32PzSQR4zwHiOFg","Adult","C",NA,"Male","Action Possible",1
-"982","R_32PzSQR4zwHiOFg","Adult","C",NA,"Male","Action Impossible",0
-"983","R_32PzSQR4zwHiOFg","Adult","C",NA,"Male","Action Impossible",0
-"984","R_32PzSQR4zwHiOFg","Adult","C",NA,"Male","Action Possible",1
-"985","R_32PzSQR4zwHiOFg","Adult","C",1,"Male","No Evidence",1
-"986","R_32PzSQR4zwHiOFg","Adult","C",2,"Male","No Evidence",1
-"987","R_32PzSQR4zwHiOFg","Adult","C",3,"Male","Strong Evidence",1
-"988","R_32PzSQR4zwHiOFg","Adult","C",4,"Male","Strong Evidence",1
-"989","R_32PzSQR4zwHiOFg","Adult","C",5,"Male","Counter Evidence",1
-"990","R_32PzSQR4zwHiOFg","Adult","C",6,"Male","Counter Evidence",1
-"991","R_33vwj9rILY17DgY","Adult","B",NA,"Female","Action Possible",1
-"992","R_33vwj9rILY17DgY","Adult","B",NA,"Female","Action Impossible",0
-"993","R_33vwj9rILY17DgY","Adult","B",NA,"Female","Action Impossible",0
-"994","R_33vwj9rILY17DgY","Adult","B",NA,"Female","Action Possible",1
-"995","R_33vwj9rILY17DgY","Adult","B",1,"Female","No Evidence",1
-"996","R_33vwj9rILY17DgY","Adult","B",2,"Female","No Evidence",1
-"997","R_33vwj9rILY17DgY","Adult","B",3,"Female","Strong Evidence",0
-"998","R_33vwj9rILY17DgY","Adult","B",4,"Female","Strong Evidence",0
-"999","R_33vwj9rILY17DgY","Adult","B",5,"Female","Counter Evidence",1
-"1000","R_33vwj9rILY17DgY","Adult","B",6,"Female","Counter Evidence",1
-"1001","R_3EfF5LbIeRn50jD","Adult","C",NA,"Male","Action Possible",1
-"1002","R_3EfF5LbIeRn50jD","Adult","C",NA,"Male","Action Impossible",0
-"1003","R_3EfF5LbIeRn50jD","Adult","C",NA,"Male","Action Impossible",0
-"1004","R_3EfF5LbIeRn50jD","Adult","C",NA,"Male","Action Possible",1
-"1005","R_3EfF5LbIeRn50jD","Adult","C",1,"Male","No Evidence",1
-"1006","R_3EfF5LbIeRn50jD","Adult","C",2,"Male","No Evidence",0
-"1007","R_3EfF5LbIeRn50jD","Adult","C",3,"Male","Strong Evidence",1
-"1008","R_3EfF5LbIeRn50jD","Adult","C",4,"Male","Strong Evidence",0
-"1009","R_3EfF5LbIeRn50jD","Adult","C",5,"Male","Counter Evidence",1
-"1010","R_3EfF5LbIeRn50jD","Adult","C",6,"Male","Counter Evidence",1
-"1011","R_3exGeGi3k81skMv","Adult","C",NA,"Male","Action Possible",0
-"1012","R_3exGeGi3k81skMv","Adult","C",NA,"Male","Action Impossible",0
-"1013","R_3exGeGi3k81skMv","Adult","C",NA,"Male","Action Impossible",0
-"1014","R_3exGeGi3k81skMv","Adult","C",NA,"Male","Action Possible",1
-"1015","R_3exGeGi3k81skMv","Adult","C",1,"Male","No Evidence",1
-"1016","R_3exGeGi3k81skMv","Adult","C",2,"Male","No Evidence",1
-"1017","R_3exGeGi3k81skMv","Adult","C",3,"Male","Strong Evidence",1
-"1018","R_3exGeGi3k81skMv","Adult","C",4,"Male","Strong Evidence",0
-"1019","R_3exGeGi3k81skMv","Adult","C",5,"Male","Counter Evidence",1
-"1020","R_3exGeGi3k81skMv","Adult","C",6,"Male","Counter Evidence",1
-"1021","R_3fUiGh7bAXsTBeb","Adult","C",NA,"Male","Action Possible",1
-"1022","R_3fUiGh7bAXsTBeb","Adult","C",NA,"Male","Action Impossible",0
-"1023","R_3fUiGh7bAXsTBeb","Adult","C",NA,"Male","Action Impossible",0
-"1024","R_3fUiGh7bAXsTBeb","Adult","C",NA,"Male","Action Possible",1
-"1025","R_3fUiGh7bAXsTBeb","Adult","C",1,"Male","No Evidence",1
-"1026","R_3fUiGh7bAXsTBeb","Adult","C",2,"Male","No Evidence",1
-"1027","R_3fUiGh7bAXsTBeb","Adult","C",3,"Male","Strong Evidence",0
-"1028","R_3fUiGh7bAXsTBeb","Adult","C",4,"Male","Strong Evidence",0
-"1029","R_3fUiGh7bAXsTBeb","Adult","C",5,"Male","Counter Evidence",1
-"1030","R_3fUiGh7bAXsTBeb","Adult","C",6,"Male","Counter Evidence",1
-"1031","R_3hiJfMxKLC0T4Zt","Adult","C",NA,"Male","Action Possible",1
-"1032","R_3hiJfMxKLC0T4Zt","Adult","C",NA,"Male","Action Impossible",0
-"1033","R_3hiJfMxKLC0T4Zt","Adult","C",NA,"Male","Action Impossible",0
-"1034","R_3hiJfMxKLC0T4Zt","Adult","C",NA,"Male","Action Possible",1
-"1035","R_3hiJfMxKLC0T4Zt","Adult","C",1,"Male","No Evidence",1
-"1036","R_3hiJfMxKLC0T4Zt","Adult","C",2,"Male","No Evidence",1
-"1037","R_3hiJfMxKLC0T4Zt","Adult","C",3,"Male","Strong Evidence",0
-"1038","R_3hiJfMxKLC0T4Zt","Adult","C",4,"Male","Strong Evidence",0
-"1039","R_3hiJfMxKLC0T4Zt","Adult","C",5,"Male","Counter Evidence",1
-"1040","R_3hiJfMxKLC0T4Zt","Adult","C",6,"Male","Counter Evidence",1
-"1041","R_3jdN5JrTm9Ppd49","Adult","A",NA,"Male","Action Possible",1
-"1042","R_3jdN5JrTm9Ppd49","Adult","A",NA,"Male","Action Impossible",0
-"1043","R_3jdN5JrTm9Ppd49","Adult","A",NA,"Male","Action Impossible",0
-"1044","R_3jdN5JrTm9Ppd49","Adult","A",NA,"Male","Action Possible",1
-"1045","R_3jdN5JrTm9Ppd49","Adult","A",1,"Male","No Evidence",0
-"1046","R_3jdN5JrTm9Ppd49","Adult","A",2,"Male","No Evidence",1
-"1047","R_3jdN5JrTm9Ppd49","Adult","A",3,"Male","Strong Evidence",0
-"1048","R_3jdN5JrTm9Ppd49","Adult","A",4,"Male","Strong Evidence",0
-"1049","R_3jdN5JrTm9Ppd49","Adult","A",5,"Male","Counter Evidence",1
-"1050","R_3jdN5JrTm9Ppd49","Adult","A",6,"Male","Counter Evidence",1
-"1051","R_3jeyQLyK1tPFbtu","Adult","C",NA,"Male","Action Possible",0
-"1052","R_3jeyQLyK1tPFbtu","Adult","C",NA,"Male","Action Impossible",0
-"1053","R_3jeyQLyK1tPFbtu","Adult","C",NA,"Male","Action Impossible",0
-"1054","R_3jeyQLyK1tPFbtu","Adult","C",NA,"Male","Action Possible",1
-"1055","R_3jeyQLyK1tPFbtu","Adult","C",1,"Male","No Evidence",1
-"1056","R_3jeyQLyK1tPFbtu","Adult","C",2,"Male","No Evidence",0
-"1057","R_3jeyQLyK1tPFbtu","Adult","C",3,"Male","Strong Evidence",0
-"1058","R_3jeyQLyK1tPFbtu","Adult","C",4,"Male","Strong Evidence",0
-"1059","R_3jeyQLyK1tPFbtu","Adult","C",5,"Male","Counter Evidence",0
-"1060","R_3jeyQLyK1tPFbtu","Adult","C",6,"Male","Counter Evidence",1
-"1061","R_4PhPQg00cw10Zmp","Adult","A",NA,"Female","Action Possible",0
-"1062","R_4PhPQg00cw10Zmp","Adult","A",NA,"Female","Action Impossible",0
-"1063","R_4PhPQg00cw10Zmp","Adult","A",NA,"Female","Action Impossible",1
-"1064","R_4PhPQg00cw10Zmp","Adult","A",NA,"Female","Action Possible",0
-"1065","R_4PhPQg00cw10Zmp","Adult","A",1,"Female","No Evidence",1
-"1066","R_4PhPQg00cw10Zmp","Adult","A",2,"Female","No Evidence",0
-"1067","R_4PhPQg00cw10Zmp","Adult","A",3,"Female","Strong Evidence",0
-"1068","R_4PhPQg00cw10Zmp","Adult","A",4,"Female","Strong Evidence",0
-"1069","R_4PhPQg00cw10Zmp","Adult","A",5,"Female","Counter Evidence",1
-"1070","R_4PhPQg00cw10Zmp","Adult","A",6,"Female","Counter Evidence",1
-"1071","R_5ngxvcsdF49r8OZ","Adult","B",NA,"Male","Action Possible",1
-"1072","R_5ngxvcsdF49r8OZ","Adult","B",NA,"Male","Action Impossible",0
-"1073","R_5ngxvcsdF49r8OZ","Adult","B",NA,"Male","Action Impossible",0
-"1074","R_5ngxvcsdF49r8OZ","Adult","B",NA,"Male","Action Possible",1
-"1075","R_5ngxvcsdF49r8OZ","Adult","B",1,"Male","No Evidence",1
-"1076","R_5ngxvcsdF49r8OZ","Adult","B",2,"Male","No Evidence",1
-"1077","R_5ngxvcsdF49r8OZ","Adult","B",3,"Male","Strong Evidence",1
-"1078","R_5ngxvcsdF49r8OZ","Adult","B",4,"Male","Strong Evidence",1
-"1079","R_5ngxvcsdF49r8OZ","Adult","B",5,"Male","Counter Evidence",1
-"1080","R_5ngxvcsdF49r8OZ","Adult","B",6,"Male","Counter Evidence",1
-"1081","R_9FGWIguwGVFhfjP","Adult","B",NA,"Male","Action Possible",1
-"1082","R_9FGWIguwGVFhfjP","Adult","B",NA,"Male","Action Impossible",1
-"1083","R_9FGWIguwGVFhfjP","Adult","B",NA,"Male","Action Impossible",1
-"1084","R_9FGWIguwGVFhfjP","Adult","B",NA,"Male","Action Possible",1
-"1085","R_9FGWIguwGVFhfjP","Adult","B",1,"Male","No Evidence",1
-"1086","R_9FGWIguwGVFhfjP","Adult","B",2,"Male","No Evidence",1
-"1087","R_9FGWIguwGVFhfjP","Adult","B",3,"Male","Strong Evidence",1
-"1088","R_9FGWIguwGVFhfjP","Adult","B",4,"Male","Strong Evidence",1
-"1089","R_9FGWIguwGVFhfjP","Adult","B",5,"Male","Counter Evidence",1
-"1090","R_9FGWIguwGVFhfjP","Adult","B",6,"Male","Counter Evidence",1
-"1091","R_aYw8PBS2pTXlvHz","Adult","C",NA,"Male","Action Possible",1
-"1092","R_aYw8PBS2pTXlvHz","Adult","C",NA,"Male","Action Impossible",0
-"1093","R_aYw8PBS2pTXlvHz","Adult","C",NA,"Male","Action Impossible",0
-"1094","R_aYw8PBS2pTXlvHz","Adult","C",NA,"Male","Action Possible",1
-"1095","R_aYw8PBS2pTXlvHz","Adult","C",1,"Male","No Evidence",1
-"1096","R_aYw8PBS2pTXlvHz","Adult","C",2,"Male","No Evidence",1
-"1097","R_aYw8PBS2pTXlvHz","Adult","C",3,"Male","Strong Evidence",1
-"1098","R_aYw8PBS2pTXlvHz","Adult","C",4,"Male","Strong Evidence",0
-"1099","R_aYw8PBS2pTXlvHz","Adult","C",5,"Male","Counter Evidence",1
-"1100","R_aYw8PBS2pTXlvHz","Adult","C",6,"Male","Counter Evidence",1
-"1101","R_BVcpulLz1FmDeXD","Adult","B",NA,"Female","Action Possible",1
-"1102","R_BVcpulLz1FmDeXD","Adult","B",NA,"Female","Action Impossible",0
-"1103","R_BVcpulLz1FmDeXD","Adult","B",NA,"Female","Action Impossible",0
-"1104","R_BVcpulLz1FmDeXD","Adult","B",NA,"Female","Action Possible",1
-"1105","R_BVcpulLz1FmDeXD","Adult","B",1,"Female","No Evidence",1
-"1106","R_BVcpulLz1FmDeXD","Adult","B",2,"Female","No Evidence",1
-"1107","R_BVcpulLz1FmDeXD","Adult","B",3,"Female","Strong Evidence",0
-"1108","R_BVcpulLz1FmDeXD","Adult","B",4,"Female","Strong Evidence",0
-"1109","R_BVcpulLz1FmDeXD","Adult","B",5,"Female","Counter Evidence",1
-"1110","R_BVcpulLz1FmDeXD","Adult","B",6,"Female","Counter Evidence",1
-"1111","R_BxiEAVAKKUbMQkp","Adult","B",NA,"Male","Action Possible",1
-"1112","R_BxiEAVAKKUbMQkp","Adult","B",NA,"Male","Action Impossible",0
-"1113","R_BxiEAVAKKUbMQkp","Adult","B",NA,"Male","Action Impossible",0
-"1114","R_BxiEAVAKKUbMQkp","Adult","B",NA,"Male","Action Possible",1
-"1115","R_BxiEAVAKKUbMQkp","Adult","B",1,"Male","No Evidence",1
-"1116","R_BxiEAVAKKUbMQkp","Adult","B",2,"Male","No Evidence",1
-"1117","R_BxiEAVAKKUbMQkp","Adult","B",3,"Male","Strong Evidence",1
-"1118","R_BxiEAVAKKUbMQkp","Adult","B",4,"Male","Strong Evidence",0
-"1119","R_BxiEAVAKKUbMQkp","Adult","B",5,"Male","Counter Evidence",1
-"1120","R_BxiEAVAKKUbMQkp","Adult","B",6,"Male","Counter Evidence",1
-"1121","R_NUtP7MMVVRuHOkF","Adult","C",NA,"Male","Action Possible",1
-"1122","R_NUtP7MMVVRuHOkF","Adult","C",NA,"Male","Action Impossible",0
-"1123","R_NUtP7MMVVRuHOkF","Adult","C",NA,"Male","Action Impossible",0
-"1124","R_NUtP7MMVVRuHOkF","Adult","C",NA,"Male","Action Possible",1
-"1125","R_NUtP7MMVVRuHOkF","Adult","C",1,"Male","No Evidence",1
-"1126","R_NUtP7MMVVRuHOkF","Adult","C",2,"Male","No Evidence",1
-"1127","R_NUtP7MMVVRuHOkF","Adult","C",3,"Male","Strong Evidence",0
-"1128","R_NUtP7MMVVRuHOkF","Adult","C",4,"Male","Strong Evidence",0
-"1129","R_NUtP7MMVVRuHOkF","Adult","C",5,"Male","Counter Evidence",0
-"1130","R_NUtP7MMVVRuHOkF","Adult","C",6,"Male","Counter Evidence",0
-"1131","R_QgdRn6I7yhL2ZA5","Adult","B",NA,"Female","Action Possible",1
-"1132","R_QgdRn6I7yhL2ZA5","Adult","B",NA,"Female","Action Impossible",0
-"1133","R_QgdRn6I7yhL2ZA5","Adult","B",NA,"Female","Action Impossible",0
-"1134","R_QgdRn6I7yhL2ZA5","Adult","B",NA,"Female","Action Possible",1
-"1135","R_QgdRn6I7yhL2ZA5","Adult","B",1,"Female","No Evidence",1
-"1136","R_QgdRn6I7yhL2ZA5","Adult","B",2,"Female","No Evidence",1
-"1137","R_QgdRn6I7yhL2ZA5","Adult","B",3,"Female","Strong Evidence",0
-"1138","R_QgdRn6I7yhL2ZA5","Adult","B",4,"Female","Strong Evidence",0
-"1139","R_QgdRn6I7yhL2ZA5","Adult","B",5,"Female","Counter Evidence",1
-"1140","R_QgdRn6I7yhL2ZA5","Adult","B",6,"Female","Counter Evidence",1
-"1141","R_RRKuEJ3YAR9FRAZ","Adult","C",NA,"Male","Action Possible",1
-"1142","R_RRKuEJ3YAR9FRAZ","Adult","C",NA,"Male","Action Impossible",0
-"1143","R_RRKuEJ3YAR9FRAZ","Adult","C",NA,"Male","Action Impossible",0
-"1144","R_RRKuEJ3YAR9FRAZ","Adult","C",NA,"Male","Action Possible",1
-"1145","R_RRKuEJ3YAR9FRAZ","Adult","C",1,"Male","No Evidence",1
-"1146","R_RRKuEJ3YAR9FRAZ","Adult","C",2,"Male","No Evidence",0
-"1147","R_RRKuEJ3YAR9FRAZ","Adult","C",3,"Male","Strong Evidence",1
-"1148","R_RRKuEJ3YAR9FRAZ","Adult","C",4,"Male","Strong Evidence",1
-"1149","R_RRKuEJ3YAR9FRAZ","Adult","C",5,"Male","Counter Evidence",0
-"1150","R_RRKuEJ3YAR9FRAZ","Adult","C",6,"Male","Counter Evidence",1
-"1151","R_spzN2Abi1QF5bpf","Adult","B",NA,"Prefer not to specify","Action Possible",1
-"1152","R_spzN2Abi1QF5bpf","Adult","B",NA,"Prefer not to specify","Action Impossible",0
-"1153","R_spzN2Abi1QF5bpf","Adult","B",NA,"Prefer not to specify","Action Impossible",0
-"1154","R_spzN2Abi1QF5bpf","Adult","B",NA,"Prefer not to specify","Action Possible",1
-"1155","R_spzN2Abi1QF5bpf","Adult","B",1,"Prefer not to specify","No Evidence",1
-"1156","R_spzN2Abi1QF5bpf","Adult","B",2,"Prefer not to specify","No Evidence",1
-"1157","R_spzN2Abi1QF5bpf","Adult","B",3,"Prefer not to specify","Strong Evidence",0
-"1158","R_spzN2Abi1QF5bpf","Adult","B",4,"Prefer not to specify","Strong Evidence",0
-"1159","R_spzN2Abi1QF5bpf","Adult","B",5,"Prefer not to specify","Counter Evidence",1
-"1160","R_spzN2Abi1QF5bpf","Adult","B",6,"Prefer not to specify","Counter Evidence",1
-"1161","R_tDPHwviUm00wjrr","Adult","B",NA,"Female","Action Possible",0
-"1162","R_tDPHwviUm00wjrr","Adult","B",NA,"Female","Action Impossible",0
-"1163","R_tDPHwviUm00wjrr","Adult","B",NA,"Female","Action Impossible",0
-"1164","R_tDPHwviUm00wjrr","Adult","B",NA,"Female","Action Possible",0
-"1165","R_tDPHwviUm00wjrr","Adult","B",1,"Female","No Evidence",0
-"1166","R_tDPHwviUm00wjrr","Adult","B",2,"Female","No Evidence",0
-"1167","R_tDPHwviUm00wjrr","Adult","B",3,"Female","Strong Evidence",0
-"1168","R_tDPHwviUm00wjrr","Adult","B",4,"Female","Strong Evidence",0
-"1169","R_tDPHwviUm00wjrr","Adult","B",5,"Female","Counter Evidence",0
-"1170","R_tDPHwviUm00wjrr","Adult","B",6,"Female","Counter Evidence",1
-"1171","R_tPNm9DjGA3HRX7H","Adult","A",NA,"Male","Action Possible",1
-"1172","R_tPNm9DjGA3HRX7H","Adult","A",NA,"Male","Action Impossible",0
-"1173","R_tPNm9DjGA3HRX7H","Adult","A",NA,"Male","Action Impossible",0
-"1174","R_tPNm9DjGA3HRX7H","Adult","A",NA,"Male","Action Possible",1
-"1175","R_tPNm9DjGA3HRX7H","Adult","A",1,"Male","No Evidence",1
-"1176","R_tPNm9DjGA3HRX7H","Adult","A",2,"Male","No Evidence",1
-"1177","R_tPNm9DjGA3HRX7H","Adult","A",3,"Male","Strong Evidence",1
-"1178","R_tPNm9DjGA3HRX7H","Adult","A",4,"Male","Strong Evidence",1
-"1179","R_tPNm9DjGA3HRX7H","Adult","A",5,"Male","Counter Evidence",1
-"1180","R_tPNm9DjGA3HRX7H","Adult","A",6,"Male","Counter Evidence",1
-"1181","R_tQIRmL4NM8XnSlb","Adult","C",NA,"Female","Action Possible",1
-"1182","R_tQIRmL4NM8XnSlb","Adult","C",NA,"Female","Action Impossible",0
-"1183","R_tQIRmL4NM8XnSlb","Adult","C",NA,"Female","Action Impossible",0
-"1184","R_tQIRmL4NM8XnSlb","Adult","C",NA,"Female","Action Possible",1
-"1185","R_tQIRmL4NM8XnSlb","Adult","C",1,"Female","No Evidence",1
-"1186","R_tQIRmL4NM8XnSlb","Adult","C",2,"Female","No Evidence",1
-"1187","R_tQIRmL4NM8XnSlb","Adult","C",3,"Female","Strong Evidence",1
-"1188","R_tQIRmL4NM8XnSlb","Adult","C",4,"Female","Strong Evidence",1
-"1189","R_tQIRmL4NM8XnSlb","Adult","C",5,"Female","Counter Evidence",1
-"1190","R_tQIRmL4NM8XnSlb","Adult","C",6,"Female","Counter Evidence",1
-"1191","R_xg6DHHs9IEz9YcN","Adult","B",NA,"Male","Action Possible",0
-"1192","R_xg6DHHs9IEz9YcN","Adult","B",NA,"Male","Action Impossible",0
-"1193","R_xg6DHHs9IEz9YcN","Adult","B",NA,"Male","Action Impossible",0
-"1194","R_xg6DHHs9IEz9YcN","Adult","B",NA,"Male","Action Possible",0
-"1195","R_xg6DHHs9IEz9YcN","Adult","B",1,"Male","No Evidence",0
-"1196","R_xg6DHHs9IEz9YcN","Adult","B",2,"Male","No Evidence",1
-"1197","R_xg6DHHs9IEz9YcN","Adult","B",3,"Male","Strong Evidence",0
-"1198","R_xg6DHHs9IEz9YcN","Adult","B",4,"Male","Strong Evidence",1
-"1199","R_xg6DHHs9IEz9YcN","Adult","B",5,"Male","Counter Evidence",1
-"1200","R_xg6DHHs9IEz9YcN","Adult","B",6,"Male","Counter Evidence",1
+"","X","ID","Age.3","Stimuli","Trial","Gender","Condition","Answer"
+"1",421,1,"5-6 group","C",NA,"Female","Action Possible",1
+"2",422,1,"5-6 group","C",NA,"Female","Action Impossible",0
+"3",423,1,"5-6 group","C",NA,"Female","Action Impossible",0
+"4",424,1,"5-6 group","C",NA,"Female","Action Possible",1
+"5",425,1,"5-6 group","C",1,"Female","No Evidence",1
+"6",426,1,"5-6 group","C",2,"Female","No Evidence",1
+"7",427,1,"5-6 group","C",3,"Female","Strong Evidence",1
+"8",428,1,"5-6 group","C",4,"Female","Strong Evidence",0
+"9",429,1,"5-6 group","C",5,"Female","Counter Evidence",1
+"10",430,1,"5-6 group","C",6,"Female","Counter Evidence",1
+"11",371,2,"5-6 group","B",NA,"Male","Action Possible",1
+"12",372,2,"5-6 group","B",NA,"Male","Action Impossible",1
+"13",373,2,"5-6 group","B",NA,"Male","Action Impossible",0
+"14",374,2,"5-6 group","B",NA,"Male","Action Possible",1
+"15",375,2,"5-6 group","B",1,"Male","No Evidence",1
+"16",376,2,"5-6 group","B",2,"Male","No Evidence",1
+"17",377,2,"5-6 group","B",3,"Male","Strong Evidence",0
+"18",378,2,"5-6 group","B",4,"Male","Strong Evidence",1
+"19",379,2,"5-6 group","B",5,"Male","Counter Evidence",1
+"20",380,2,"5-6 group","B",6,"Male","Counter Evidence",0
+"21",351,3,"5-6 group","B",NA,"Female","Action Possible",1
+"22",352,3,"5-6 group","B",NA,"Female","Action Impossible",1
+"23",353,3,"5-6 group","B",NA,"Female","Action Impossible",1
+"24",354,3,"5-6 group","B",NA,"Female","Action Possible",1
+"25",355,3,"5-6 group","B",1,"Female","No Evidence",1
+"26",356,3,"5-6 group","B",2,"Female","No Evidence",0
+"27",357,3,"5-6 group","B",3,"Female","Strong Evidence",0
+"28",358,3,"5-6 group","B",4,"Female","Strong Evidence",1
+"29",359,3,"5-6 group","B",5,"Female","Counter Evidence",1
+"30",360,3,"5-6 group","B",6,"Female","Counter Evidence",1
+"31",61,4,"5-6 group","C",NA,"Male","Action Possible",1
+"32",62,4,"5-6 group","C",NA,"Male","Action Impossible",0
+"33",63,4,"5-6 group","C",NA,"Male","Action Impossible",0
+"34",64,4,"5-6 group","C",NA,"Male","Action Possible",1
+"35",65,4,"5-6 group","C",1,"Male","No Evidence",1
+"36",66,4,"5-6 group","C",2,"Male","No Evidence",1
+"37",67,4,"5-6 group","C",3,"Male","Strong Evidence",1
+"38",68,4,"5-6 group","C",4,"Male","Strong Evidence",0
+"39",69,4,"5-6 group","C",5,"Male","Counter Evidence",1
+"40",70,4,"5-6 group","C",6,"Male","Counter Evidence",1
+"41",51,5,"5-6 group","C",NA,"Male","Action Possible",1
+"42",52,5,"5-6 group","C",NA,"Male","Action Impossible",0
+"43",53,5,"5-6 group","C",NA,"Male","Action Impossible",0
+"44",54,5,"5-6 group","C",NA,"Male","Action Possible",1
+"45",55,5,"5-6 group","C",1,"Male","No Evidence",1
+"46",56,5,"5-6 group","C",2,"Male","No Evidence",1
+"47",57,5,"5-6 group","C",3,"Male","Strong Evidence",1
+"48",58,5,"5-6 group","C",4,"Male","Strong Evidence",0
+"49",59,5,"5-6 group","C",5,"Male","Counter Evidence",1
+"50",60,5,"5-6 group","C",6,"Male","Counter Evidence",1
+"51",411,6,"7-8 group","C",NA,"Female","Action Possible",1
+"52",412,6,"7-8 group","C",NA,"Female","Action Impossible",1
+"53",413,6,"7-8 group","C",NA,"Female","Action Impossible",0
+"54",414,6,"7-8 group","C",NA,"Female","Action Possible",1
+"55",415,6,"7-8 group","C",1,"Female","No Evidence",1
+"56",416,6,"7-8 group","C",2,"Female","No Evidence",1
+"57",417,6,"7-8 group","C",3,"Female","Strong Evidence",0
+"58",418,6,"7-8 group","C",4,"Female","Strong Evidence",0
+"59",419,6,"7-8 group","C",5,"Female","Counter Evidence",1
+"60",420,6,"7-8 group","C",6,"Female","Counter Evidence",1
+"61",671,7,"5-6 group","C",NA,"Male","Action Possible",1
+"62",672,7,"5-6 group","C",NA,"Male","Action Impossible",0
+"63",673,7,"5-6 group","C",NA,"Male","Action Impossible",0
+"64",674,7,"5-6 group","C",NA,"Male","Action Possible",1
+"65",675,7,"5-6 group","C",1,"Male","No Evidence",1
+"66",676,7,"5-6 group","C",2,"Male","No Evidence",0
+"67",677,7,"5-6 group","C",3,"Male","Strong Evidence",NA
+"68",678,7,"5-6 group","C",4,"Male","Strong Evidence",NA
+"69",679,7,"5-6 group","C",5,"Male","Counter Evidence",NA
+"70",680,7,"5-6 group","C",6,"Male","Counter Evidence",1
+"71",691,8,"7-8 group","B",NA,"Male","Action Possible",1
+"72",692,8,"7-8 group","B",NA,"Male","Action Impossible",0
+"73",693,8,"7-8 group","B",NA,"Male","Action Impossible",0
+"74",694,8,"7-8 group","B",NA,"Male","Action Possible",1
+"75",695,8,"7-8 group","B",1,"Male","No Evidence",1
+"76",696,8,"7-8 group","B",2,"Male","No Evidence",1
+"77",697,8,"7-8 group","B",3,"Male","Strong Evidence",0
+"78",698,8,"7-8 group","B",4,"Male","Strong Evidence",0
+"79",699,8,"7-8 group","B",5,"Male","Counter Evidence",1
+"80",700,8,"7-8 group","B",6,"Male","Counter Evidence",1
+"81",561,9,"7-8 group","A",NA,"Male","Action Possible",1
+"82",562,9,"7-8 group","A",NA,"Male","Action Impossible",0
+"83",563,9,"7-8 group","A",NA,"Male","Action Impossible",0
+"84",564,9,"7-8 group","A",NA,"Male","Action Possible",1
+"85",565,9,"7-8 group","A",1,"Male","No Evidence",1
+"86",566,9,"7-8 group","A",2,"Male","No Evidence",1
+"87",567,9,"7-8 group","A",3,"Male","Strong Evidence",0
+"88",568,9,"7-8 group","A",4,"Male","Strong Evidence",1
+"89",569,9,"7-8 group","A",5,"Male","Counter Evidence",1
+"90",570,9,"7-8 group","A",6,"Male","Counter Evidence",1
+"91",431,10,"7-8 group","B",NA,"Female","Action Possible",1
+"92",432,10,"7-8 group","B",NA,"Female","Action Impossible",0
+"93",433,10,"7-8 group","B",NA,"Female","Action Impossible",0
+"94",434,10,"7-8 group","B",NA,"Female","Action Possible",1
+"95",435,10,"7-8 group","B",1,"Female","No Evidence",1
+"96",436,10,"7-8 group","B",2,"Female","No Evidence",1
+"97",437,10,"7-8 group","B",3,"Female","Strong Evidence",1
+"98",438,10,"7-8 group","B",4,"Female","Strong Evidence",1
+"99",439,10,"7-8 group","B",5,"Female","Counter Evidence",1
+"100",440,10,"7-8 group","B",6,"Female","Counter Evidence",1
+"101",531,11,"7-8 group","C",NA,"Male","Action Possible",1
+"102",532,11,"7-8 group","C",NA,"Male","Action Impossible",0
+"103",533,11,"7-8 group","C",NA,"Male","Action Impossible",0
+"104",534,11,"7-8 group","C",NA,"Male","Action Possible",1
+"105",535,11,"7-8 group","C",1,"Male","No Evidence",1
+"106",536,11,"7-8 group","C",2,"Male","No Evidence",1
+"107",537,11,"7-8 group","C",3,"Male","Strong Evidence",0
+"108",538,11,"7-8 group","C",4,"Male","Strong Evidence",0
+"109",539,11,"7-8 group","C",5,"Male","Counter Evidence",1
+"110",540,11,"7-8 group","C",6,"Male","Counter Evidence",1
+"111",241,12,"7-8 group","B",NA,"Female","Action Possible",1
+"112",242,12,"7-8 group","B",NA,"Female","Action Impossible",0
+"113",243,12,"7-8 group","B",NA,"Female","Action Impossible",0
+"114",244,12,"7-8 group","B",NA,"Female","Action Possible",1
+"115",245,12,"7-8 group","B",1,"Female","No Evidence",1
+"116",246,12,"7-8 group","B",2,"Female","No Evidence",1
+"117",247,12,"7-8 group","B",3,"Female","Strong Evidence",1
+"118",248,12,"7-8 group","B",4,"Female","Strong Evidence",1
+"119",249,12,"7-8 group","B",5,"Female","Counter Evidence",1
+"120",250,12,"7-8 group","B",6,"Female","Counter Evidence",1
+"121",291,13,"7-8 group","B",NA,"Female","Action Possible",1
+"122",292,13,"7-8 group","B",NA,"Female","Action Impossible",0
+"123",293,13,"7-8 group","B",NA,"Female","Action Impossible",0
+"124",294,13,"7-8 group","B",NA,"Female","Action Possible",1
+"125",295,13,"7-8 group","B",1,"Female","No Evidence",1
+"126",296,13,"7-8 group","B",2,"Female","No Evidence",1
+"127",297,13,"7-8 group","B",3,"Female","Strong Evidence",1
+"128",298,13,"7-8 group","B",4,"Female","Strong Evidence",1
+"129",299,13,"7-8 group","B",5,"Female","Counter Evidence",1
+"130",300,13,"7-8 group","B",6,"Female","Counter Evidence",1
+"131",191,14,"5-6 group","B",NA,"Female","Action Possible",1
+"132",192,14,"5-6 group","B",NA,"Female","Action Impossible",0
+"133",193,14,"5-6 group","B",NA,"Female","Action Impossible",0
+"134",194,14,"5-6 group","B",NA,"Female","Action Possible",1
+"135",195,14,"5-6 group","B",1,"Female","No Evidence",1
+"136",196,14,"5-6 group","B",2,"Female","No Evidence",1
+"137",197,14,"5-6 group","B",3,"Female","Strong Evidence",0
+"138",198,14,"5-6 group","B",4,"Female","Strong Evidence",0
+"139",199,14,"5-6 group","B",5,"Female","Counter Evidence",1
+"140",200,14,"5-6 group","B",6,"Female","Counter Evidence",1
+"141",201,15,"7-8 group","A",NA,"Male","Action Possible",1
+"142",202,15,"7-8 group","A",NA,"Male","Action Impossible",0
+"143",203,15,"7-8 group","A",NA,"Male","Action Impossible",0
+"144",204,15,"7-8 group","A",NA,"Male","Action Possible",1
+"145",205,15,"7-8 group","A",1,"Male","No Evidence",1
+"146",206,15,"7-8 group","A",2,"Male","No Evidence",1
+"147",207,15,"7-8 group","A",3,"Male","Strong Evidence",1
+"148",208,15,"7-8 group","A",4,"Male","Strong Evidence",0
+"149",209,15,"7-8 group","A",5,"Male","Counter Evidence",1
+"150",210,15,"7-8 group","A",6,"Male","Counter Evidence",1
+"151",71,16,"7-8 group","B",NA,"Male","Action Possible",1
+"152",72,16,"7-8 group","B",NA,"Male","Action Impossible",0
+"153",73,16,"7-8 group","B",NA,"Male","Action Impossible",0
+"154",74,16,"7-8 group","B",NA,"Male","Action Possible",1
+"155",75,16,"7-8 group","B",1,"Male","No Evidence",1
+"156",76,16,"7-8 group","B",2,"Male","No Evidence",1
+"157",77,16,"7-8 group","B",3,"Male","Strong Evidence",0
+"158",78,16,"7-8 group","B",4,"Male","Strong Evidence",0
+"159",79,16,"7-8 group","B",5,"Male","Counter Evidence",1
+"160",80,16,"7-8 group","B",6,"Male","Counter Evidence",1
+"161",601,17,"7-8 group","C",NA,"Female","Action Possible",0
+"162",602,17,"7-8 group","C",NA,"Female","Action Impossible",0
+"163",603,17,"7-8 group","C",NA,"Female","Action Impossible",0
+"164",604,17,"7-8 group","C",NA,"Female","Action Possible",0
+"165",605,17,"7-8 group","C",1,"Female","No Evidence",1
+"166",606,17,"7-8 group","C",2,"Female","No Evidence",1
+"167",607,17,"7-8 group","C",3,"Female","Strong Evidence",0
+"168",608,17,"7-8 group","C",4,"Female","Strong Evidence",0
+"169",609,17,"7-8 group","C",5,"Female","Counter Evidence",1
+"170",610,17,"7-8 group","C",6,"Female","Counter Evidence",0
+"171",341,18,"7-8 group","B",NA,"Female","Action Possible",1
+"172",342,18,"7-8 group","B",NA,"Female","Action Impossible",0
+"173",343,18,"7-8 group","B",NA,"Female","Action Impossible",1
+"174",344,18,"7-8 group","B",NA,"Female","Action Possible",1
+"175",345,18,"7-8 group","B",1,"Female","No Evidence",0
+"176",346,18,"7-8 group","B",2,"Female","No Evidence",0
+"177",347,18,"7-8 group","B",3,"Female","Strong Evidence",0
+"178",348,18,"7-8 group","B",4,"Female","Strong Evidence",NA
+"179",349,18,"7-8 group","B",5,"Female","Counter Evidence",NA
+"180",350,18,"7-8 group","B",6,"Female","Counter Evidence",1
+"181",501,19,"7-8 group","A",NA,"Female","Action Possible",1
+"182",502,19,"7-8 group","A",NA,"Female","Action Impossible",0
+"183",503,19,"7-8 group","A",NA,"Female","Action Impossible",0
+"184",504,19,"7-8 group","A",NA,"Female","Action Possible",1
+"185",505,19,"7-8 group","A",1,"Female","No Evidence",1
+"186",506,19,"7-8 group","A",2,"Female","No Evidence",1
+"187",507,19,"7-8 group","A",3,"Female","Strong Evidence",0
+"188",508,19,"7-8 group","A",4,"Female","Strong Evidence",0
+"189",509,19,"7-8 group","A",5,"Female","Counter Evidence",1
+"190",510,19,"7-8 group","A",6,"Female","Counter Evidence",1
+"191",651,20,"5-6 group","A",NA,"Male","Action Possible",1
+"192",652,20,"5-6 group","A",NA,"Male","Action Impossible",0
+"193",653,20,"5-6 group","A",NA,"Male","Action Impossible",0
+"194",654,20,"5-6 group","A",NA,"Male","Action Possible",1
+"195",655,20,"5-6 group","A",1,"Male","No Evidence",1
+"196",656,20,"5-6 group","A",2,"Male","No Evidence",1
+"197",657,20,"5-6 group","A",3,"Male","Strong Evidence",1
+"198",658,20,"5-6 group","A",4,"Male","Strong Evidence",1
+"199",659,20,"5-6 group","A",5,"Male","Counter Evidence",1
+"200",660,20,"5-6 group","A",6,"Male","Counter Evidence",1
+"201",551,21,"7-8 group","B",NA,"Female","Action Possible",1
+"202",552,21,"7-8 group","B",NA,"Female","Action Impossible",0
+"203",553,21,"7-8 group","B",NA,"Female","Action Impossible",0
+"204",554,21,"7-8 group","B",NA,"Female","Action Possible",1
+"205",555,21,"7-8 group","B",1,"Female","No Evidence",0
+"206",556,21,"7-8 group","B",2,"Female","No Evidence",1
+"207",557,21,"7-8 group","B",3,"Female","Strong Evidence",1
+"208",558,21,"7-8 group","B",4,"Female","Strong Evidence",1
+"209",559,21,"7-8 group","B",5,"Female","Counter Evidence",1
+"210",560,21,"7-8 group","B",6,"Female","Counter Evidence",1
+"211",301,22,"5-6 group","A",NA,"Male","Action Possible",1
+"212",302,22,"5-6 group","A",NA,"Male","Action Impossible",0
+"213",303,22,"5-6 group","A",NA,"Male","Action Impossible",0
+"214",304,22,"5-6 group","A",NA,"Male","Action Possible",1
+"215",305,22,"5-6 group","A",1,"Male","No Evidence",1
+"216",306,22,"5-6 group","A",2,"Male","No Evidence",1
+"217",307,22,"5-6 group","A",3,"Male","Strong Evidence",1
+"218",308,22,"5-6 group","A",4,"Male","Strong Evidence",0
+"219",309,22,"5-6 group","A",5,"Male","Counter Evidence",1
+"220",310,22,"5-6 group","A",6,"Male","Counter Evidence",1
+"221",611,23,"5-6 group","C",NA,"Female","Action Possible",1
+"222",612,23,"5-6 group","C",NA,"Female","Action Impossible",0
+"223",613,23,"5-6 group","C",NA,"Female","Action Impossible",0
+"224",614,23,"5-6 group","C",NA,"Female","Action Possible",1
+"225",615,23,"5-6 group","C",1,"Female","No Evidence",1
+"226",616,23,"5-6 group","C",2,"Female","No Evidence",1
+"227",617,23,"5-6 group","C",3,"Female","Strong Evidence",0
+"228",618,23,"5-6 group","C",4,"Female","Strong Evidence",1
+"229",619,23,"5-6 group","C",5,"Female","Counter Evidence",1
+"230",620,23,"5-6 group","C",6,"Female","Counter Evidence",1
+"231",741,24,"5-6 group","A",NA,"Female","Action Possible",1
+"232",742,24,"5-6 group","A",NA,"Female","Action Impossible",0
+"233",743,24,"5-6 group","A",NA,"Female","Action Impossible",0
+"234",744,24,"5-6 group","A",NA,"Female","Action Possible",1
+"235",745,24,"5-6 group","A",1,"Female","No Evidence",1
+"236",746,24,"5-6 group","A",2,"Female","No Evidence",1
+"237",747,24,"5-6 group","A",3,"Female","Strong Evidence",1
+"238",748,24,"5-6 group","A",4,"Female","Strong Evidence",0
+"239",749,24,"5-6 group","A",5,"Female","Counter Evidence",1
+"240",750,24,"5-6 group","A",6,"Female","Counter Evidence",1
+"241",281,25,"5-6 group","A",NA,"Male","Action Possible",1
+"242",282,25,"5-6 group","A",NA,"Male","Action Impossible",0
+"243",283,25,"5-6 group","A",NA,"Male","Action Impossible",0
+"244",284,25,"5-6 group","A",NA,"Male","Action Possible",1
+"245",285,25,"5-6 group","A",1,"Male","No Evidence",1
+"246",286,25,"5-6 group","A",2,"Male","No Evidence",1
+"247",287,25,"5-6 group","A",3,"Male","Strong Evidence",0
+"248",288,25,"5-6 group","A",4,"Male","Strong Evidence",0
+"249",289,25,"5-6 group","A",5,"Male","Counter Evidence",1
+"250",290,25,"5-6 group","A",6,"Male","Counter Evidence",1
+"251",91,26,"5-6 group","B",NA,"Male","Action Possible",1
+"252",92,26,"5-6 group","B",NA,"Male","Action Impossible",0
+"253",93,26,"5-6 group","B",NA,"Male","Action Impossible",0
+"254",94,26,"5-6 group","B",NA,"Male","Action Possible",1
+"255",95,26,"5-6 group","B",1,"Male","No Evidence",1
+"256",96,26,"5-6 group","B",2,"Male","No Evidence",1
+"257",97,26,"5-6 group","B",3,"Male","Strong Evidence",0
+"258",98,26,"5-6 group","B",4,"Male","Strong Evidence",1
+"259",99,26,"5-6 group","B",5,"Male","Counter Evidence",1
+"260",100,26,"5-6 group","B",6,"Male","Counter Evidence",1
+"261",791,27,"7-8 group","C",NA,"Female","Action Possible",1
+"262",792,27,"7-8 group","C",NA,"Female","Action Impossible",0
+"263",793,27,"7-8 group","C",NA,"Female","Action Impossible",0
+"264",794,27,"7-8 group","C",NA,"Female","Action Possible",1
+"265",795,27,"7-8 group","C",1,"Female","No Evidence",1
+"266",796,27,"7-8 group","C",2,"Female","No Evidence",1
+"267",797,27,"7-8 group","C",3,"Female","Strong Evidence",0
+"268",798,27,"7-8 group","C",4,"Female","Strong Evidence",0
+"269",799,27,"7-8 group","C",5,"Female","Counter Evidence",1
+"270",800,27,"7-8 group","C",6,"Female","Counter Evidence",1
+"271",731,28,"7-8 group","A",NA,"Male","Action Possible",1
+"272",732,28,"7-8 group","A",NA,"Male","Action Impossible",0
+"273",733,28,"7-8 group","A",NA,"Male","Action Impossible",0
+"274",734,28,"7-8 group","A",NA,"Male","Action Possible",1
+"275",735,28,"7-8 group","A",1,"Male","No Evidence",0
+"276",736,28,"7-8 group","A",2,"Male","No Evidence",1
+"277",737,28,"7-8 group","A",3,"Male","Strong Evidence",0
+"278",738,28,"7-8 group","A",4,"Male","Strong Evidence",0
+"279",739,28,"7-8 group","A",5,"Male","Counter Evidence",1
+"280",740,28,"7-8 group","A",6,"Male","Counter Evidence",1
+"281",311,29,"7-8 group","B",NA,"Male","Action Possible",1
+"282",312,29,"7-8 group","B",NA,"Male","Action Impossible",0
+"283",313,29,"7-8 group","B",NA,"Male","Action Impossible",0
+"284",314,29,"7-8 group","B",NA,"Male","Action Possible",1
+"285",315,29,"7-8 group","B",1,"Male","No Evidence",1
+"286",316,29,"7-8 group","B",2,"Male","No Evidence",1
+"287",317,29,"7-8 group","B",3,"Male","Strong Evidence",1
+"288",318,29,"7-8 group","B",4,"Male","Strong Evidence",1
+"289",319,29,"7-8 group","B",5,"Male","Counter Evidence",1
+"290",320,29,"7-8 group","B",6,"Male","Counter Evidence",1
+"291",581,30,"7-8 group","B",NA,"Male","Action Possible",1
+"292",582,30,"7-8 group","B",NA,"Male","Action Impossible",0
+"293",583,30,"7-8 group","B",NA,"Male","Action Impossible",0
+"294",584,30,"7-8 group","B",NA,"Male","Action Possible",1
+"295",585,30,"7-8 group","B",1,"Male","No Evidence",1
+"296",586,30,"7-8 group","B",2,"Male","No Evidence",1
+"297",587,30,"7-8 group","B",3,"Male","Strong Evidence",0
+"298",588,30,"7-8 group","B",4,"Male","Strong Evidence",0
+"299",589,30,"7-8 group","B",5,"Male","Counter Evidence",1
+"300",590,30,"7-8 group","B",6,"Male","Counter Evidence",1
+"301",481,31,"7-8 group","C",NA,"Male","Action Possible",1
+"302",482,31,"7-8 group","C",NA,"Male","Action Impossible",0
+"303",483,31,"7-8 group","C",NA,"Male","Action Impossible",0
+"304",484,31,"7-8 group","C",NA,"Male","Action Possible",1
+"305",485,31,"7-8 group","C",1,"Male","No Evidence",1
+"306",486,31,"7-8 group","C",2,"Male","No Evidence",1
+"307",487,31,"7-8 group","C",3,"Male","Strong Evidence",1
+"308",488,31,"7-8 group","C",4,"Male","Strong Evidence",0
+"309",489,31,"7-8 group","C",5,"Male","Counter Evidence",1
+"310",490,31,"7-8 group","C",6,"Male","Counter Evidence",1
+"311",11,32,"5-6 group","C",NA,"Female","Action Possible",1
+"312",12,32,"5-6 group","C",NA,"Female","Action Impossible",0
+"313",13,32,"5-6 group","C",NA,"Female","Action Impossible",0
+"314",14,32,"5-6 group","C",NA,"Female","Action Possible",1
+"315",15,32,"5-6 group","C",1,"Female","No Evidence",1
+"316",16,32,"5-6 group","C",2,"Female","No Evidence",1
+"317",17,32,"5-6 group","C",3,"Female","Strong Evidence",1
+"318",18,32,"5-6 group","C",4,"Female","Strong Evidence",1
+"319",19,32,"5-6 group","C",5,"Female","Counter Evidence",1
+"320",20,32,"5-6 group","C",6,"Female","Counter Evidence",1
+"321",711,33,"7-8 group","A",NA,"Male","Action Possible",1
+"322",712,33,"7-8 group","A",NA,"Male","Action Impossible",0
+"323",713,33,"7-8 group","A",NA,"Male","Action Impossible",0
+"324",714,33,"7-8 group","A",NA,"Male","Action Possible",1
+"325",715,33,"7-8 group","A",1,"Male","No Evidence",1
+"326",716,33,"7-8 group","A",2,"Male","No Evidence",1
+"327",717,33,"7-8 group","A",3,"Male","Strong Evidence",1
+"328",718,33,"7-8 group","A",4,"Male","Strong Evidence",1
+"329",719,33,"7-8 group","A",5,"Male","Counter Evidence",0
+"330",720,33,"7-8 group","A",6,"Male","Counter Evidence",0
+"331",261,34,"5-6 group","B",NA,"Female","Action Possible",1
+"332",262,34,"5-6 group","B",NA,"Female","Action Impossible",0
+"333",263,34,"5-6 group","B",NA,"Female","Action Impossible",0
+"334",264,34,"5-6 group","B",NA,"Female","Action Possible",1
+"335",265,34,"5-6 group","B",1,"Female","No Evidence",1
+"336",266,34,"5-6 group","B",2,"Female","No Evidence",1
+"337",267,34,"5-6 group","B",3,"Female","Strong Evidence",1
+"338",268,34,"5-6 group","B",4,"Female","Strong Evidence",1
+"339",269,34,"5-6 group","B",5,"Female","Counter Evidence",1
+"340",270,34,"5-6 group","B",6,"Female","Counter Evidence",1
+"341",641,35,"7-8 group","C",NA,"Female","Action Possible",1
+"342",642,35,"7-8 group","C",NA,"Female","Action Impossible",0
+"343",643,35,"7-8 group","C",NA,"Female","Action Impossible",0
+"344",644,35,"7-8 group","C",NA,"Female","Action Possible",1
+"345",645,35,"7-8 group","C",1,"Female","No Evidence",1
+"346",646,35,"7-8 group","C",2,"Female","No Evidence",1
+"347",647,35,"7-8 group","C",3,"Female","Strong Evidence",1
+"348",648,35,"7-8 group","C",4,"Female","Strong Evidence",1
+"349",649,35,"7-8 group","C",5,"Female","Counter Evidence",1
+"350",650,35,"7-8 group","C",6,"Female","Counter Evidence",1
+"351",321,36,"5-6 group","B",NA,"Female","Action Possible",1
+"352",322,36,"5-6 group","B",NA,"Female","Action Impossible",0
+"353",323,36,"5-6 group","B",NA,"Female","Action Impossible",0
+"354",324,36,"5-6 group","B",NA,"Female","Action Possible",1
+"355",325,36,"5-6 group","B",1,"Female","No Evidence",1
+"356",326,36,"5-6 group","B",2,"Female","No Evidence",1
+"357",327,36,"5-6 group","B",3,"Female","Strong Evidence",1
+"358",328,36,"5-6 group","B",4,"Female","Strong Evidence",1
+"359",329,36,"5-6 group","B",5,"Female","Counter Evidence",1
+"360",330,36,"5-6 group","B",6,"Female","Counter Evidence",1
+"361",471,37,"5-6 group","C",NA,"Female","Action Possible",1
+"362",472,37,"5-6 group","C",NA,"Female","Action Impossible",0
+"363",473,37,"5-6 group","C",NA,"Female","Action Impossible",0
+"364",474,37,"5-6 group","C",NA,"Female","Action Possible",1
+"365",475,37,"5-6 group","C",1,"Female","No Evidence",1
+"366",476,37,"5-6 group","C",2,"Female","No Evidence",1
+"367",477,37,"5-6 group","C",3,"Female","Strong Evidence",1
+"368",478,37,"5-6 group","C",4,"Female","Strong Evidence",0
+"369",479,37,"5-6 group","C",5,"Female","Counter Evidence",1
+"370",480,37,"5-6 group","C",6,"Female","Counter Evidence",1
+"371",1,38,"5-6 group","A",NA,"Female","Action Possible",1
+"372",2,38,"5-6 group","A",NA,"Female","Action Impossible",0
+"373",3,38,"5-6 group","A",NA,"Female","Action Impossible",0
+"374",4,38,"5-6 group","A",NA,"Female","Action Possible",1
+"375",5,38,"5-6 group","A",1,"Female","No Evidence",1
+"376",6,38,"5-6 group","A",2,"Female","No Evidence",1
+"377",7,38,"5-6 group","A",3,"Female","Strong Evidence",0
+"378",8,38,"5-6 group","A",4,"Female","Strong Evidence",0
+"379",9,38,"5-6 group","A",5,"Female","Counter Evidence",1
+"380",10,38,"5-6 group","A",6,"Female","Counter Evidence",1
+"381",31,39,"7-8 group","B",NA,"Male","Action Possible",1
+"382",32,39,"7-8 group","B",NA,"Male","Action Impossible",0
+"383",33,39,"7-8 group","B",NA,"Male","Action Impossible",0
+"384",34,39,"7-8 group","B",NA,"Male","Action Possible",1
+"385",35,39,"7-8 group","B",1,"Male","No Evidence",1
+"386",36,39,"7-8 group","B",2,"Male","No Evidence",1
+"387",37,39,"7-8 group","B",3,"Male","Strong Evidence",1
+"388",38,39,"7-8 group","B",4,"Male","Strong Evidence",1
+"389",39,39,"7-8 group","B",5,"Male","Counter Evidence",1
+"390",40,39,"7-8 group","B",6,"Male","Counter Evidence",1
+"391",461,40,"7-8 group","C",NA,"Female","Action Possible",1
+"392",462,40,"7-8 group","C",NA,"Female","Action Impossible",0
+"393",463,40,"7-8 group","C",NA,"Female","Action Impossible",0
+"394",464,40,"7-8 group","C",NA,"Female","Action Possible",1
+"395",465,40,"7-8 group","C",1,"Female","No Evidence",1
+"396",466,40,"7-8 group","C",2,"Female","No Evidence",1
+"397",467,40,"7-8 group","C",3,"Female","Strong Evidence",1
+"398",468,40,"7-8 group","C",4,"Female","Strong Evidence",1
+"399",469,40,"7-8 group","C",5,"Female","Counter Evidence",1
+"400",470,40,"7-8 group","C",6,"Female","Counter Evidence",1
+"401",251,41,"5-6 group","B",NA,"Female","Action Possible",1
+"402",252,41,"5-6 group","B",NA,"Female","Action Impossible",0
+"403",253,41,"5-6 group","B",NA,"Female","Action Impossible",0
+"404",254,41,"5-6 group","B",NA,"Female","Action Possible",1
+"405",255,41,"5-6 group","B",1,"Female","No Evidence",1
+"406",256,41,"5-6 group","B",2,"Female","No Evidence",1
+"407",257,41,"5-6 group","B",3,"Female","Strong Evidence",1
+"408",258,41,"5-6 group","B",4,"Female","Strong Evidence",1
+"409",259,41,"5-6 group","B",5,"Female","Counter Evidence",1
+"410",260,41,"5-6 group","B",6,"Female","Counter Evidence",1
+"411",211,42,"7-8 group","A",NA,"Female","Action Possible",1
+"412",212,42,"7-8 group","A",NA,"Female","Action Impossible",0
+"413",213,42,"7-8 group","A",NA,"Female","Action Impossible",0
+"414",214,42,"7-8 group","A",NA,"Female","Action Possible",1
+"415",215,42,"7-8 group","A",1,"Female","No Evidence",1
+"416",216,42,"7-8 group","A",2,"Female","No Evidence",1
+"417",217,42,"7-8 group","A",3,"Female","Strong Evidence",0
+"418",218,42,"7-8 group","A",4,"Female","Strong Evidence",0
+"419",219,42,"7-8 group","A",5,"Female","Counter Evidence",1
+"420",220,42,"7-8 group","A",6,"Female","Counter Evidence",1
+"421",761,43,"7-8 group","A",NA,"Female","Action Possible",1
+"422",762,43,"7-8 group","A",NA,"Female","Action Impossible",0
+"423",763,43,"7-8 group","A",NA,"Female","Action Impossible",0
+"424",764,43,"7-8 group","A",NA,"Female","Action Possible",1
+"425",765,43,"7-8 group","A",1,"Female","No Evidence",1
+"426",766,43,"7-8 group","A",2,"Female","No Evidence",1
+"427",767,43,"7-8 group","A",3,"Female","Strong Evidence",1
+"428",768,43,"7-8 group","A",4,"Female","Strong Evidence",1
+"429",769,43,"7-8 group","A",5,"Female","Counter Evidence",1
+"430",770,43,"7-8 group","A",6,"Female","Counter Evidence",1
+"431",101,44,"5-6 group","C",NA,"Female","Action Possible",1
+"432",102,44,"5-6 group","C",NA,"Female","Action Impossible",0
+"433",103,44,"5-6 group","C",NA,"Female","Action Impossible",0
+"434",104,44,"5-6 group","C",NA,"Female","Action Possible",1
+"435",105,44,"5-6 group","C",1,"Female","No Evidence",1
+"436",106,44,"5-6 group","C",2,"Female","No Evidence",1
+"437",107,44,"5-6 group","C",3,"Female","Strong Evidence",1
+"438",108,44,"5-6 group","C",4,"Female","Strong Evidence",1
+"439",109,44,"5-6 group","C",5,"Female","Counter Evidence",1
+"440",110,44,"5-6 group","C",6,"Female","Counter Evidence",1
+"441",141,45,"5-6 group","A",NA,"Female","Action Possible",1
+"442",142,45,"5-6 group","A",NA,"Female","Action Impossible",0
+"443",143,45,"5-6 group","A",NA,"Female","Action Impossible",0
+"444",144,45,"5-6 group","A",NA,"Female","Action Possible",1
+"445",145,45,"5-6 group","A",1,"Female","No Evidence",0
+"446",146,45,"5-6 group","A",2,"Female","No Evidence",1
+"447",147,45,"5-6 group","A",3,"Female","Strong Evidence",0
+"448",148,45,"5-6 group","A",4,"Female","Strong Evidence",0
+"449",149,45,"5-6 group","A",5,"Female","Counter Evidence",1
+"450",150,45,"5-6 group","A",6,"Female","Counter Evidence",1
+"451",661,46,"7-8 group","B",NA,"Male","Action Possible",1
+"452",662,46,"7-8 group","B",NA,"Male","Action Impossible",0
+"453",663,46,"7-8 group","B",NA,"Male","Action Impossible",0
+"454",664,46,"7-8 group","B",NA,"Male","Action Possible",1
+"455",665,46,"7-8 group","B",1,"Male","No Evidence",1
+"456",666,46,"7-8 group","B",2,"Male","No Evidence",1
+"457",667,46,"7-8 group","B",3,"Male","Strong Evidence",0
+"458",668,46,"7-8 group","B",4,"Male","Strong Evidence",0
+"459",669,46,"7-8 group","B",5,"Male","Counter Evidence",1
+"460",670,46,"7-8 group","B",6,"Male","Counter Evidence",1
+"461",391,47,"5-6 group","C",NA,"Male","Action Possible",1
+"462",392,47,"5-6 group","C",NA,"Male","Action Impossible",0
+"463",393,47,"5-6 group","C",NA,"Male","Action Impossible",0
+"464",394,47,"5-6 group","C",NA,"Male","Action Possible",1
+"465",395,47,"5-6 group","C",1,"Male","No Evidence",1
+"466",396,47,"5-6 group","C",2,"Male","No Evidence",1
+"467",397,47,"5-6 group","C",3,"Male","Strong Evidence",0
+"468",398,47,"5-6 group","C",4,"Male","Strong Evidence",0
+"469",399,47,"5-6 group","C",5,"Male","Counter Evidence",1
+"470",400,47,"5-6 group","C",6,"Male","Counter Evidence",1
+"471",221,48,"5-6 group","A",NA,"Male","Action Possible",1
+"472",222,48,"5-6 group","A",NA,"Male","Action Impossible",0
+"473",223,48,"5-6 group","A",NA,"Male","Action Impossible",0
+"474",224,48,"5-6 group","A",NA,"Male","Action Possible",1
+"475",225,48,"5-6 group","A",1,"Male","No Evidence",1
+"476",226,48,"5-6 group","A",2,"Male","No Evidence",0
+"477",227,48,"5-6 group","A",3,"Male","Strong Evidence",1
+"478",228,48,"5-6 group","A",4,"Male","Strong Evidence",0
+"479",229,48,"5-6 group","A",5,"Male","Counter Evidence",1
+"480",230,48,"5-6 group","A",6,"Male","Counter Evidence",1
+"481",131,49,"7-8 group","C",NA,"Female","Action Possible",1
+"482",132,49,"7-8 group","C",NA,"Female","Action Impossible",0
+"483",133,49,"7-8 group","C",NA,"Female","Action Impossible",0
+"484",134,49,"7-8 group","C",NA,"Female","Action Possible",1
+"485",135,49,"7-8 group","C",1,"Female","No Evidence",1
+"486",136,49,"7-8 group","C",2,"Female","No Evidence",1
+"487",137,49,"7-8 group","C",3,"Female","Strong Evidence",0
+"488",138,49,"7-8 group","C",4,"Female","Strong Evidence",0
+"489",139,49,"7-8 group","C",5,"Female","Counter Evidence",1
+"490",140,49,"7-8 group","C",6,"Female","Counter Evidence",1
+"491",231,50,"7-8 group","A",NA,"Male","Action Possible",1
+"492",232,50,"7-8 group","A",NA,"Male","Action Impossible",0
+"493",233,50,"7-8 group","A",NA,"Male","Action Impossible",0
+"494",234,50,"7-8 group","A",NA,"Male","Action Possible",1
+"495",235,50,"7-8 group","A",1,"Male","No Evidence",1
+"496",236,50,"7-8 group","A",2,"Male","No Evidence",1
+"497",237,50,"7-8 group","A",3,"Male","Strong Evidence",0
+"498",238,50,"7-8 group","A",4,"Male","Strong Evidence",0
+"499",239,50,"7-8 group","A",5,"Male","Counter Evidence",1
+"500",240,50,"7-8 group","A",6,"Male","Counter Evidence",1
+"501",621,51,"5-6 group","C",NA,"Female","Action Possible",1
+"502",622,51,"5-6 group","C",NA,"Female","Action Impossible",0
+"503",623,51,"5-6 group","C",NA,"Female","Action Impossible",0
+"504",624,51,"5-6 group","C",NA,"Female","Action Possible",0
+"505",625,51,"5-6 group","C",1,"Female","No Evidence",1
+"506",626,51,"5-6 group","C",2,"Female","No Evidence",1
+"507",627,51,"5-6 group","C",3,"Female","Strong Evidence",0
+"508",628,51,"5-6 group","C",4,"Female","Strong Evidence",0
+"509",629,51,"5-6 group","C",5,"Female","Counter Evidence",1
+"510",630,51,"5-6 group","C",6,"Female","Counter Evidence",1
+"511",511,52,"5-6 group","B",NA,"Female","Action Possible",1
+"512",512,52,"5-6 group","B",NA,"Female","Action Impossible",0
+"513",513,52,"5-6 group","B",NA,"Female","Action Impossible",0
+"514",514,52,"5-6 group","B",NA,"Female","Action Possible",1
+"515",515,52,"5-6 group","B",1,"Female","No Evidence",1
+"516",516,52,"5-6 group","B",2,"Female","No Evidence",1
+"517",517,52,"5-6 group","B",3,"Female","Strong Evidence",1
+"518",518,52,"5-6 group","B",4,"Female","Strong Evidence",0
+"519",519,52,"5-6 group","B",5,"Female","Counter Evidence",1
+"520",520,52,"5-6 group","B",6,"Female","Counter Evidence",1
+"521",631,53,"5-6 group","C",NA,"Male","Action Possible",1
+"522",632,53,"5-6 group","C",NA,"Male","Action Impossible",0
+"523",633,53,"5-6 group","C",NA,"Male","Action Impossible",0
+"524",634,53,"5-6 group","C",NA,"Male","Action Possible",1
+"525",635,53,"5-6 group","C",1,"Male","No Evidence",1
+"526",636,53,"5-6 group","C",2,"Male","No Evidence",1
+"527",637,53,"5-6 group","C",3,"Male","Strong Evidence",1
+"528",638,53,"5-6 group","C",4,"Male","Strong Evidence",1
+"529",639,53,"5-6 group","C",5,"Male","Counter Evidence",1
+"530",640,53,"5-6 group","C",6,"Male","Counter Evidence",1
+"531",721,54,"7-8 group","C",NA,"Male","Action Possible",1
+"532",722,54,"7-8 group","C",NA,"Male","Action Impossible",0
+"533",723,54,"7-8 group","C",NA,"Male","Action Impossible",0
+"534",724,54,"7-8 group","C",NA,"Male","Action Possible",1
+"535",725,54,"7-8 group","C",1,"Male","No Evidence",1
+"536",726,54,"7-8 group","C",2,"Male","No Evidence",1
+"537",727,54,"7-8 group","C",3,"Male","Strong Evidence",1
+"538",728,54,"7-8 group","C",4,"Male","Strong Evidence",1
+"539",729,54,"7-8 group","C",5,"Male","Counter Evidence",1
+"540",730,54,"7-8 group","C",6,"Male","Counter Evidence",1
+"541",41,55,"7-8 group","C",NA,"Female","Action Possible",1
+"542",42,55,"7-8 group","C",NA,"Female","Action Impossible",0
+"543",43,55,"7-8 group","C",NA,"Female","Action Impossible",0
+"544",44,55,"7-8 group","C",NA,"Female","Action Possible",1
+"545",45,55,"7-8 group","C",1,"Female","No Evidence",1
+"546",46,55,"7-8 group","C",2,"Female","No Evidence",1
+"547",47,55,"7-8 group","C",3,"Female","Strong Evidence",1
+"548",48,55,"7-8 group","C",4,"Female","Strong Evidence",0
+"549",49,55,"7-8 group","C",5,"Female","Counter Evidence",1
+"550",50,55,"7-8 group","C",6,"Female","Counter Evidence",1
+"551",181,56,"7-8 group","A",NA,"Male","Action Possible",1
+"552",182,56,"7-8 group","A",NA,"Male","Action Impossible",0
+"553",183,56,"7-8 group","A",NA,"Male","Action Impossible",0
+"554",184,56,"7-8 group","A",NA,"Male","Action Possible",1
+"555",185,56,"7-8 group","A",1,"Male","No Evidence",1
+"556",186,56,"7-8 group","A",2,"Male","No Evidence",1
+"557",187,56,"7-8 group","A",3,"Male","Strong Evidence",1
+"558",188,56,"7-8 group","A",4,"Male","Strong Evidence",0
+"559",189,56,"7-8 group","A",5,"Male","Counter Evidence",1
+"560",190,56,"7-8 group","A",6,"Male","Counter Evidence",1
+"561",171,57,"7-8 group","A",NA,"Male","Action Possible",1
+"562",172,57,"7-8 group","A",NA,"Male","Action Impossible",0
+"563",173,57,"7-8 group","A",NA,"Male","Action Impossible",0
+"564",174,57,"7-8 group","A",NA,"Male","Action Possible",1
+"565",175,57,"7-8 group","A",1,"Male","No Evidence",1
+"566",176,57,"7-8 group","A",2,"Male","No Evidence",1
+"567",177,57,"7-8 group","A",3,"Male","Strong Evidence",1
+"568",178,57,"7-8 group","A",4,"Male","Strong Evidence",1
+"569",179,57,"7-8 group","A",5,"Male","Counter Evidence",1
+"570",180,57,"7-8 group","A",6,"Male","Counter Evidence",1
+"571",161,58,"5-6 group","A",NA,"Female","Action Possible",1
+"572",162,58,"5-6 group","A",NA,"Female","Action Impossible",0
+"573",163,58,"5-6 group","A",NA,"Female","Action Impossible",0
+"574",164,58,"5-6 group","A",NA,"Female","Action Possible",1
+"575",165,58,"5-6 group","A",1,"Female","No Evidence",1
+"576",166,58,"5-6 group","A",2,"Female","No Evidence",1
+"577",167,58,"5-6 group","A",3,"Female","Strong Evidence",1
+"578",168,58,"5-6 group","A",4,"Female","Strong Evidence",0
+"579",169,58,"5-6 group","A",5,"Female","Counter Evidence",1
+"580",170,58,"5-6 group","A",6,"Female","Counter Evidence",1
+"581",151,59,"5-6 group","A",NA,"Male","Action Possible",1
+"582",152,59,"5-6 group","A",NA,"Male","Action Impossible",0
+"583",153,59,"5-6 group","A",NA,"Male","Action Impossible",0
+"584",154,59,"5-6 group","A",NA,"Male","Action Possible",1
+"585",155,59,"5-6 group","A",1,"Male","No Evidence",1
+"586",156,59,"5-6 group","A",2,"Male","No Evidence",0
+"587",157,59,"5-6 group","A",3,"Male","Strong Evidence",0
+"588",158,59,"5-6 group","A",4,"Male","Strong Evidence",0
+"589",159,59,"5-6 group","A",5,"Male","Counter Evidence",1
+"590",160,59,"5-6 group","A",6,"Male","Counter Evidence",1
+"591",451,60,"5-6 group","C",NA,"Male","Action Possible",1
+"592",452,60,"5-6 group","C",NA,"Male","Action Impossible",1
+"593",453,60,"5-6 group","C",NA,"Male","Action Impossible",0
+"594",454,60,"5-6 group","C",NA,"Male","Action Possible",1
+"595",455,60,"5-6 group","C",1,"Male","No Evidence",0
+"596",456,60,"5-6 group","C",2,"Male","No Evidence",1
+"597",457,60,"5-6 group","C",3,"Male","Strong Evidence",1
+"598",458,60,"5-6 group","C",4,"Male","Strong Evidence",1
+"599",459,60,"5-6 group","C",5,"Male","Counter Evidence",1
+"600",460,60,"5-6 group","C",6,"Male","Counter Evidence",1
+"601",331,61,"7-8 group","A",NA,"Female","Action Possible",1
+"602",332,61,"7-8 group","A",NA,"Female","Action Impossible",0
+"603",333,61,"7-8 group","A",NA,"Female","Action Impossible",0
+"604",334,61,"7-8 group","A",NA,"Female","Action Possible",1
+"605",335,61,"7-8 group","A",1,"Female","No Evidence",1
+"606",336,61,"7-8 group","A",2,"Female","No Evidence",1
+"607",337,61,"7-8 group","A",3,"Female","Strong Evidence",0
+"608",338,61,"7-8 group","A",4,"Female","Strong Evidence",0
+"609",339,61,"7-8 group","A",5,"Female","Counter Evidence",1
+"610",340,61,"7-8 group","A",6,"Female","Counter Evidence",1
+"611",521,62,"7-8 group","C",NA,"Male","Action Possible",1
+"612",522,62,"7-8 group","C",NA,"Male","Action Impossible",0
+"613",523,62,"7-8 group","C",NA,"Male","Action Impossible",0
+"614",524,62,"7-8 group","C",NA,"Male","Action Possible",1
+"615",525,62,"7-8 group","C",1,"Male","No Evidence",1
+"616",526,62,"7-8 group","C",2,"Male","No Evidence",1
+"617",527,62,"7-8 group","C",3,"Male","Strong Evidence",1
+"618",528,62,"7-8 group","C",4,"Male","Strong Evidence",0
+"619",529,62,"7-8 group","C",5,"Male","Counter Evidence",1
+"620",530,62,"7-8 group","C",6,"Male","Counter Evidence",1
+"621",701,63,"5-6 group","C",NA,"Male","Action Possible",1
+"622",702,63,"5-6 group","C",NA,"Male","Action Impossible",0
+"623",703,63,"5-6 group","C",NA,"Male","Action Impossible",0
+"624",704,63,"5-6 group","C",NA,"Male","Action Possible",1
+"625",705,63,"5-6 group","C",1,"Male","No Evidence",1
+"626",706,63,"5-6 group","C",2,"Male","No Evidence",1
+"627",707,63,"5-6 group","C",3,"Male","Strong Evidence",1
+"628",708,63,"5-6 group","C",4,"Male","Strong Evidence",1
+"629",709,63,"5-6 group","C",5,"Male","Counter Evidence",1
+"630",710,63,"5-6 group","C",6,"Male","Counter Evidence",1
+"631",441,64,"7-8 group","A",NA,"Female","Action Possible",1
+"632",442,64,"7-8 group","A",NA,"Female","Action Impossible",0
+"633",443,64,"7-8 group","A",NA,"Female","Action Impossible",0
+"634",444,64,"7-8 group","A",NA,"Female","Action Possible",1
+"635",445,64,"7-8 group","A",1,"Female","No Evidence",1
+"636",446,64,"7-8 group","A",2,"Female","No Evidence",1
+"637",447,64,"7-8 group","A",3,"Female","Strong Evidence",0
+"638",448,64,"7-8 group","A",4,"Female","Strong Evidence",0
+"639",449,64,"7-8 group","A",5,"Female","Counter Evidence",1
+"640",450,64,"7-8 group","A",6,"Female","Counter Evidence",1
+"641",271,65,"7-8 group","C",NA,"Male","Action Possible",1
+"642",272,65,"7-8 group","C",NA,"Male","Action Impossible",0
+"643",273,65,"7-8 group","C",NA,"Male","Action Impossible",0
+"644",274,65,"7-8 group","C",NA,"Male","Action Possible",1
+"645",275,65,"7-8 group","C",1,"Male","No Evidence",1
+"646",276,65,"7-8 group","C",2,"Male","No Evidence",1
+"647",277,65,"7-8 group","C",3,"Male","Strong Evidence",0
+"648",278,65,"7-8 group","C",4,"Male","Strong Evidence",0
+"649",279,65,"7-8 group","C",5,"Male","Counter Evidence",1
+"650",280,65,"7-8 group","C",6,"Male","Counter Evidence",1
+"651",401,66,"5-6 group","B",NA,"Male","Action Possible",1
+"652",402,66,"5-6 group","B",NA,"Male","Action Impossible",0
+"653",403,66,"5-6 group","B",NA,"Male","Action Impossible",0
+"654",404,66,"5-6 group","B",NA,"Male","Action Possible",1
+"655",405,66,"5-6 group","B",1,"Male","No Evidence",1
+"656",406,66,"5-6 group","B",2,"Male","No Evidence",1
+"657",407,66,"5-6 group","B",3,"Male","Strong Evidence",1
+"658",408,66,"5-6 group","B",4,"Male","Strong Evidence",1
+"659",409,66,"5-6 group","B",5,"Male","Counter Evidence",1
+"660",410,66,"5-6 group","B",6,"Male","Counter Evidence",1
+"661",21,67,"5-6 group","A",NA,"Female","Action Possible",1
+"662",22,67,"5-6 group","A",NA,"Female","Action Impossible",0
+"663",23,67,"5-6 group","A",NA,"Female","Action Impossible",0
+"664",24,67,"5-6 group","A",NA,"Female","Action Possible",1
+"665",25,67,"5-6 group","A",1,"Female","No Evidence",1
+"666",26,67,"5-6 group","A",2,"Female","No Evidence",1
+"667",27,67,"5-6 group","A",3,"Female","Strong Evidence",0
+"668",28,67,"5-6 group","A",4,"Female","Strong Evidence",0
+"669",29,67,"5-6 group","A",5,"Female","Counter Evidence",1
+"670",30,67,"5-6 group","A",6,"Female","Counter Evidence",1
+"671",81,68,"5-6 group","B",NA,"Female","Action Possible",1
+"672",82,68,"5-6 group","B",NA,"Female","Action Impossible",0
+"673",83,68,"5-6 group","B",NA,"Female","Action Impossible",0
+"674",84,68,"5-6 group","B",NA,"Female","Action Possible",1
+"675",85,68,"5-6 group","B",1,"Female","No Evidence",1
+"676",86,68,"5-6 group","B",2,"Female","No Evidence",1
+"677",87,68,"5-6 group","B",3,"Female","Strong Evidence",0
+"678",88,68,"5-6 group","B",4,"Female","Strong Evidence",1
+"679",89,68,"5-6 group","B",5,"Female","Counter Evidence",1
+"680",90,68,"5-6 group","B",6,"Female","Counter Evidence",1
+"681",361,69,"5-6 group","C",NA,"Female","Action Possible",1
+"682",362,69,"5-6 group","C",NA,"Female","Action Impossible",1
+"683",363,69,"5-6 group","C",NA,"Female","Action Impossible",0
+"684",364,69,"5-6 group","C",NA,"Female","Action Possible",1
+"685",365,69,"5-6 group","C",1,"Female","No Evidence",1
+"686",366,69,"5-6 group","C",2,"Female","No Evidence",1
+"687",367,69,"5-6 group","C",3,"Female","Strong Evidence",0
+"688",368,69,"5-6 group","C",4,"Female","Strong Evidence",0
+"689",369,69,"5-6 group","C",5,"Female","Counter Evidence",1
+"690",370,69,"5-6 group","C",6,"Female","Counter Evidence",1
+"691",571,70,"5-6 group","C",NA,"Female","Action Possible",0
+"692",572,70,"5-6 group","C",NA,"Female","Action Impossible",0
+"693",573,70,"5-6 group","C",NA,"Female","Action Impossible",0
+"694",574,70,"5-6 group","C",NA,"Female","Action Possible",0
+"695",575,70,"5-6 group","C",1,"Female","No Evidence",1
+"696",576,70,"5-6 group","C",2,"Female","No Evidence",0
+"697",577,70,"5-6 group","C",3,"Female","Strong Evidence",0
+"698",578,70,"5-6 group","C",4,"Female","Strong Evidence",NA
+"699",579,70,"5-6 group","C",5,"Female","Counter Evidence",0
+"700",580,70,"5-6 group","C",6,"Female","Counter Evidence",1
+"701",591,71,"5-6 group","B",NA,"Female","Action Possible",0
+"702",592,71,"5-6 group","B",NA,"Female","Action Impossible",0
+"703",593,71,"5-6 group","B",NA,"Female","Action Impossible",0
+"704",594,71,"5-6 group","B",NA,"Female","Action Possible",0
+"705",595,71,"5-6 group","B",1,"Female","No Evidence",1
+"706",596,71,"5-6 group","B",2,"Female","No Evidence",1
+"707",597,71,"5-6 group","B",3,"Female","Strong Evidence",0
+"708",598,71,"5-6 group","B",4,"Female","Strong Evidence",0
+"709",599,71,"5-6 group","B",5,"Female","Counter Evidence",NA
+"710",600,71,"5-6 group","B",6,"Female","Counter Evidence",1
+"711",681,72,"5-6 group","A",NA,"Male","Action Possible",1
+"712",682,72,"5-6 group","A",NA,"Male","Action Impossible",0
+"713",683,72,"5-6 group","A",NA,"Male","Action Impossible",0
+"714",684,72,"5-6 group","A",NA,"Male","Action Possible",0
+"715",685,72,"5-6 group","A",1,"Male","No Evidence",1
+"716",686,72,"5-6 group","A",2,"Male","No Evidence",1
+"717",687,72,"5-6 group","A",3,"Male","Strong Evidence",0
+"718",688,72,"5-6 group","A",4,"Male","Strong Evidence",0
+"719",689,72,"5-6 group","A",5,"Male","Counter Evidence",1
+"720",690,72,"5-6 group","A",6,"Male","Counter Evidence",1
+"721",491,73,"5-6 group","A",NA,"Female","Action Possible",1
+"722",492,73,"5-6 group","A",NA,"Female","Action Impossible",0
+"723",493,73,"5-6 group","A",NA,"Female","Action Impossible",0
+"724",494,73,"5-6 group","A",NA,"Female","Action Possible",1
+"725",495,73,"5-6 group","A",1,"Female","No Evidence",1
+"726",496,73,"5-6 group","A",2,"Female","No Evidence",0
+"727",497,73,"5-6 group","A",3,"Female","Strong Evidence",0
+"728",498,73,"5-6 group","A",4,"Female","Strong Evidence",0
+"729",499,73,"5-6 group","A",5,"Female","Counter Evidence",1
+"730",500,73,"5-6 group","A",6,"Female","Counter Evidence",1
+"731",541,74,"7-8 group","C",NA,"Female","Action Possible",1
+"732",542,74,"7-8 group","C",NA,"Female","Action Impossible",0
+"733",543,74,"7-8 group","C",NA,"Female","Action Impossible",0
+"734",544,74,"7-8 group","C",NA,"Female","Action Possible",1
+"735",545,74,"7-8 group","C",1,"Female","No Evidence",1
+"736",546,74,"7-8 group","C",2,"Female","No Evidence",1
+"737",547,74,"7-8 group","C",3,"Female","Strong Evidence",1
+"738",548,74,"7-8 group","C",4,"Female","Strong Evidence",1
+"739",549,74,"7-8 group","C",5,"Female","Counter Evidence",1
+"740",550,74,"7-8 group","C",6,"Female","Counter Evidence",1
+"741",751,75,"7-8 group","A",NA,"Female","Action Possible",1
+"742",752,75,"7-8 group","A",NA,"Female","Action Impossible",0
+"743",753,75,"7-8 group","A",NA,"Female","Action Impossible",0
+"744",754,75,"7-8 group","A",NA,"Female","Action Possible",1
+"745",755,75,"7-8 group","A",1,"Female","No Evidence",0
+"746",756,75,"7-8 group","A",2,"Female","No Evidence",1
+"747",757,75,"7-8 group","A",3,"Female","Strong Evidence",1
+"748",758,75,"7-8 group","A",4,"Female","Strong Evidence",0
+"749",759,75,"7-8 group","A",5,"Female","Counter Evidence",1
+"750",760,75,"7-8 group","A",6,"Female","Counter Evidence",1
+"751",121,76,"5-6 group","C",NA,"Female","Action Possible",1
+"752",122,76,"5-6 group","C",NA,"Female","Action Impossible",0
+"753",123,76,"5-6 group","C",NA,"Female","Action Impossible",0
+"754",124,76,"5-6 group","C",NA,"Female","Action Possible",1
+"755",125,76,"5-6 group","C",1,"Female","No Evidence",1
+"756",126,76,"5-6 group","C",2,"Female","No Evidence",1
+"757",127,76,"5-6 group","C",3,"Female","Strong Evidence",0
+"758",128,76,"5-6 group","C",4,"Female","Strong Evidence",1
+"759",129,76,"5-6 group","C",5,"Female","Counter Evidence",1
+"760",130,76,"5-6 group","C",6,"Female","Counter Evidence",1
+"761",381,77,"5-6 group","B",NA,"Female","Action Possible",1
+"762",382,77,"5-6 group","B",NA,"Female","Action Impossible",0
+"763",383,77,"5-6 group","B",NA,"Female","Action Impossible",0
+"764",384,77,"5-6 group","B",NA,"Female","Action Possible",1
+"765",385,77,"5-6 group","B",1,"Female","No Evidence",1
+"766",386,77,"5-6 group","B",2,"Female","No Evidence",1
+"767",387,77,"5-6 group","B",3,"Female","Strong Evidence",0
+"768",388,77,"5-6 group","B",4,"Female","Strong Evidence",0
+"769",389,77,"5-6 group","B",5,"Female","Counter Evidence",1
+"770",390,77,"5-6 group","B",6,"Female","Counter Evidence",1
+"771",781,78,"7-8 group","C",NA,"Female","Action Possible",1
+"772",782,78,"7-8 group","C",NA,"Female","Action Impossible",0
+"773",783,78,"7-8 group","C",NA,"Female","Action Impossible",0
+"774",784,78,"7-8 group","C",NA,"Female","Action Possible",1
+"775",785,78,"7-8 group","C",1,"Female","No Evidence",1
+"776",786,78,"7-8 group","C",2,"Female","No Evidence",1
+"777",787,78,"7-8 group","C",3,"Female","Strong Evidence",0
+"778",788,78,"7-8 group","C",4,"Female","Strong Evidence",0
+"779",789,78,"7-8 group","C",5,"Female","Counter Evidence",1
+"780",790,78,"7-8 group","C",6,"Female","Counter Evidence",1
+"781",771,79,"7-8 group","C",NA,"Male","Action Possible",1
+"782",772,79,"7-8 group","C",NA,"Male","Action Impossible",0
+"783",773,79,"7-8 group","C",NA,"Male","Action Impossible",0
+"784",774,79,"7-8 group","C",NA,"Male","Action Possible",1
+"785",775,79,"7-8 group","C",1,"Male","No Evidence",1
+"786",776,79,"7-8 group","C",2,"Male","No Evidence",0
+"787",777,79,"7-8 group","C",3,"Male","Strong Evidence",0
+"788",778,79,"7-8 group","C",4,"Male","Strong Evidence",0
+"789",779,79,"7-8 group","C",5,"Male","Counter Evidence",1
+"790",780,79,"7-8 group","C",6,"Male","Counter Evidence",1
+"791",111,80,"7-8 group","B",NA,"Female","Action Possible",1
+"792",112,80,"7-8 group","B",NA,"Female","Action Impossible",0
+"793",113,80,"7-8 group","B",NA,"Female","Action Impossible",0
+"794",114,80,"7-8 group","B",NA,"Female","Action Possible",1
+"795",115,80,"7-8 group","B",1,"Female","No Evidence",1
+"796",116,80,"7-8 group","B",2,"Female","No Evidence",0
+"797",117,80,"7-8 group","B",3,"Female","Strong Evidence",0
+"798",118,80,"7-8 group","B",4,"Female","Strong Evidence",1
+"799",119,80,"7-8 group","B",5,"Female","Counter Evidence",1
+"800",120,80,"7-8 group","B",6,"Female","Counter Evidence",0
+"801",801,81,"Adult","B",NA,"Male","Action Possible",1
+"802",802,81,"Adult","B",NA,"Male","Action Impossible",0
+"803",803,81,"Adult","B",NA,"Male","Action Impossible",0
+"804",804,81,"Adult","B",NA,"Male","Action Possible",1
+"805",805,81,"Adult","B",1,"Male","No Evidence",1
+"806",806,81,"Adult","B",2,"Male","No Evidence",1
+"807",807,81,"Adult","B",3,"Male","Strong Evidence",1
+"808",808,81,"Adult","B",4,"Male","Strong Evidence",0
+"809",809,81,"Adult","B",5,"Male","Counter Evidence",1
+"810",810,81,"Adult","B",6,"Male","Counter Evidence",1
+"811",811,82,"Adult","A",NA,"Male","Action Possible",0
+"812",812,82,"Adult","A",NA,"Male","Action Impossible",0
+"813",813,82,"Adult","A",NA,"Male","Action Impossible",0
+"814",814,82,"Adult","A",NA,"Male","Action Possible",1
+"815",815,82,"Adult","A",1,"Male","No Evidence",1
+"816",816,82,"Adult","A",2,"Male","No Evidence",1
+"817",817,82,"Adult","A",3,"Male","Strong Evidence",0
+"818",818,82,"Adult","A",4,"Male","Strong Evidence",1
+"819",819,82,"Adult","A",5,"Male","Counter Evidence",1
+"820",820,82,"Adult","A",6,"Male","Counter Evidence",1
+"821",821,83,"Adult","A",NA,"Male","Action Possible",1
+"822",822,83,"Adult","A",NA,"Male","Action Impossible",0
+"823",823,83,"Adult","A",NA,"Male","Action Impossible",0
+"824",824,83,"Adult","A",NA,"Male","Action Possible",1
+"825",825,83,"Adult","A",1,"Male","No Evidence",1
+"826",826,83,"Adult","A",2,"Male","No Evidence",1
+"827",827,83,"Adult","A",3,"Male","Strong Evidence",0
+"828",828,83,"Adult","A",4,"Male","Strong Evidence",0
+"829",829,83,"Adult","A",5,"Male","Counter Evidence",1
+"830",830,83,"Adult","A",6,"Male","Counter Evidence",1
+"831",831,84,"Adult","A",NA,"Male","Action Possible",1
+"832",832,84,"Adult","A",NA,"Male","Action Impossible",0
+"833",833,84,"Adult","A",NA,"Male","Action Impossible",0
+"834",834,84,"Adult","A",NA,"Male","Action Possible",1
+"835",835,84,"Adult","A",1,"Male","No Evidence",1
+"836",836,84,"Adult","A",2,"Male","No Evidence",1
+"837",837,84,"Adult","A",3,"Male","Strong Evidence",0
+"838",838,84,"Adult","A",4,"Male","Strong Evidence",0
+"839",839,84,"Adult","A",5,"Male","Counter Evidence",1
+"840",840,84,"Adult","A",6,"Male","Counter Evidence",1
+"841",851,85,"Adult","C",NA,"Male","Action Possible",1
+"842",852,85,"Adult","C",NA,"Male","Action Impossible",0
+"843",853,85,"Adult","C",NA,"Male","Action Impossible",0
+"844",854,85,"Adult","C",NA,"Male","Action Possible",1
+"845",855,85,"Adult","C",1,"Male","No Evidence",1
+"846",856,85,"Adult","C",2,"Male","No Evidence",1
+"847",857,85,"Adult","C",3,"Male","Strong Evidence",0
+"848",858,85,"Adult","C",4,"Male","Strong Evidence",0
+"849",859,85,"Adult","C",5,"Male","Counter Evidence",1
+"850",860,85,"Adult","C",6,"Male","Counter Evidence",1
+"851",861,86,"Adult","A",NA,"Male","Action Possible",1
+"852",862,86,"Adult","A",NA,"Male","Action Impossible",0
+"853",863,86,"Adult","A",NA,"Male","Action Impossible",0
+"854",864,86,"Adult","A",NA,"Male","Action Possible",1
+"855",865,86,"Adult","A",1,"Male","No Evidence",0
+"856",866,86,"Adult","A",2,"Male","No Evidence",1
+"857",867,86,"Adult","A",3,"Male","Strong Evidence",0
+"858",868,86,"Adult","A",4,"Male","Strong Evidence",0
+"859",869,86,"Adult","A",5,"Male","Counter Evidence",1
+"860",870,86,"Adult","A",6,"Male","Counter Evidence",0
+"861",871,87,"Adult","A",NA,"Male","Action Possible",1
+"862",872,87,"Adult","A",NA,"Male","Action Impossible",0
+"863",873,87,"Adult","A",NA,"Male","Action Impossible",0
+"864",874,87,"Adult","A",NA,"Male","Action Possible",1
+"865",875,87,"Adult","A",1,"Male","No Evidence",1
+"866",876,87,"Adult","A",2,"Male","No Evidence",1
+"867",877,87,"Adult","A",3,"Male","Strong Evidence",1
+"868",878,87,"Adult","A",4,"Male","Strong Evidence",0
+"869",879,87,"Adult","A",5,"Male","Counter Evidence",1
+"870",880,87,"Adult","A",6,"Male","Counter Evidence",1
+"871",841,88,"Adult","C",NA,"Male","Action Possible",1
+"872",842,88,"Adult","C",NA,"Male","Action Impossible",0
+"873",843,88,"Adult","C",NA,"Male","Action Impossible",0
+"874",844,88,"Adult","C",NA,"Male","Action Possible",1
+"875",845,88,"Adult","C",1,"Male","No Evidence",1
+"876",846,88,"Adult","C",2,"Male","No Evidence",1
+"877",847,88,"Adult","C",3,"Male","Strong Evidence",1
+"878",848,88,"Adult","C",4,"Male","Strong Evidence",1
+"879",849,88,"Adult","C",5,"Male","Counter Evidence",1
+"880",850,88,"Adult","C",6,"Male","Counter Evidence",1
+"881",881,89,"Adult","C",NA,"Male","Action Possible",1
+"882",882,89,"Adult","C",NA,"Male","Action Impossible",0
+"883",883,89,"Adult","C",NA,"Male","Action Impossible",0
+"884",884,89,"Adult","C",NA,"Male","Action Possible",1
+"885",885,89,"Adult","C",1,"Male","No Evidence",1
+"886",886,89,"Adult","C",2,"Male","No Evidence",1
+"887",887,89,"Adult","C",3,"Male","Strong Evidence",1
+"888",888,89,"Adult","C",4,"Male","Strong Evidence",1
+"889",889,89,"Adult","C",5,"Male","Counter Evidence",1
+"890",890,89,"Adult","C",6,"Male","Counter Evidence",1
+"891",891,90,"Adult","C",NA,"Male","Action Possible",1
+"892",892,90,"Adult","C",NA,"Male","Action Impossible",1
+"893",893,90,"Adult","C",NA,"Male","Action Impossible",0
+"894",894,90,"Adult","C",NA,"Male","Action Possible",1
+"895",895,90,"Adult","C",1,"Male","No Evidence",1
+"896",896,90,"Adult","C",2,"Male","No Evidence",1
+"897",897,90,"Adult","C",3,"Male","Strong Evidence",1
+"898",898,90,"Adult","C",4,"Male","Strong Evidence",1
+"899",899,90,"Adult","C",5,"Male","Counter Evidence",1
+"900",900,90,"Adult","C",6,"Male","Counter Evidence",1
+"901",901,91,"Adult","A",NA,"Male","Action Possible",0
+"902",902,91,"Adult","A",NA,"Male","Action Impossible",0
+"903",903,91,"Adult","A",NA,"Male","Action Impossible",0
+"904",904,91,"Adult","A",NA,"Male","Action Possible",0
+"905",905,91,"Adult","A",1,"Male","No Evidence",0
+"906",906,91,"Adult","A",2,"Male","No Evidence",1
+"907",907,91,"Adult","A",3,"Male","Strong Evidence",0
+"908",908,91,"Adult","A",4,"Male","Strong Evidence",0
+"909",909,91,"Adult","A",5,"Male","Counter Evidence",1
+"910",910,91,"Adult","A",6,"Male","Counter Evidence",1
+"911",921,92,"Adult","B",NA,"Male","Action Possible",1
+"912",922,92,"Adult","B",NA,"Male","Action Impossible",0
+"913",923,92,"Adult","B",NA,"Male","Action Impossible",0
+"914",924,92,"Adult","B",NA,"Male","Action Possible",1
+"915",925,92,"Adult","B",1,"Male","No Evidence",1
+"916",926,92,"Adult","B",2,"Male","No Evidence",1
+"917",927,92,"Adult","B",3,"Male","Strong Evidence",0
+"918",928,92,"Adult","B",4,"Male","Strong Evidence",1
+"919",929,92,"Adult","B",5,"Male","Counter Evidence",1
+"920",930,92,"Adult","B",6,"Male","Counter Evidence",1
+"921",931,93,"Adult","A",NA,"Male","Action Possible",1
+"922",932,93,"Adult","A",NA,"Male","Action Impossible",0
+"923",933,93,"Adult","A",NA,"Male","Action Impossible",0
+"924",934,93,"Adult","A",NA,"Male","Action Possible",1
+"925",935,93,"Adult","A",1,"Male","No Evidence",1
+"926",936,93,"Adult","A",2,"Male","No Evidence",1
+"927",937,93,"Adult","A",3,"Male","Strong Evidence",0
+"928",938,93,"Adult","A",4,"Male","Strong Evidence",0
+"929",939,93,"Adult","A",5,"Male","Counter Evidence",1
+"930",940,93,"Adult","A",6,"Male","Counter Evidence",1
+"931",941,94,"Adult","A",NA,"Male","Action Possible",0
+"932",942,94,"Adult","A",NA,"Male","Action Impossible",0
+"933",943,94,"Adult","A",NA,"Male","Action Impossible",0
+"934",944,94,"Adult","A",NA,"Male","Action Possible",0
+"935",945,94,"Adult","A",1,"Male","No Evidence",0
+"936",946,94,"Adult","A",2,"Male","No Evidence",0
+"937",947,94,"Adult","A",3,"Male","Strong Evidence",0
+"938",948,94,"Adult","A",4,"Male","Strong Evidence",0
+"939",949,94,"Adult","A",5,"Male","Counter Evidence",1
+"940",950,94,"Adult","A",6,"Male","Counter Evidence",0
+"941",961,95,"Adult","A",NA,"Male","Action Possible",1
+"942",962,95,"Adult","A",NA,"Male","Action Impossible",0
+"943",963,95,"Adult","A",NA,"Male","Action Impossible",0
+"944",964,95,"Adult","A",NA,"Male","Action Possible",1
+"945",965,95,"Adult","A",1,"Male","No Evidence",0
+"946",966,95,"Adult","A",2,"Male","No Evidence",0
+"947",967,95,"Adult","A",3,"Male","Strong Evidence",0
+"948",968,95,"Adult","A",4,"Male","Strong Evidence",0
+"949",969,95,"Adult","A",5,"Male","Counter Evidence",1
+"950",970,95,"Adult","A",6,"Male","Counter Evidence",1
+"951",911,96,"Adult","B",NA,"Male","Action Possible",1
+"952",912,96,"Adult","B",NA,"Male","Action Impossible",0
+"953",913,96,"Adult","B",NA,"Male","Action Impossible",0
+"954",914,96,"Adult","B",NA,"Male","Action Possible",1
+"955",915,96,"Adult","B",1,"Male","No Evidence",1
+"956",916,96,"Adult","B",2,"Male","No Evidence",0
+"957",917,96,"Adult","B",3,"Male","Strong Evidence",0
+"958",918,96,"Adult","B",4,"Male","Strong Evidence",0
+"959",919,96,"Adult","B",5,"Male","Counter Evidence",1
+"960",920,96,"Adult","B",6,"Male","Counter Evidence",1
+"961",951,97,"Adult","B",NA,"Female","Action Possible",1
+"962",952,97,"Adult","B",NA,"Female","Action Impossible",0
+"963",953,97,"Adult","B",NA,"Female","Action Impossible",0
+"964",954,97,"Adult","B",NA,"Female","Action Possible",1
+"965",955,97,"Adult","B",1,"Female","No Evidence",1
+"966",956,97,"Adult","B",2,"Female","No Evidence",1
+"967",957,97,"Adult","B",3,"Female","Strong Evidence",0
+"968",958,97,"Adult","B",4,"Female","Strong Evidence",0
+"969",959,97,"Adult","B",5,"Female","Counter Evidence",1
+"970",960,97,"Adult","B",6,"Female","Counter Evidence",0
+"971",971,98,"Adult","B",NA,"Male","Action Possible",1
+"972",972,98,"Adult","B",NA,"Male","Action Impossible",0
+"973",973,98,"Adult","B",NA,"Male","Action Impossible",0
+"974",974,98,"Adult","B",NA,"Male","Action Possible",1
+"975",975,98,"Adult","B",1,"Male","No Evidence",1
+"976",976,98,"Adult","B",2,"Male","No Evidence",1
+"977",977,98,"Adult","B",3,"Male","Strong Evidence",1
+"978",978,98,"Adult","B",4,"Male","Strong Evidence",0
+"979",979,98,"Adult","B",5,"Male","Counter Evidence",1
+"980",980,98,"Adult","B",6,"Male","Counter Evidence",1
+"981",981,99,"Adult","C",NA,"Male","Action Possible",1
+"982",982,99,"Adult","C",NA,"Male","Action Impossible",0
+"983",983,99,"Adult","C",NA,"Male","Action Impossible",0
+"984",984,99,"Adult","C",NA,"Male","Action Possible",1
+"985",985,99,"Adult","C",1,"Male","No Evidence",1
+"986",986,99,"Adult","C",2,"Male","No Evidence",1
+"987",987,99,"Adult","C",3,"Male","Strong Evidence",1
+"988",988,99,"Adult","C",4,"Male","Strong Evidence",1
+"989",989,99,"Adult","C",5,"Male","Counter Evidence",1
+"990",990,99,"Adult","C",6,"Male","Counter Evidence",1
+"991",991,100,"Adult","B",NA,"Female","Action Possible",1
+"992",992,100,"Adult","B",NA,"Female","Action Impossible",0
+"993",993,100,"Adult","B",NA,"Female","Action Impossible",0
+"994",994,100,"Adult","B",NA,"Female","Action Possible",1
+"995",995,100,"Adult","B",1,"Female","No Evidence",1
+"996",996,100,"Adult","B",2,"Female","No Evidence",1
+"997",997,100,"Adult","B",3,"Female","Strong Evidence",0
+"998",998,100,"Adult","B",4,"Female","Strong Evidence",0
+"999",999,100,"Adult","B",5,"Female","Counter Evidence",1
+"1000",1000,100,"Adult","B",6,"Female","Counter Evidence",1
+"1001",1001,101,"Adult","C",NA,"Male","Action Possible",1
+"1002",1002,101,"Adult","C",NA,"Male","Action Impossible",0
+"1003",1003,101,"Adult","C",NA,"Male","Action Impossible",0
+"1004",1004,101,"Adult","C",NA,"Male","Action Possible",1
+"1005",1005,101,"Adult","C",1,"Male","No Evidence",1
+"1006",1006,101,"Adult","C",2,"Male","No Evidence",0
+"1007",1007,101,"Adult","C",3,"Male","Strong Evidence",1
+"1008",1008,101,"Adult","C",4,"Male","Strong Evidence",0
+"1009",1009,101,"Adult","C",5,"Male","Counter Evidence",1
+"1010",1010,101,"Adult","C",6,"Male","Counter Evidence",1
+"1011",1011,102,"Adult","C",NA,"Male","Action Possible",0
+"1012",1012,102,"Adult","C",NA,"Male","Action Impossible",0
+"1013",1013,102,"Adult","C",NA,"Male","Action Impossible",0
+"1014",1014,102,"Adult","C",NA,"Male","Action Possible",1
+"1015",1015,102,"Adult","C",1,"Male","No Evidence",1
+"1016",1016,102,"Adult","C",2,"Male","No Evidence",1
+"1017",1017,102,"Adult","C",3,"Male","Strong Evidence",1
+"1018",1018,102,"Adult","C",4,"Male","Strong Evidence",0
+"1019",1019,102,"Adult","C",5,"Male","Counter Evidence",1
+"1020",1020,102,"Adult","C",6,"Male","Counter Evidence",1
+"1021",1021,103,"Adult","C",NA,"Male","Action Possible",1
+"1022",1022,103,"Adult","C",NA,"Male","Action Impossible",0
+"1023",1023,103,"Adult","C",NA,"Male","Action Impossible",0
+"1024",1024,103,"Adult","C",NA,"Male","Action Possible",1
+"1025",1025,103,"Adult","C",1,"Male","No Evidence",1
+"1026",1026,103,"Adult","C",2,"Male","No Evidence",1
+"1027",1027,103,"Adult","C",3,"Male","Strong Evidence",0
+"1028",1028,103,"Adult","C",4,"Male","Strong Evidence",0
+"1029",1029,103,"Adult","C",5,"Male","Counter Evidence",1
+"1030",1030,103,"Adult","C",6,"Male","Counter Evidence",1
+"1031",1031,104,"Adult","C",NA,"Male","Action Possible",1
+"1032",1032,104,"Adult","C",NA,"Male","Action Impossible",0
+"1033",1033,104,"Adult","C",NA,"Male","Action Impossible",0
+"1034",1034,104,"Adult","C",NA,"Male","Action Possible",1
+"1035",1035,104,"Adult","C",1,"Male","No Evidence",1
+"1036",1036,104,"Adult","C",2,"Male","No Evidence",1
+"1037",1037,104,"Adult","C",3,"Male","Strong Evidence",0
+"1038",1038,104,"Adult","C",4,"Male","Strong Evidence",0
+"1039",1039,104,"Adult","C",5,"Male","Counter Evidence",1
+"1040",1040,104,"Adult","C",6,"Male","Counter Evidence",1
+"1041",1041,105,"Adult","A",NA,"Male","Action Possible",1
+"1042",1042,105,"Adult","A",NA,"Male","Action Impossible",0
+"1043",1043,105,"Adult","A",NA,"Male","Action Impossible",0
+"1044",1044,105,"Adult","A",NA,"Male","Action Possible",1
+"1045",1045,105,"Adult","A",1,"Male","No Evidence",0
+"1046",1046,105,"Adult","A",2,"Male","No Evidence",1
+"1047",1047,105,"Adult","A",3,"Male","Strong Evidence",0
+"1048",1048,105,"Adult","A",4,"Male","Strong Evidence",0
+"1049",1049,105,"Adult","A",5,"Male","Counter Evidence",1
+"1050",1050,105,"Adult","A",6,"Male","Counter Evidence",1
+"1051",1051,106,"Adult","C",NA,"Male","Action Possible",0
+"1052",1052,106,"Adult","C",NA,"Male","Action Impossible",0
+"1053",1053,106,"Adult","C",NA,"Male","Action Impossible",0
+"1054",1054,106,"Adult","C",NA,"Male","Action Possible",1
+"1055",1055,106,"Adult","C",1,"Male","No Evidence",1
+"1056",1056,106,"Adult","C",2,"Male","No Evidence",0
+"1057",1057,106,"Adult","C",3,"Male","Strong Evidence",0
+"1058",1058,106,"Adult","C",4,"Male","Strong Evidence",0
+"1059",1059,106,"Adult","C",5,"Male","Counter Evidence",0
+"1060",1060,106,"Adult","C",6,"Male","Counter Evidence",1
+"1061",1061,107,"Adult","A",NA,"Female","Action Possible",0
+"1062",1062,107,"Adult","A",NA,"Female","Action Impossible",0
+"1063",1063,107,"Adult","A",NA,"Female","Action Impossible",1
+"1064",1064,107,"Adult","A",NA,"Female","Action Possible",0
+"1065",1065,107,"Adult","A",1,"Female","No Evidence",1
+"1066",1066,107,"Adult","A",2,"Female","No Evidence",0
+"1067",1067,107,"Adult","A",3,"Female","Strong Evidence",0
+"1068",1068,107,"Adult","A",4,"Female","Strong Evidence",0
+"1069",1069,107,"Adult","A",5,"Female","Counter Evidence",1
+"1070",1070,107,"Adult","A",6,"Female","Counter Evidence",1
+"1071",1071,108,"Adult","B",NA,"Male","Action Possible",1
+"1072",1072,108,"Adult","B",NA,"Male","Action Impossible",0
+"1073",1073,108,"Adult","B",NA,"Male","Action Impossible",0
+"1074",1074,108,"Adult","B",NA,"Male","Action Possible",1
+"1075",1075,108,"Adult","B",1,"Male","No Evidence",1
+"1076",1076,108,"Adult","B",2,"Male","No Evidence",1
+"1077",1077,108,"Adult","B",3,"Male","Strong Evidence",1
+"1078",1078,108,"Adult","B",4,"Male","Strong Evidence",1
+"1079",1079,108,"Adult","B",5,"Male","Counter Evidence",1
+"1080",1080,108,"Adult","B",6,"Male","Counter Evidence",1
+"1081",1081,109,"Adult","B",NA,"Male","Action Possible",1
+"1082",1082,109,"Adult","B",NA,"Male","Action Impossible",1
+"1083",1083,109,"Adult","B",NA,"Male","Action Impossible",1
+"1084",1084,109,"Adult","B",NA,"Male","Action Possible",1
+"1085",1085,109,"Adult","B",1,"Male","No Evidence",1
+"1086",1086,109,"Adult","B",2,"Male","No Evidence",1
+"1087",1087,109,"Adult","B",3,"Male","Strong Evidence",1
+"1088",1088,109,"Adult","B",4,"Male","Strong Evidence",1
+"1089",1089,109,"Adult","B",5,"Male","Counter Evidence",1
+"1090",1090,109,"Adult","B",6,"Male","Counter Evidence",1
+"1091",1101,110,"Adult","B",NA,"Female","Action Possible",1
+"1092",1102,110,"Adult","B",NA,"Female","Action Impossible",0
+"1093",1103,110,"Adult","B",NA,"Female","Action Impossible",0
+"1094",1104,110,"Adult","B",NA,"Female","Action Possible",1
+"1095",1105,110,"Adult","B",1,"Female","No Evidence",1
+"1096",1106,110,"Adult","B",2,"Female","No Evidence",1
+"1097",1107,110,"Adult","B",3,"Female","Strong Evidence",0
+"1098",1108,110,"Adult","B",4,"Female","Strong Evidence",0
+"1099",1109,110,"Adult","B",5,"Female","Counter Evidence",1
+"1100",1110,110,"Adult","B",6,"Female","Counter Evidence",1
+"1101",1111,111,"Adult","B",NA,"Male","Action Possible",1
+"1102",1112,111,"Adult","B",NA,"Male","Action Impossible",0
+"1103",1113,111,"Adult","B",NA,"Male","Action Impossible",0
+"1104",1114,111,"Adult","B",NA,"Male","Action Possible",1
+"1105",1115,111,"Adult","B",1,"Male","No Evidence",1
+"1106",1116,111,"Adult","B",2,"Male","No Evidence",1
+"1107",1117,111,"Adult","B",3,"Male","Strong Evidence",1
+"1108",1118,111,"Adult","B",4,"Male","Strong Evidence",0
+"1109",1119,111,"Adult","B",5,"Male","Counter Evidence",1
+"1110",1120,111,"Adult","B",6,"Male","Counter Evidence",1
+"1111",1121,112,"Adult","C",NA,"Male","Action Possible",1
+"1112",1122,112,"Adult","C",NA,"Male","Action Impossible",0
+"1113",1123,112,"Adult","C",NA,"Male","Action Impossible",0
+"1114",1124,112,"Adult","C",NA,"Male","Action Possible",1
+"1115",1125,112,"Adult","C",1,"Male","No Evidence",1
+"1116",1126,112,"Adult","C",2,"Male","No Evidence",1
+"1117",1127,112,"Adult","C",3,"Male","Strong Evidence",0
+"1118",1128,112,"Adult","C",4,"Male","Strong Evidence",0
+"1119",1129,112,"Adult","C",5,"Male","Counter Evidence",0
+"1120",1130,112,"Adult","C",6,"Male","Counter Evidence",0
+"1121",1131,113,"Adult","B",NA,"Female","Action Possible",1
+"1122",1132,113,"Adult","B",NA,"Female","Action Impossible",0
+"1123",1133,113,"Adult","B",NA,"Female","Action Impossible",0
+"1124",1134,113,"Adult","B",NA,"Female","Action Possible",1
+"1125",1135,113,"Adult","B",1,"Female","No Evidence",1
+"1126",1136,113,"Adult","B",2,"Female","No Evidence",1
+"1127",1137,113,"Adult","B",3,"Female","Strong Evidence",0
+"1128",1138,113,"Adult","B",4,"Female","Strong Evidence",0
+"1129",1139,113,"Adult","B",5,"Female","Counter Evidence",1
+"1130",1140,113,"Adult","B",6,"Female","Counter Evidence",1
+"1131",1141,114,"Adult","C",NA,"Male","Action Possible",1
+"1132",1142,114,"Adult","C",NA,"Male","Action Impossible",0
+"1133",1143,114,"Adult","C",NA,"Male","Action Impossible",0
+"1134",1144,114,"Adult","C",NA,"Male","Action Possible",1
+"1135",1145,114,"Adult","C",1,"Male","No Evidence",1
+"1136",1146,114,"Adult","C",2,"Male","No Evidence",0
+"1137",1147,114,"Adult","C",3,"Male","Strong Evidence",1
+"1138",1148,114,"Adult","C",4,"Male","Strong Evidence",1
+"1139",1149,114,"Adult","C",5,"Male","Counter Evidence",0
+"1140",1150,114,"Adult","C",6,"Male","Counter Evidence",1
+"1141",1091,115,"Adult","C",NA,"Male","Action Possible",1
+"1142",1092,115,"Adult","C",NA,"Male","Action Impossible",0
+"1143",1093,115,"Adult","C",NA,"Male","Action Impossible",0
+"1144",1094,115,"Adult","C",NA,"Male","Action Possible",1
+"1145",1095,115,"Adult","C",1,"Male","No Evidence",1
+"1146",1096,115,"Adult","C",2,"Male","No Evidence",1
+"1147",1097,115,"Adult","C",3,"Male","Strong Evidence",1
+"1148",1098,115,"Adult","C",4,"Male","Strong Evidence",0
+"1149",1099,115,"Adult","C",5,"Male","Counter Evidence",1
+"1150",1100,115,"Adult","C",6,"Male","Counter Evidence",1
+"1151",1151,116,"Adult","B",NA,"Prefer not to specify","Action Possible",1
+"1152",1152,116,"Adult","B",NA,"Prefer not to specify","Action Impossible",0
+"1153",1153,116,"Adult","B",NA,"Prefer not to specify","Action Impossible",0
+"1154",1154,116,"Adult","B",NA,"Prefer not to specify","Action Possible",1
+"1155",1155,116,"Adult","B",1,"Prefer not to specify","No Evidence",1
+"1156",1156,116,"Adult","B",2,"Prefer not to specify","No Evidence",1
+"1157",1157,116,"Adult","B",3,"Prefer not to specify","Strong Evidence",0
+"1158",1158,116,"Adult","B",4,"Prefer not to specify","Strong Evidence",0
+"1159",1159,116,"Adult","B",5,"Prefer not to specify","Counter Evidence",1
+"1160",1160,116,"Adult","B",6,"Prefer not to specify","Counter Evidence",1
+"1161",1161,117,"Adult","B",NA,"Female","Action Possible",0
+"1162",1162,117,"Adult","B",NA,"Female","Action Impossible",0
+"1163",1163,117,"Adult","B",NA,"Female","Action Impossible",0
+"1164",1164,117,"Adult","B",NA,"Female","Action Possible",0
+"1165",1165,117,"Adult","B",1,"Female","No Evidence",0
+"1166",1166,117,"Adult","B",2,"Female","No Evidence",0
+"1167",1167,117,"Adult","B",3,"Female","Strong Evidence",0
+"1168",1168,117,"Adult","B",4,"Female","Strong Evidence",0
+"1169",1169,117,"Adult","B",5,"Female","Counter Evidence",0
+"1170",1170,117,"Adult","B",6,"Female","Counter Evidence",1
+"1171",1171,118,"Adult","A",NA,"Male","Action Possible",1
+"1172",1172,118,"Adult","A",NA,"Male","Action Impossible",0
+"1173",1173,118,"Adult","A",NA,"Male","Action Impossible",0
+"1174",1174,118,"Adult","A",NA,"Male","Action Possible",1
+"1175",1175,118,"Adult","A",1,"Male","No Evidence",1
+"1176",1176,118,"Adult","A",2,"Male","No Evidence",1
+"1177",1177,118,"Adult","A",3,"Male","Strong Evidence",1
+"1178",1178,118,"Adult","A",4,"Male","Strong Evidence",1
+"1179",1179,118,"Adult","A",5,"Male","Counter Evidence",1
+"1180",1180,118,"Adult","A",6,"Male","Counter Evidence",1
+"1181",1181,119,"Adult","C",NA,"Female","Action Possible",1
+"1182",1182,119,"Adult","C",NA,"Female","Action Impossible",0
+"1183",1183,119,"Adult","C",NA,"Female","Action Impossible",0
+"1184",1184,119,"Adult","C",NA,"Female","Action Possible",1
+"1185",1185,119,"Adult","C",1,"Female","No Evidence",1
+"1186",1186,119,"Adult","C",2,"Female","No Evidence",1
+"1187",1187,119,"Adult","C",3,"Female","Strong Evidence",1
+"1188",1188,119,"Adult","C",4,"Female","Strong Evidence",1
+"1189",1189,119,"Adult","C",5,"Female","Counter Evidence",1
+"1190",1190,119,"Adult","C",6,"Female","Counter Evidence",1
+"1191",1191,120,"Adult","B",NA,"Male","Action Possible",0
+"1192",1192,120,"Adult","B",NA,"Male","Action Impossible",0
+"1193",1193,120,"Adult","B",NA,"Male","Action Impossible",0
+"1194",1194,120,"Adult","B",NA,"Male","Action Possible",0
+"1195",1195,120,"Adult","B",1,"Male","No Evidence",0
+"1196",1196,120,"Adult","B",2,"Male","No Evidence",1
+"1197",1197,120,"Adult","B",3,"Male","Strong Evidence",0
+"1198",1198,120,"Adult","B",4,"Male","Strong Evidence",1
+"1199",1199,120,"Adult","B",5,"Male","Counter Evidence",1
+"1200",1200,120,"Adult","B",6,"Male","Counter Evidence",1
