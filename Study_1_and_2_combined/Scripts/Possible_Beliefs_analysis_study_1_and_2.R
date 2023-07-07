@@ -24,6 +24,16 @@ BO.2 <- read.csv("./Study_2/Data/merged.data.Study2.csv")
 # or for results load
 # load("./Study_1_and_2_combined/R_Images/study_1_and_2.RData")
 
+BO.1 <- BO.1 %>%
+  select(
+    X, ID, Age.3,
+    Stimuli,
+    Trial,
+    Condition,
+    Answer,
+    Gender
+  )
+
 BO.2 <- BO.2 %>%
   select(
     X, ID, Age.3,
