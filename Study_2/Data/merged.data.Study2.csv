@@ -1,1201 +1,1201 @@
-"","X","ID","Age.3","Stimuli","Trial","Gender","Condition","Answer","Agent.Morality","Race"
-"1",221,1,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"2",222,1,"7-8 group","D",NA,"Female","Action Impossible",NA,"yes",NA
-"3",223,1,"7-8 group","D",NA,"Female","Action Impossible",0,"no",NA
-"4",224,1,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"5",225,1,"7-8 group","D",1,"Female","Opinion",1,"no",NA
-"6",226,1,"7-8 group","D",2,"Female","Opinion",1,"no",NA
-"7",227,1,"7-8 group","D",3,"Female","Moral",0,"yes",NA
-"8",228,1,"7-8 group","D",4,"Female","Moral",0,"yes",NA
-"9",229,1,"7-8 group","D",5,"Female","Immoral",1,NA,NA
-"10",230,1,"7-8 group","D",6,"Female","Immoral",1,"yes",NA
-"11",61,2,"7-8 group","F",NA,"Female","Action Possible",1,"no",NA
-"12",62,2,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"13",63,2,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"14",64,2,"7-8 group","F",NA,"Female","Action Possible",0,"no",NA
-"15",65,2,"7-8 group","F",1,"Female","Opinion",1,"yes",NA
-"16",66,2,"7-8 group","F",2,"Female","Opinion",0,"yes",NA
-"17",67,2,"7-8 group","F",3,"Female","Moral",0,"yes",NA
-"18",68,2,"7-8 group","F",4,"Female","Moral",0,"no",NA
-"19",69,2,"7-8 group","F",5,"Female","Immoral",1,"no",NA
-"20",70,2,"7-8 group","F",6,"Female","Immoral",1,"?",NA
-"21",151,3,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"22",152,3,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"23",153,3,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"24",154,3,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"25",155,3,"5-6 group","D",1,"Male","Opinion",1,"yes",NA
-"26",156,3,"5-6 group","D",2,"Male","Opinion",1,"no",NA
-"27",157,3,"5-6 group","D",3,"Male","Moral",1,"no",NA
-"28",158,3,"5-6 group","D",4,"Male","Moral",1,"no",NA
-"29",159,3,"5-6 group","D",5,"Male","Immoral",1,"yes",NA
-"30",160,3,"5-6 group","D",6,"Male","Immoral",1,"no",NA
-"31",101,4,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"32",102,4,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"33",103,4,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"34",104,4,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"35",105,4,"7-8 group","D",1,"Female","Opinion",1,"no",NA
-"36",106,4,"7-8 group","D",2,"Female","Opinion",1,"no",NA
-"37",107,4,"7-8 group","D",3,"Female","Moral",0,"?",NA
-"38",108,4,"7-8 group","D",4,"Female","Moral",0,"?",NA
-"39",109,4,"7-8 group","D",5,"Female","Immoral",1,"?",NA
-"40",110,4,"7-8 group","D",6,"Female","Immoral",1,"?",NA
-"41",771,5,"5-6 group","E",NA,"Male","Action Possible",1,"no",NA
-"42",772,5,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"43",773,5,"5-6 group","E",NA,"Male","Action Impossible",1,"no",NA
-"44",774,5,"5-6 group","E",NA,"Male","Action Possible",1,"no",NA
-"45",775,5,"5-6 group","E",1,"Male","Opinion",1,"no",NA
-"46",776,5,"5-6 group","E",2,"Male","Opinion",1,"no",NA
-"47",777,5,"5-6 group","E",3,"Male","Moral",0,"yes",NA
-"48",778,5,"5-6 group","E",4,"Male","Moral",0,"yes",NA
-"49",779,5,"5-6 group","E",5,"Male","Immoral",1,"yes",NA
-"50",780,5,"5-6 group","E",6,"Male","Immoral",1,"yes",NA
-"51",661,6,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"52",662,6,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"53",663,6,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"54",664,6,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"55",665,6,"7-8 group","D",1,"Female","Opinion",1,"yes",NA
-"56",666,6,"7-8 group","D",2,"Female","Opinion",1,"yes",NA
-"57",667,6,"7-8 group","D",3,"Female","Moral",1,"yes",NA
-"58",668,6,"7-8 group","D",4,"Female","Moral",1,"yes",NA
-"59",669,6,"7-8 group","D",5,"Female","Immoral",1,"yes",NA
-"60",670,6,"7-8 group","D",6,"Female","Immoral",1,"yes",NA
-"61",761,7,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"62",762,7,"7-8 group","D",NA,"Female","Action Impossible",1,"yes",NA
-"63",763,7,"7-8 group","D",NA,"Female","Action Impossible",1,"yes",NA
-"64",764,7,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"65",765,7,"7-8 group","D",1,"Female","Opinion",1,"yes",NA
-"66",766,7,"7-8 group","D",2,"Female","Opinion",1,"yes",NA
-"67",767,7,"7-8 group","D",3,"Female","Moral",1,"yes",NA
-"68",768,7,"7-8 group","D",4,"Female","Moral",1,"yes",NA
-"69",769,7,"7-8 group","D",5,"Female","Immoral",1,"yes",NA
-"70",770,7,"7-8 group","D",6,"Female","Immoral",1,"yes",NA
-"71",691,8,"7-8 group","F",NA,"Female","Action Possible",1,NA,NA
-"72",692,8,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"73",693,8,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"74",694,8,"7-8 group","F",NA,"Female","Action Possible",1,"no",NA
-"75",695,8,"7-8 group","F",1,"Female","Opinion",1,"no",NA
-"76",696,8,"7-8 group","F",2,"Female","Opinion",1,"no",NA
-"77",697,8,"7-8 group","F",3,"Female","Moral",0,"?",NA
-"78",698,8,"7-8 group","F",4,"Female","Moral",0,"no",NA
-"79",699,8,"7-8 group","F",5,"Female","Immoral",1,"yes",NA
-"80",700,8,"7-8 group","F",6,"Female","Immoral",1,"yes",NA
-"81",481,9,"7-8 group","D",NA,"Male","Action Possible",1,"no",NA
-"82",482,9,"7-8 group","D",NA,"Male","Action Impossible",0,"no",NA
-"83",483,9,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"84",484,9,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"85",485,9,"7-8 group","D",1,"Male","Opinion",1,"no",NA
-"86",486,9,"7-8 group","D",2,"Male","Opinion",1,"no",NA
-"87",487,9,"7-8 group","D",3,"Male","Moral",0,"yes",NA
-"88",488,9,"7-8 group","D",4,"Male","Moral",0,"yes",NA
-"89",489,9,"7-8 group","D",5,"Male","Immoral",1,"yes",NA
-"90",490,9,"7-8 group","D",6,"Male","Immoral",1,"yes",NA
-"91",241,10,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"92",242,10,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"93",243,10,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"94",244,10,"7-8 group","F",NA,"Male","Action Possible",1,"no",NA
-"95",245,10,"7-8 group","F",1,"Male","Opinion",1,"yes",NA
-"96",246,10,"7-8 group","F",2,"Male","Opinion",1,"no",NA
-"97",247,10,"7-8 group","F",3,"Male","Moral",0,"yes",NA
-"98",248,10,"7-8 group","F",4,"Male","Moral",0,"yes",NA
-"99",249,10,"7-8 group","F",5,"Male","Immoral",1,"yes",NA
-"100",250,10,"7-8 group","F",6,"Male","Immoral",1,"yes",NA
-"101",501,11,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"102",502,11,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"103",503,11,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"104",504,11,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"105",505,11,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"106",506,11,"7-8 group","E",2,"Female","Opinion",1,"yes",NA
-"107",507,11,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"108",508,11,"7-8 group","E",4,"Female","Moral",1,NA,NA
-"109",509,11,"7-8 group","E",5,"Female","Immoral",1,"no",NA
-"110",510,11,"7-8 group","E",6,"Female","Immoral",1,"no",NA
-"111",611,12,"5-6 group","F",NA,"Male","Action Possible",0,"no",NA
-"112",612,12,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"113",613,12,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"114",614,12,"5-6 group","F",NA,"Male","Action Possible",0,"no",NA
-"115",615,12,"5-6 group","F",1,"Male","Opinion",1,"yes",NA
-"116",616,12,"5-6 group","F",2,"Male","Opinion",1,"no",NA
-"117",617,12,"5-6 group","F",3,"Male","Moral",0,"yes",NA
-"118",618,12,"5-6 group","F",4,"Male","Moral",0,"yes",NA
-"119",619,12,"5-6 group","F",5,"Male","Immoral",1,"yes",NA
-"120",620,12,"5-6 group","F",6,"Male","Immoral",1,"yes",NA
-"121",681,13,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"122",682,13,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"123",683,13,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"124",684,13,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"125",685,13,"7-8 group","D",1,"Male","Opinion",1,"yes",NA
-"126",686,13,"7-8 group","D",2,"Male","Opinion",1,"yes",NA
-"127",687,13,"7-8 group","D",3,"Male","Moral",1,"?",NA
-"128",688,13,"7-8 group","D",4,"Male","Moral",0,"no",NA
-"129",689,13,"7-8 group","D",5,"Male","Immoral",1,"yes",NA
-"130",690,13,"7-8 group","D",6,"Male","Immoral",1,"no",NA
-"131",371,14,"5-6 group","F",NA,"Male","Action Possible",0,"yes",NA
-"132",372,14,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"133",373,14,"5-6 group","F",NA,"Male","Action Impossible",0,"no",NA
-"134",374,14,"5-6 group","F",NA,"Male","Action Possible",0,"no",NA
-"135",375,14,"5-6 group","F",1,"Male","Opinion",1,"yes",NA
-"136",376,14,"5-6 group","F",2,"Male","Opinion",1,"no",NA
-"137",377,14,"5-6 group","F",3,"Male","Moral",1,"no",NA
-"138",378,14,"5-6 group","F",4,"Male","Moral",0,"no",NA
-"139",379,14,"5-6 group","F",5,"Male","Immoral",0,"no",NA
-"140",380,14,"5-6 group","F",6,"Male","Immoral",0,"no",NA
-"141",521,15,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"142",522,15,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"143",523,15,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"144",524,15,"7-8 group","E",NA,"Female","Action Possible",1,"no",NA
-"145",525,15,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"146",526,15,"7-8 group","E",2,"Female","Opinion",1,"yes",NA
-"147",527,15,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"148",528,15,"7-8 group","E",4,"Female","Moral",1,"yes",NA
-"149",529,15,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"150",530,15,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"151",21,16,"5-6 group","F",NA,"Female","Action Possible",1,"yes",NA
-"152",22,16,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"153",23,16,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"154",24,16,"5-6 group","F",NA,"Female","Action Possible",1,"no",NA
-"155",25,16,"5-6 group","F",1,"Female","Opinion",1,"no",NA
-"156",26,16,"5-6 group","F",2,"Female","Opinion",1,"yes",NA
-"157",27,16,"5-6 group","F",3,"Female","Moral",0,"yes",NA
-"158",28,16,"5-6 group","F",4,"Female","Moral",0,"yes",NA
-"159",29,16,"5-6 group","F",5,"Female","Immoral",1,"yes",NA
-"160",30,16,"5-6 group","F",6,"Female","Immoral",0,"yes",NA
-"161",51,17,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"162",52,17,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"163",53,17,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"164",54,17,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"165",55,17,"5-6 group","F",1,"Male","Opinion",1,"yes",NA
-"166",56,17,"5-6 group","F",2,"Male","Opinion",1,"yes",NA
-"167",57,17,"5-6 group","F",3,"Male","Moral",1,"yes",NA
-"168",58,17,"5-6 group","F",4,"Male","Moral",1,"yes",NA
-"169",59,17,"5-6 group","F",5,"Male","Immoral",1,"yes",NA
-"170",60,17,"5-6 group","F",6,"Male","Immoral",1,"yes",NA
-"171",91,18,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"172",92,18,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"173",93,18,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"174",94,18,"5-6 group","D",NA,"Female","Action Possible",0,"no",NA
-"175",95,18,"5-6 group","D",1,"Female","Opinion",0,"yes",NA
-"176",96,18,"5-6 group","D",2,"Female","Opinion",0,"yes",NA
-"177",97,18,"5-6 group","D",3,"Female","Moral",0,"yes",NA
-"178",98,18,"5-6 group","D",4,"Female","Moral",0,"no",NA
-"179",99,18,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"180",100,18,"5-6 group","D",6,"Female","Immoral",1,"no",NA
-"181",321,19,"5-6 group","F",NA,"Male","Action Possible",1,NA,NA
-"182",322,19,"5-6 group","F",NA,"Male","Action Impossible",0,"no",NA
-"183",323,19,"5-6 group","F",NA,"Male","Action Impossible",0,NA,NA
-"184",324,19,"5-6 group","F",NA,"Male","Action Possible",1,NA,NA
-"185",325,19,"5-6 group","F",1,"Male","Opinion",1,NA,NA
-"186",326,19,"5-6 group","F",2,"Male","Opinion",1,"no",NA
-"187",327,19,"5-6 group","F",3,"Male","Moral",0,NA,NA
-"188",328,19,"5-6 group","F",4,"Male","Moral",0,NA,NA
-"189",329,19,"5-6 group","F",5,"Male","Immoral",1,"no",NA
-"190",330,19,"5-6 group","F",6,"Male","Immoral",1,"no",NA
-"191",511,20,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"192",512,20,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"193",513,20,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"194",514,20,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"195",515,20,"5-6 group","D",1,"Male","Opinion",1,"yes",NA
-"196",516,20,"5-6 group","D",2,"Male","Opinion",1,"yes",NA
-"197",517,20,"5-6 group","D",3,"Male","Moral",1,"yes",NA
-"198",518,20,"5-6 group","D",4,"Male","Moral",1,"yes",NA
-"199",519,20,"5-6 group","D",5,"Male","Immoral",1,"yes",NA
-"200",520,20,"5-6 group","D",6,"Male","Immoral",1,"yes",NA
-"201",721,21,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"202",722,21,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"203",723,21,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"204",724,21,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"205",725,21,"5-6 group","D",1,"Female","Opinion",1,"no",NA
-"206",726,21,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"207",727,21,"5-6 group","D",3,"Female","Moral",0,"yes",NA
-"208",728,21,"5-6 group","D",4,"Female","Moral",0,"yes",NA
-"209",729,21,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"210",730,21,"5-6 group","D",6,"Female","Immoral",1,"yes",NA
-"211",531,22,"5-6 group","D",NA,"Female","Action Possible",1,NA,NA
-"212",532,22,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"213",533,22,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"214",534,22,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"215",535,22,"5-6 group","D",1,"Female","Opinion",1,NA,NA
-"216",536,22,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"217",537,22,"5-6 group","D",3,"Female","Moral",0,"yes",NA
-"218",538,22,"5-6 group","D",4,"Female","Moral",0,"yes",NA
-"219",539,22,"5-6 group","D",5,"Female","Immoral",1,"yes",NA
-"220",540,22,"5-6 group","D",6,"Female","Immoral",1,"yes",NA
-"221",121,23,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"222",122,23,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"223",123,23,"5-6 group","E",NA,"Male","Action Impossible",0,"no",NA
-"224",124,23,"5-6 group","E",NA,"Male","Action Possible",1,"no",NA
-"225",125,23,"5-6 group","E",1,"Male","Opinion",1,"no",NA
-"226",126,23,"5-6 group","E",2,"Male","Opinion",1,"yes",NA
-"227",127,23,"5-6 group","E",3,"Male","Moral",0,"?",NA
-"228",128,23,"5-6 group","E",4,"Male","Moral",1,"yes",NA
-"229",129,23,"5-6 group","E",5,"Male","Immoral",1,"yes",NA
-"230",130,23,"5-6 group","E",6,"Male","Immoral",1,"?",NA
-"231",111,24,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"232",112,24,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"233",113,24,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"234",114,24,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"235",115,24,"5-6 group","E",1,"Male","Opinion",1,"yes",NA
-"236",116,24,"5-6 group","E",2,"Male","Opinion",1,"no",NA
-"237",117,24,"5-6 group","E",3,"Male","Moral",0,"yes",NA
-"238",118,24,"5-6 group","E",4,"Male","Moral",0,"yes",NA
-"239",119,24,"5-6 group","E",5,"Male","Immoral",1,"?",NA
-"240",120,24,"5-6 group","E",6,"Male","Immoral",1,"?",NA
-"241",271,25,"7-8 group","F",NA,"Female","Action Possible",1,NA,NA
-"242",272,25,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"243",273,25,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"244",274,25,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"245",275,25,"7-8 group","F",1,"Female","Opinion",1,"yes",NA
-"246",276,25,"7-8 group","F",2,"Female","Opinion",1,"no",NA
-"247",277,25,"7-8 group","F",3,"Female","Moral",0,"yes",NA
-"248",278,25,"7-8 group","F",4,"Female","Moral",1,"yes",NA
-"249",279,25,"7-8 group","F",5,"Female","Immoral",1,"yes",NA
-"250",280,25,"7-8 group","F",6,"Female","Immoral",1,"yes",NA
-"251",131,26,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"252",132,26,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"253",133,26,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"254",134,26,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"255",135,26,"5-6 group","E",1,"Male","Opinion",1,"no",NA
-"256",136,26,"5-6 group","E",2,"Male","Opinion",1,"no",NA
-"257",137,26,"5-6 group","E",3,"Male","Moral",NA,"yes",NA
-"258",138,26,"5-6 group","E",4,"Male","Moral",0,"yes",NA
-"259",139,26,"5-6 group","E",5,"Male","Immoral",1,"yes",NA
-"260",140,26,"5-6 group","E",6,"Male","Immoral",1,"yes",NA
-"261",141,27,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"262",142,27,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"263",143,27,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"264",144,27,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"265",145,27,"5-6 group","E",1,"Male","Opinion",1,"yes",NA
-"266",146,27,"5-6 group","E",2,"Male","Opinion",1,"no",NA
-"267",147,27,"5-6 group","E",3,"Male","Moral",0,"?",NA
-"268",148,27,"5-6 group","E",4,"Male","Moral",0,"?",NA
-"269",149,27,"5-6 group","E",5,"Male","Immoral",1,"yes",NA
-"270",150,27,"5-6 group","E",6,"Male","Immoral",1,"yes",NA
-"271",431,28,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"272",432,28,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"273",433,28,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"274",434,28,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"275",435,28,"5-6 group","F",1,"Male","Opinion",1,"yes",NA
-"276",436,28,"5-6 group","F",2,"Male","Opinion",1,"yes",NA
-"277",437,28,"5-6 group","F",3,"Male","Moral",0,"yes",NA
-"278",438,28,"5-6 group","F",4,"Male","Moral",0,"yes",NA
-"279",439,28,"5-6 group","F",5,"Male","Immoral",1,"yes",NA
-"280",440,28,"5-6 group","F",6,"Male","Immoral",1,"yes",NA
-"281",741,29,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"282",742,29,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"283",743,29,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"284",744,29,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"285",745,29,"7-8 group","F",1,"Female","Opinion",1,"yes",NA
-"286",746,29,"7-8 group","F",2,"Female","Opinion",1,"no",NA
-"287",747,29,"7-8 group","F",3,"Female","Moral",1,"yes",NA
-"288",748,29,"7-8 group","F",4,"Female","Moral",1,"yes",NA
-"289",749,29,"7-8 group","F",5,"Female","Immoral",1,"yes",NA
-"290",750,29,"7-8 group","F",6,"Female","Immoral",1,"yes",NA
-"291",461,30,"5-6 group","E",NA,"Male","Action Possible",0,"yes",NA
-"292",462,30,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"293",463,30,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"294",464,30,"5-6 group","E",NA,"Male","Action Possible",0,"yes",NA
-"295",465,30,"5-6 group","E",1,"Male","Opinion",0,"yes",NA
-"296",466,30,"5-6 group","E",2,"Male","Opinion",0,"yes",NA
-"297",467,30,"5-6 group","E",3,"Male","Moral",0,"yes",NA
-"298",468,30,"5-6 group","E",4,"Male","Moral",0,"yes",NA
-"299",469,30,"5-6 group","E",5,"Male","Immoral",0,"yes",NA
-"300",470,30,"5-6 group","E",6,"Male","Immoral",0,"yes",NA
-"301",341,31,"5-6 group","F",NA,"Female","Action Possible",1,"yes",NA
-"302",342,31,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"303",343,31,"5-6 group","F",NA,"Female","Action Impossible",0,"no",NA
-"304",344,31,"5-6 group","F",NA,"Female","Action Possible",1,"yes",NA
-"305",345,31,"5-6 group","F",1,"Female","Opinion",1,"yes",NA
-"306",346,31,"5-6 group","F",2,"Female","Opinion",1,"no",NA
-"307",347,31,"5-6 group","F",3,"Female","Moral",1,NA,NA
-"308",348,31,"5-6 group","F",4,"Female","Moral",1,NA,NA
-"309",349,31,"5-6 group","F",5,"Female","Immoral",1,"no",NA
-"310",350,31,"5-6 group","F",6,"Female","Immoral",1,"no",NA
-"311",561,32,"7-8 group","E",NA,"Male","Action Possible",1,"no",NA
-"312",562,32,"7-8 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"313",563,32,"7-8 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"314",564,32,"7-8 group","E",NA,"Male","Action Possible",1,"no",NA
-"315",565,32,"7-8 group","E",1,"Male","Opinion",1,"no",NA
-"316",566,32,"7-8 group","E",2,"Male","Opinion",1,"no",NA
-"317",567,32,"7-8 group","E",3,"Male","Moral",0,"no",NA
-"318",568,32,"7-8 group","E",4,"Male","Moral",0,"no",NA
-"319",569,32,"7-8 group","E",5,"Male","Immoral",1,"no",NA
-"320",570,32,"7-8 group","E",6,"Male","Immoral",1,"no",NA
-"321",491,33,"7-8 group","D",NA,"Female","Action Possible",1,"no",NA
-"322",492,33,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"323",493,33,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"324",494,33,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"325",495,33,"7-8 group","D",1,"Female","Opinion",1,"yes",NA
-"326",496,33,"7-8 group","D",2,"Female","Opinion",1,"no",NA
-"327",497,33,"7-8 group","D",3,"Female","Moral",0,"?",NA
-"328",498,33,"7-8 group","D",4,"Female","Moral",0,"?",NA
-"329",499,33,"7-8 group","D",5,"Female","Immoral",1,"?",NA
-"330",500,33,"7-8 group","D",6,"Female","Immoral",1,"?",NA
-"331",451,34,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"332",452,34,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"333",453,34,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"334",454,34,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"335",455,34,"5-6 group","D",1,"Female","Opinion",1,"yes",NA
-"336",456,34,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"337",457,34,"5-6 group","D",3,"Female","Moral",0,"?",NA
-"338",458,34,"5-6 group","D",4,"Female","Moral",0,"yes",NA
-"339",459,34,"5-6 group","D",5,"Female","Immoral",1,"yes",NA
-"340",460,34,"5-6 group","D",6,"Female","Immoral",1,NA,NA
-"341",211,35,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"342",212,35,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"343",213,35,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"344",214,35,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"345",215,35,"5-6 group","D",1,"Male","Opinion",1,"no",NA
-"346",216,35,"5-6 group","D",2,"Male","Opinion",1,"no",NA
-"347",217,35,"5-6 group","D",3,"Male","Moral",0,"no",NA
-"348",218,35,"5-6 group","D",4,"Male","Moral",0,"no",NA
-"349",219,35,"5-6 group","D",5,"Male","Immoral",1,"no",NA
-"350",220,35,"5-6 group","D",6,"Male","Immoral",1,"no",NA
-"351",331,36,"5-6 group","E",NA,"Female","Action Possible",1,"yes",NA
-"352",332,36,"5-6 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"353",333,36,"5-6 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"354",334,36,"5-6 group","E",NA,"Female","Action Possible",1,"yes",NA
-"355",335,36,"5-6 group","E",1,"Female","Opinion",1,"yes",NA
-"356",336,36,"5-6 group","E",2,"Female","Opinion",1,"yes",NA
-"357",337,36,"5-6 group","E",3,"Female","Moral",1,"yes",NA
-"358",338,36,"5-6 group","E",4,"Female","Moral",1,"yes",NA
-"359",339,36,"5-6 group","E",5,"Female","Immoral",1,"yes",NA
-"360",340,36,"5-6 group","E",6,"Female","Immoral",1,"yes",NA
-"361",181,37,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"362",182,37,"7-8 group","D",NA,"Female","Action Impossible",0,"?",NA
-"363",183,37,"7-8 group","D",NA,"Female","Action Impossible",0,"?",NA
-"364",184,37,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"365",185,37,"7-8 group","D",1,"Female","Opinion",1,"yes",NA
-"366",186,37,"7-8 group","D",2,"Female","Opinion",1,"yes",NA
-"367",187,37,"7-8 group","D",3,"Female","Moral",1,"yes",NA
-"368",188,37,"7-8 group","D",4,"Female","Moral",1,"yes",NA
-"369",189,37,"7-8 group","D",5,"Female","Immoral",1,"yes",NA
-"370",190,37,"7-8 group","D",6,"Female","Immoral",1,"yes",NA
-"371",581,38,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"372",582,38,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"373",583,38,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"374",584,38,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"375",585,38,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"376",586,38,"7-8 group","E",2,"Female","Opinion",1,"no",NA
-"377",587,38,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"378",588,38,"7-8 group","E",4,"Female","Moral",1,"yes",NA
-"379",589,38,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"380",590,38,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"381",301,39,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"382",302,39,"5-6 group","D",NA,"Female","Action Impossible",1,"yes",NA
-"383",303,39,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"384",304,39,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"385",305,39,"5-6 group","D",1,"Female","Opinion",1,"yes",NA
-"386",306,39,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"387",307,39,"5-6 group","D",3,"Female","Moral",0,"yes",NA
-"388",308,39,"5-6 group","D",4,"Female","Moral",0,"yes",NA
-"389",309,39,"5-6 group","D",5,"Female","Immoral",1,"yes",NA
-"390",310,39,"5-6 group","D",6,"Female","Immoral",1,"yes",NA
-"391",81,40,"5-6 group","E",NA,"Male","Action Possible",1,"no",NA
-"392",82,40,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"393",83,40,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"394",84,40,"5-6 group","E",NA,"Male","Action Possible",0,"yes",NA
-"395",85,40,"5-6 group","E",1,"Male","Opinion",1,"yes",NA
-"396",86,40,"5-6 group","E",2,"Male","Opinion",1,"yes",NA
-"397",87,40,"5-6 group","E",3,"Male","Moral",NA,NA,NA
-"398",88,40,"5-6 group","E",4,"Male","Moral",NA,NA,NA
-"399",89,40,"5-6 group","E",5,"Male","Immoral",NA,NA,NA
-"400",90,40,"5-6 group","E",6,"Male","Immoral",NA,NA,NA
-"401",701,41,"7-8 group","F",NA,"Male","Action Possible",1,"no",NA
-"402",702,41,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"403",703,41,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"404",704,41,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"405",705,41,"7-8 group","F",1,"Male","Opinion",1,"no",NA
-"406",706,41,"7-8 group","F",2,"Male","Opinion",1,"yes",NA
-"407",707,41,"7-8 group","F",3,"Male","Moral",1,"yes",NA
-"408",708,41,"7-8 group","F",4,"Male","Moral",1,"yes",NA
-"409",709,41,"7-8 group","F",5,"Male","Immoral",1,"yes",NA
-"410",710,41,"7-8 group","F",6,"Male","Immoral",1,"yes",NA
-"411",571,42,"7-8 group","E",NA,"Female","Action Possible",1,"no",NA
-"412",572,42,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"413",573,42,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"414",574,42,"7-8 group","E",NA,"Female","Action Possible",1,"no",NA
-"415",575,42,"7-8 group","E",1,"Female","Opinion",1,"no",NA
-"416",576,42,"7-8 group","E",2,"Female","Opinion",1,"no",NA
-"417",577,42,"7-8 group","E",3,"Female","Moral",0,"no",NA
-"418",578,42,"7-8 group","E",4,"Female","Moral",0,"no",NA
-"419",579,42,"7-8 group","E",5,"Female","Immoral",1,"no",NA
-"420",580,42,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"421",621,43,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"422",622,43,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"423",623,43,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"424",624,43,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"425",625,43,"7-8 group","E",1,"Female","Opinion",0,"yes",NA
-"426",626,43,"7-8 group","E",2,"Female","Opinion",1,"no",NA
-"427",627,43,"7-8 group","E",3,"Female","Moral",0,"no",NA
-"428",628,43,"7-8 group","E",4,"Female","Moral",0,"no",NA
-"429",629,43,"7-8 group","E",5,"Female","Immoral",1,"no",NA
-"430",630,43,"7-8 group","E",6,"Female","Immoral",1,"no",NA
-"431",441,44,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"432",442,44,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"433",443,44,"5-6 group","D",NA,"Male","Action Impossible",0,"no",NA
-"434",444,44,"5-6 group","D",NA,"Male","Action Possible",0,"no",NA
-"435",445,44,"5-6 group","D",1,"Male","Opinion",1,"no",NA
-"436",446,44,"5-6 group","D",2,"Male","Opinion",1,"no",NA
-"437",447,44,"5-6 group","D",3,"Male","Moral",0,"yes",NA
-"438",448,44,"5-6 group","D",4,"Male","Moral",0,"yes",NA
-"439",449,44,"5-6 group","D",5,"Male","Immoral",1,"yes",NA
-"440",450,44,"5-6 group","D",6,"Male","Immoral",1,"yes",NA
-"441",291,45,"7-8 group","E",NA,"Male","Action Possible",1,"yes",NA
-"442",292,45,"7-8 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"443",293,45,"7-8 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"444",294,45,"7-8 group","E",NA,"Male","Action Possible",1,"yes",NA
-"445",295,45,"7-8 group","E",1,"Male","Opinion",1,"yes",NA
-"446",296,45,"7-8 group","E",2,"Male","Opinion",1,"yes",NA
-"447",297,45,"7-8 group","E",3,"Male","Moral",1,"yes",NA
-"448",298,45,"7-8 group","E",4,"Male","Moral",1,"yes",NA
-"449",299,45,"7-8 group","E",5,"Male","Immoral",1,"yes",NA
-"450",300,45,"7-8 group","E",6,"Male","Immoral",1,"yes",NA
-"451",311,46,"5-6 group","D",NA,"Female","Action Possible",0,"yes",NA
-"452",312,46,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"453",313,46,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"454",314,46,"5-6 group","D",NA,"Female","Action Possible",0,"no",NA
-"455",315,46,"5-6 group","D",1,"Female","Opinion",0,"yes",NA
-"456",316,46,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"457",317,46,"5-6 group","D",3,"Female","Moral",0,"no",NA
-"458",318,46,"5-6 group","D",4,"Female","Moral",0,"no",NA
-"459",319,46,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"460",320,46,"5-6 group","D",6,"Female","Immoral",1,"yes",NA
-"461",351,47,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"462",352,47,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"463",353,47,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"464",354,47,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"465",355,47,"5-6 group","D",1,"Female","Opinion",1,"no",NA
-"466",356,47,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"467",357,47,"5-6 group","D",3,"Female","Moral",0,"yes",NA
-"468",358,47,"5-6 group","D",4,"Female","Moral",1,"yes",NA
-"469",359,47,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"470",360,47,"5-6 group","D",6,"Female","Immoral",1,"no",NA
-"471",641,48,"5-6 group","F",NA,"Female","Action Possible",1,NA,NA
-"472",642,48,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"473",643,48,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"474",644,48,"5-6 group","F",NA,"Female","Action Possible",1,NA,NA
-"475",645,48,"5-6 group","F",1,"Female","Opinion",1,NA,NA
-"476",646,48,"5-6 group","F",2,"Female","Opinion",1,NA,NA
-"477",647,48,"5-6 group","F",3,"Female","Moral",1,"yes",NA
-"478",648,48,"5-6 group","F",4,"Female","Moral",1,"yes",NA
-"479",649,48,"5-6 group","F",5,"Female","Immoral",1,"yes",NA
-"480",650,48,"5-6 group","F",6,"Female","Immoral",1,"yes",NA
-"481",601,49,"7-8 group","D",NA,"Female","Action Possible",1,"yes",NA
-"482",602,49,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"483",603,49,"7-8 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"484",604,49,"7-8 group","D",NA,"Female","Action Possible",1,"no",NA
-"485",605,49,"7-8 group","D",1,"Female","Opinion",1,"yes",NA
-"486",606,49,"7-8 group","D",2,"Female","Opinion",1,"no",NA
-"487",607,49,"7-8 group","D",3,"Female","Moral",0,"no",NA
-"488",608,49,"7-8 group","D",4,"Female","Moral",0,"no",NA
-"489",609,49,"7-8 group","D",5,"Female","Immoral",1,"no",NA
-"490",610,49,"7-8 group","D",6,"Female","Immoral",1,"no",NA
-"491",281,50,"5-6 group","F",NA,"Male","Action Possible",1,NA,NA
-"492",282,50,"5-6 group","F",NA,"Male","Action Impossible",0,NA,NA
-"493",283,50,"5-6 group","F",NA,"Male","Action Impossible",1,NA,NA
-"494",284,50,"5-6 group","F",NA,"Male","Action Possible",1,NA,NA
-"495",285,50,"5-6 group","F",1,"Male","Opinion",1,NA,NA
-"496",286,50,"5-6 group","F",2,"Male","Opinion",0,NA,NA
-"497",287,50,"5-6 group","F",3,"Male","Moral",1,NA,NA
-"498",288,50,"5-6 group","F",4,"Male","Moral",0,NA,NA
-"499",289,50,"5-6 group","F",5,"Male","Immoral",1,NA,NA
-"500",290,50,"5-6 group","F",6,"Male","Immoral",1,NA,NA
-"501",671,51,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"502",672,51,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"503",673,51,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"504",674,51,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"505",675,51,"5-6 group","D",1,"Female","Opinion",1,"yes",NA
-"506",676,51,"5-6 group","D",2,"Female","Opinion",1,"yes",NA
-"507",677,51,"5-6 group","D",3,"Female","Moral",NA,"no",NA
-"508",678,51,"5-6 group","D",4,"Female","Moral",NA,"yes",NA
-"509",679,51,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"510",680,51,"5-6 group","D",6,"Female","Immoral",1,"no",NA
-"511",261,52,"7-8 group","F",NA,"Male","Action Possible",1,NA,NA
-"512",262,52,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"513",263,52,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"514",264,52,"7-8 group","F",NA,"Male","Action Possible",1,NA,NA
-"515",265,52,"7-8 group","F",1,"Male","Opinion",1,"no",NA
-"516",266,52,"7-8 group","F",2,"Male","Opinion",1,"no",NA
-"517",267,52,"7-8 group","F",3,"Male","Moral",0,"?",NA
-"518",268,52,"7-8 group","F",4,"Male","Moral",0,"?",NA
-"519",269,52,"7-8 group","F",5,"Male","Immoral",1,"no",NA
-"520",270,52,"7-8 group","F",6,"Male","Immoral",1,"no",NA
-"521",381,53,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"522",382,53,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"523",383,53,"5-6 group","D",NA,"Female","Action Impossible",1,"no",NA
-"524",384,53,"5-6 group","D",NA,"Female","Action Possible",1,"no",NA
-"525",385,53,"5-6 group","D",1,"Female","Opinion",1,"no",NA
-"526",386,53,"5-6 group","D",2,"Female","Opinion",1,"no",NA
-"527",387,53,"5-6 group","D",3,"Female","Moral",1,"no",NA
-"528",388,53,"5-6 group","D",4,"Female","Moral",1,"no",NA
-"529",389,53,"5-6 group","D",5,"Female","Immoral",1,"no",NA
-"530",390,53,"5-6 group","D",6,"Female","Immoral",1,"no",NA
-"531",251,54,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"532",252,54,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"533",253,54,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"534",254,54,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"535",255,54,"7-8 group","D",1,"Male","Opinion",1,"yes",NA
-"536",256,54,"7-8 group","D",2,"Male","Opinion",1,"yes",NA
-"537",257,54,"7-8 group","D",3,"Male","Moral",0,"yes",NA
-"538",258,54,"7-8 group","D",4,"Male","Moral",0,"yes",NA
-"539",259,54,"7-8 group","D",5,"Male","Immoral",1,"yes",NA
-"540",260,54,"7-8 group","D",6,"Male","Immoral",1,"yes",NA
-"541",41,55,"5-6 group","F",NA,"Male","Action Possible",0,"no",NA
-"542",42,55,"5-6 group","F",NA,"Male","Action Impossible",0,"no",NA
-"543",43,55,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"544",44,55,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"545",45,55,"5-6 group","F",1,"Male","Opinion",0,"yes",NA
-"546",46,55,"5-6 group","F",2,"Male","Opinion",0,"yes",NA
-"547",47,55,"5-6 group","F",3,"Male","Moral",0,"yes",NA
-"548",48,55,"5-6 group","F",4,"Male","Moral",0,"yes",NA
-"549",49,55,"5-6 group","F",5,"Male","Immoral",1,"yes",NA
-"550",50,55,"5-6 group","F",6,"Male","Immoral",1,"yes",NA
-"551",541,56,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"552",542,56,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"553",543,56,"5-6 group","D",NA,"Male","Action Impossible",0,"no",NA
-"554",544,56,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"555",545,56,"5-6 group","D",1,"Male","Opinion",1,"no",NA
-"556",546,56,"5-6 group","D",2,"Male","Opinion",1,"yes",NA
-"557",547,56,"5-6 group","D",3,"Male","Moral",1,"yes",NA
-"558",548,56,"5-6 group","D",4,"Male","Moral",1,NA,NA
-"559",549,56,"5-6 group","D",5,"Male","Immoral",1,"no",NA
-"560",550,56,"5-6 group","D",6,"Male","Immoral",1,"yes",NA
-"561",631,57,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"562",632,57,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"563",633,57,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"564",634,57,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"565",635,57,"7-8 group","F",1,"Female","Opinion",1,"no",NA
-"566",636,57,"7-8 group","F",2,"Female","Opinion",1,"no",NA
-"567",637,57,"7-8 group","F",3,"Female","Moral",0,"?",NA
-"568",638,57,"7-8 group","F",4,"Female","Moral",0,"no",NA
-"569",639,57,"7-8 group","F",5,"Female","Immoral",1,"no",NA
-"570",640,57,"7-8 group","F",6,"Female","Immoral",1,"no",NA
-"571",591,58,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"572",592,58,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"573",593,58,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"574",594,58,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"575",595,58,"5-6 group","D",1,"Male","Opinion",1,"no",NA
-"576",596,58,"5-6 group","D",2,"Male","Opinion",1,"no",NA
-"577",597,58,"5-6 group","D",3,"Male","Moral",0,"yes",NA
-"578",598,58,"5-6 group","D",4,"Male","Moral",0,"yes",NA
-"579",599,58,"5-6 group","D",5,"Male","Immoral",1,"yes",NA
-"580",600,58,"5-6 group","D",6,"Male","Immoral",1,"no",NA
-"581",781,59,"7-8 group","E",NA,"Female","Action Possible",1,"no",NA
-"582",782,59,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"583",783,59,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"584",784,59,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"585",785,59,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"586",786,59,"7-8 group","E",2,"Female","Opinion",1,"no",NA
-"587",787,59,"7-8 group","E",3,"Female","Moral",0,"yes",NA
-"588",788,59,"7-8 group","E",4,"Female","Moral",0,"?",NA
-"589",789,59,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"590",790,59,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"591",401,60,"5-6 group","E",NA,"Female","Action Possible",1,"no",NA
-"592",402,60,"5-6 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"593",403,60,"5-6 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"594",404,60,"5-6 group","E",NA,"Female","Action Possible",1,"no",NA
-"595",405,60,"5-6 group","E",1,"Female","Opinion",1,"no",NA
-"596",406,60,"5-6 group","E",2,"Female","Opinion",1,"no",NA
-"597",407,60,"5-6 group","E",3,"Female","Moral",0,"yes",NA
-"598",408,60,"5-6 group","E",4,"Female","Moral",0,"yes",NA
-"599",409,60,"5-6 group","E",5,"Female","Immoral",1,"yes",NA
-"600",410,60,"5-6 group","E",6,"Female","Immoral",1,"yes",NA
-"601",711,61,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"602",712,61,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"603",713,61,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"604",714,61,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"605",715,61,"7-8 group","D",1,"Male","Opinion",1,"no",NA
-"606",716,61,"7-8 group","D",2,"Male","Opinion",1,"yes",NA
-"607",717,61,"7-8 group","D",3,"Male","Moral",0,"no",NA
-"608",718,61,"7-8 group","D",4,"Male","Moral",1,"no",NA
-"609",719,61,"7-8 group","D",5,"Male","Immoral",1,"no",NA
-"610",720,61,"7-8 group","D",6,"Male","Immoral",1,"no",NA
-"611",161,62,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"612",162,62,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"613",163,62,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"614",164,62,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"615",165,62,"5-6 group","D",1,"Male","Opinion",1,"yes",NA
-"616",166,62,"5-6 group","D",2,"Male","Opinion",1,"yes",NA
-"617",167,62,"5-6 group","D",3,"Male","Moral",1,"yes",NA
-"618",168,62,"5-6 group","D",4,"Male","Moral",1,"yes",NA
-"619",169,62,"5-6 group","D",5,"Male","Immoral",1,"Yes",NA
-"620",170,62,"5-6 group","D",6,"Male","Immoral",1,"Yes",NA
-"621",471,63,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"622",472,63,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"623",473,63,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"624",474,63,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"625",475,63,"7-8 group","F",1,"Female","Opinion",1,"no",NA
-"626",476,63,"7-8 group","F",2,"Female","Opinion",1,"yes",NA
-"627",477,63,"7-8 group","F",3,"Female","Moral",1,"yes",NA
-"628",478,63,"7-8 group","F",4,"Female","Moral",1,"yes",NA
-"629",479,63,"7-8 group","F",5,"Female","Immoral",1,"yes",NA
-"630",480,63,"7-8 group","F",6,"Female","Immoral",1,"yes",NA
-"631",1,64,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"632",2,64,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"633",3,64,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"634",4,64,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"635",5,64,"7-8 group","F",1,"Male","Opinion",1,"yes",NA
-"636",6,64,"7-8 group","F",2,"Male","Opinion",1,"yes",NA
-"637",7,64,"7-8 group","F",3,"Male","Moral",1,"yes",NA
-"638",8,64,"7-8 group","F",4,"Male","Moral",1,"yes",NA
-"639",9,64,"7-8 group","F",5,"Male","Immoral",1,"yes",NA
-"640",10,64,"7-8 group","F",6,"Male","Immoral",1,"yes",NA
-"641",361,65,"5-6 group","F",NA,"Female","Action Possible",1,"no",NA
-"642",362,65,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"643",363,65,"5-6 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"644",364,65,"5-6 group","F",NA,"Female","Action Possible",1,"yes",NA
-"645",365,65,"5-6 group","F",1,"Female","Opinion",1,"no",NA
-"646",366,65,"5-6 group","F",2,"Female","Opinion",1,"no",NA
-"647",367,65,"5-6 group","F",3,"Female","Moral",0,"yes",NA
-"648",368,65,"5-6 group","F",4,"Female","Moral",0,"yes",NA
-"649",369,65,"5-6 group","F",5,"Female","Immoral",1,"yes",NA
-"650",370,65,"5-6 group","F",6,"Female","Immoral",1,"yes",NA
-"651",391,66,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"652",392,66,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"653",393,66,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"654",394,66,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"655",395,66,"7-8 group","E",1,"Female","Opinion",0,"yes",NA
-"656",396,66,"7-8 group","E",2,"Female","Opinion",0,"no",NA
-"657",397,66,"7-8 group","E",3,"Female","Moral",0,"yes",NA
-"658",398,66,"7-8 group","E",4,"Female","Moral",1,"no",NA
-"659",399,66,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"660",400,66,"7-8 group","E",6,"Female","Immoral",1,"no",NA
-"661",11,67,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"662",12,67,"7-8 group","F",NA,"Female","Action Impossible",0,"?",NA
-"663",13,67,"7-8 group","F",NA,"Female","Action Impossible",0,"yes",NA
-"664",14,67,"7-8 group","F",NA,"Female","Action Possible",1,"yes",NA
-"665",15,67,"7-8 group","F",1,"Female","Opinion",1,"yes",NA
-"666",16,67,"7-8 group","F",2,"Female","Opinion",1,"no",NA
-"667",17,67,"7-8 group","F",3,"Female","Moral",0,"yes",NA
-"668",18,67,"7-8 group","F",4,"Female","Moral",0,"yes",NA
-"669",19,67,"7-8 group","F",5,"Female","Immoral",1,"yes",NA
-"670",20,67,"7-8 group","F",6,"Female","Immoral",1,"yes",NA
-"671",651,68,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"672",652,68,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"673",653,68,"5-6 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"674",654,68,"5-6 group","F",NA,"Male","Action Possible",1,"yes",NA
-"675",655,68,"5-6 group","F",1,"Male","Opinion",1,"yes",NA
-"676",656,68,"5-6 group","F",2,"Male","Opinion",1,"yes",NA
-"677",657,68,"5-6 group","F",3,"Male","Moral",1,"no",NA
-"678",658,68,"5-6 group","F",4,"Male","Moral",1,"yes",NA
-"679",659,68,"5-6 group","F",5,"Male","Immoral",1,"yes",NA
-"680",660,68,"5-6 group","F",6,"Male","Immoral",1,"yes",NA
-"681",751,69,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"682",752,69,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"683",753,69,"7-8 group","F",NA,"Male","Action Impossible",1,"yes",NA
-"684",754,69,"7-8 group","F",NA,"Male","Action Possible",1,"?",NA
-"685",755,69,"7-8 group","F",1,"Male","Opinion",1,"no",NA
-"686",756,69,"7-8 group","F",2,"Male","Opinion",1,"no",NA
-"687",757,69,"7-8 group","F",3,"Male","Moral",0,"yes",NA
-"688",758,69,"7-8 group","F",4,"Male","Moral",0,"yes",NA
-"689",759,69,"7-8 group","F",5,"Male","Immoral",1,"no",NA
-"690",760,69,"7-8 group","F",6,"Male","Immoral",1,"yes",NA
-"691",191,70,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"692",192,70,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"693",193,70,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"694",194,70,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"695",195,70,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"696",196,70,"7-8 group","E",2,"Female","Opinion",1,"no",NA
-"697",197,70,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"698",198,70,"7-8 group","E",4,"Female","Moral",1,"yes",NA
-"699",199,70,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"700",200,70,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"701",731,71,"5-6 group","E",NA,"Male","Action Possible",1,"no",NA
-"702",732,71,"5-6 group","E",NA,"Male","Action Impossible",0,"yes",NA
-"703",733,71,"5-6 group","E",NA,"Male","Action Impossible",0,"no",NA
-"704",734,71,"5-6 group","E",NA,"Male","Action Possible",1,"yes",NA
-"705",735,71,"5-6 group","E",1,"Male","Opinion",1,"no",NA
-"706",736,71,"5-6 group","E",2,"Male","Opinion",1,"no",NA
-"707",737,71,"5-6 group","E",3,"Male","Moral",0,"yes",NA
-"708",738,71,"5-6 group","E",4,"Male","Moral",0,"yes",NA
-"709",739,71,"5-6 group","E",5,"Male","Immoral",1,"yes",NA
-"710",740,71,"5-6 group","E",6,"Male","Immoral",1,"yes",NA
-"711",551,72,"7-8 group","F",NA,"Male","Action Possible",1,NA,NA
-"712",552,72,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"713",553,72,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"714",554,72,"7-8 group","F",NA,"Male","Action Possible",1,NA,NA
-"715",555,72,"7-8 group","F",1,"Male","Opinion",1,"no",NA
-"716",556,72,"7-8 group","F",2,"Male","Opinion",1,"no",NA
-"717",557,72,"7-8 group","F",3,"Male","Moral",0,"?",NA
-"718",558,72,"7-8 group","F",4,"Male","Moral",0,"?",NA
-"719",559,72,"7-8 group","F",5,"Male","Immoral",1,"yes",NA
-"720",560,72,"7-8 group","F",6,"Male","Immoral",1,"no",NA
-"721",171,73,"5-6 group","D",NA,"Male","Action Possible",1,"no",NA
-"722",172,73,"5-6 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"723",173,73,"5-6 group","D",NA,"Male","Action Impossible",NA,NA,NA
-"724",174,73,"5-6 group","D",NA,"Male","Action Possible",1,"yes",NA
-"725",175,73,"5-6 group","D",1,"Male","Opinion",1,"yes",NA
-"726",176,73,"5-6 group","D",2,"Male","Opinion",1,NA,NA
-"727",177,73,"5-6 group","D",3,"Male","Moral",0,"no",NA
-"728",178,73,"5-6 group","D",4,"Male","Moral",1,"no",NA
-"729",179,73,"5-6 group","D",5,"Male","Immoral",1,NA,NA
-"730",180,73,"5-6 group","D",6,"Male","Immoral",1,"no",NA
-"731",791,74,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"732",792,74,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"733",793,74,"7-8 group","D",NA,"Male","Action Impossible",0,"yes",NA
-"734",794,74,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"735",795,74,"7-8 group","D",1,"Male","Opinion",1,"yes",NA
-"736",796,74,"7-8 group","D",2,"Male","Opinion",1,"yes",NA
-"737",797,74,"7-8 group","D",3,"Male","Moral",0,"yes",NA
-"738",798,74,"7-8 group","D",4,"Male","Moral",0,"yes",NA
-"739",799,74,"7-8 group","D",5,"Male","Immoral",1,"yes",NA
-"740",800,74,"7-8 group","D",6,"Male","Immoral",1,"no",NA
-"741",411,75,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"742",412,75,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"743",413,75,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"744",414,75,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"745",415,75,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"746",416,75,"7-8 group","E",2,"Female","Opinion",1,"yes",NA
-"747",417,75,"7-8 group","E",3,"Female","Moral",0,"yes",NA
-"748",418,75,"7-8 group","E",4,"Female","Moral",0,"yes",NA
-"749",419,75,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"750",420,75,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"751",231,76,"7-8 group","D",NA,"Male","Action Possible",1,"no",NA
-"752",232,76,"7-8 group","D",NA,"Male","Action Impossible",1,"yes",NA
-"753",233,76,"7-8 group","D",NA,"Male","Action Impossible",1,"yes",NA
-"754",234,76,"7-8 group","D",NA,"Male","Action Possible",1,"yes",NA
-"755",235,76,"7-8 group","D",1,"Male","Opinion",1,"no",NA
-"756",236,76,"7-8 group","D",2,"Male","Opinion",1,"no",NA
-"757",237,76,"7-8 group","D",3,"Male","Moral",1,"no",NA
-"758",238,76,"7-8 group","D",4,"Male","Moral",1,"no",NA
-"759",239,76,"7-8 group","D",5,"Male","Immoral",1,"yes",NA
-"760",240,76,"7-8 group","D",6,"Male","Immoral",1,"yes",NA
-"761",31,77,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"762",32,77,"7-8 group","F",NA,"Male","Action Impossible",0,"?",NA
-"763",33,77,"7-8 group","F",NA,"Male","Action Impossible",0,"yes",NA
-"764",34,77,"7-8 group","F",NA,"Male","Action Possible",1,"yes",NA
-"765",35,77,"7-8 group","F",1,"Male","Opinion",1,"yes",NA
-"766",36,77,"7-8 group","F",2,"Male","Opinion",1,"no",NA
-"767",37,77,"7-8 group","F",3,"Male","Moral",0,"yes",NA
-"768",38,77,"7-8 group","F",4,"Male","Moral",0,"yes",NA
-"769",39,77,"7-8 group","F",5,"Male","Immoral",1,"yes",NA
-"770",40,77,"7-8 group","F",6,"Male","Immoral",1,"yes",NA
-"771",71,78,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"772",72,78,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"773",73,78,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"774",74,78,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"775",75,78,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"776",76,78,"7-8 group","E",2,"Female","Opinion",1,"yes",NA
-"777",77,78,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"778",78,78,"7-8 group","E",4,"Female","Moral",1,"yes",NA
-"779",79,78,"7-8 group","E",5,"Female","Immoral",1,"yes",NA
-"780",80,78,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"781",201,79,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"782",202,79,"7-8 group","E",NA,"Female","Action Impossible",0,"yes",NA
-"783",203,79,"7-8 group","E",NA,"Female","Action Impossible",0,"no",NA
-"784",204,79,"7-8 group","E",NA,"Female","Action Possible",1,"yes",NA
-"785",205,79,"7-8 group","E",1,"Female","Opinion",1,"yes",NA
-"786",206,79,"7-8 group","E",2,"Female","Opinion",1,"Yes",NA
-"787",207,79,"7-8 group","E",3,"Female","Moral",1,"yes",NA
-"788",208,79,"7-8 group","E",4,"Female","Moral",1,"yes",NA
-"789",209,79,"7-8 group","E",5,"Female","Immoral",1,"Yes",NA
-"790",210,79,"7-8 group","E",6,"Female","Immoral",1,"yes",NA
-"791",421,80,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"792",422,80,"5-6 group","D",NA,"Female","Action Impossible",0,"yes",NA
-"793",423,80,"5-6 group","D",NA,"Female","Action Impossible",0,"no",NA
-"794",424,80,"5-6 group","D",NA,"Female","Action Possible",1,"yes",NA
-"795",425,80,"5-6 group","D",1,"Female","Opinion",1,"yes",NA
-"796",426,80,"5-6 group","D",2,"Female","Opinion",1,"yes",NA
-"797",427,80,"5-6 group","D",3,"Female","Moral",0,"?",NA
-"798",428,80,"5-6 group","D",4,"Female","Moral",0,"?",NA
-"799",429,80,"5-6 group","D",5,"Female","Immoral",1,"?",NA
-"800",430,80,"5-6 group","D",6,"Female","Immoral",1,NA,NA
-"801",4271,81,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"802",4671,81,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"803",5071,81,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"804",5471,81,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"805",5871,81,"Adult","E",1,"2","Opinion",1,NA,"1"
-"806",6271,81,"Adult","E",2,"2","Opinion",1,NA,"1"
-"807",6671,81,"Adult","E",3,"2","Moral",1,NA,"1"
-"808",7071,81,"Adult","E",4,"2","Moral",1,NA,"1"
-"809",7471,81,"Adult","E",5,"2","Immoral",1,NA,"1"
-"810",7871,81,"Adult","E",6,"2","Immoral",1,NA,"1"
-"811",4161,82,"Adult","E",NA,"2","Action Possible",1,NA,"6"
-"812",4561,82,"Adult","E",NA,"2","Action Impossible",0,NA,"6"
-"813",4961,82,"Adult","E",NA,"2","Action Impossible",0,NA,"6"
-"814",5361,82,"Adult","E",NA,"2","Action Possible",1,NA,"6"
-"815",5761,82,"Adult","E",1,"2","Opinion",1,NA,"6"
-"816",6161,82,"Adult","E",2,"2","Opinion",1,NA,"6"
-"817",6561,82,"Adult","E",3,"2","Moral",0,NA,"6"
-"818",6961,82,"Adult","E",4,"2","Moral",0,NA,"6"
-"819",7361,82,"Adult","E",5,"2","Immoral",0,NA,"6"
-"820",7761,82,"Adult","E",6,"2","Immoral",1,NA,"6"
-"821",4311,83,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"822",4711,83,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"823",5111,83,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"824",5511,83,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"825",5911,83,"Adult","E",1,"2","Opinion",1,NA,"1"
-"826",6311,83,"Adult","E",2,"2","Opinion",1,NA,"1"
-"827",6711,83,"Adult","E",3,"2","Moral",1,NA,"1"
-"828",7111,83,"Adult","E",4,"2","Moral",1,NA,"1"
-"829",7511,83,"Adult","E",5,"2","Immoral",1,NA,"1"
-"830",7911,83,"Adult","E",6,"2","Immoral",1,NA,"1"
-"831",4391,84,"Adult","E",NA,"1","Action Possible",0,NA,"1"
-"832",4791,84,"Adult","E",NA,"1","Action Impossible",1,NA,"1"
-"833",5191,84,"Adult","E",NA,"1","Action Impossible",0,NA,"1"
-"834",5591,84,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"835",5991,84,"Adult","E",1,"1","Opinion",1,NA,"1"
-"836",6391,84,"Adult","E",2,"1","Opinion",0,NA,"1"
-"837",6791,84,"Adult","E",3,"1","Moral",1,NA,"1"
-"838",7191,84,"Adult","E",4,"1","Moral",1,NA,"1"
-"839",7591,84,"Adult","E",5,"1","Immoral",0,NA,"1"
-"840",7991,84,"Adult","E",6,"1","Immoral",1,NA,"1"
-"841",2910,85,"Adult","D",NA,"3","Action Possible",1,NA,"1"
-"842",6910,85,"Adult","D",NA,"3","Action Impossible",0,NA,"1"
-"843",1093,85,"Adult","D",NA,"3","Action Impossible",0,NA,"1"
-"844",1491,85,"Adult","D",NA,"3","Action Possible",1,NA,"1"
-"845",1891,85,"Adult","D",1,"3","Opinion",1,NA,"1"
-"846",2291,85,"Adult","D",2,"3","Opinion",1,NA,"1"
-"847",2691,85,"Adult","D",3,"3","Moral",1,NA,"1"
-"848",3091,85,"Adult","D",4,"3","Moral",1,NA,"1"
-"849",3491,85,"Adult","D",5,"3","Immoral",1,NA,"1"
-"850",3891,85,"Adult","D",6,"3","Immoral",1,NA,"1"
-"851",4171,86,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"852",4571,86,"Adult","E",NA,"1","Action Impossible",0,NA,"1"
-"853",4971,86,"Adult","E",NA,"1","Action Impossible",0,NA,"1"
-"854",5371,86,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"855",5771,86,"Adult","E",1,"1","Opinion",1,NA,"1"
-"856",6171,86,"Adult","E",2,"1","Opinion",1,NA,"1"
-"857",6571,86,"Adult","E",3,"1","Moral",0,NA,"1"
-"858",6971,86,"Adult","E",4,"1","Moral",0,NA,"1"
-"859",7371,86,"Adult","E",5,"1","Immoral",1,NA,"1"
-"860",7771,86,"Adult","E",6,"1","Immoral",1,NA,"1"
-"861",4091,87,"Adult","E",NA,"1","Action Possible",1,NA,"2"
-"862",4491,87,"Adult","E",NA,"1","Action Impossible",0,NA,"2"
-"863",4891,87,"Adult","E",NA,"1","Action Impossible",0,NA,"2"
-"864",5291,87,"Adult","E",NA,"1","Action Possible",0,NA,"2"
-"865",5691,87,"Adult","E",1,"1","Opinion",0,NA,"2"
-"866",6091,87,"Adult","E",2,"1","Opinion",1,NA,"2"
-"867",6491,87,"Adult","E",3,"1","Moral",0,NA,"2"
-"868",6891,87,"Adult","E",4,"1","Moral",1,NA,"2"
-"869",7291,87,"Adult","E",5,"1","Immoral",1,NA,"2"
-"870",7691,87,"Adult","E",6,"1","Immoral",1,NA,"2"
-"871",822,88,"Adult","F",NA,"1","Action Possible",0,NA,"2"
-"872",862,88,"Adult","F",NA,"1","Action Impossible",1,NA,"2"
-"873",902,88,"Adult","F",NA,"1","Action Impossible",0,NA,"2"
-"874",942,88,"Adult","F",NA,"1","Action Possible",0,NA,"2"
-"875",982,88,"Adult","F",1,"1","Opinion",0,NA,"2"
-"876",1022,88,"Adult","F",2,"1","Opinion",0,NA,"2"
-"877",1062,88,"Adult","F",3,"1","Moral",0,NA,"2"
-"878",1102,88,"Adult","F",4,"1","Moral",1,NA,"2"
-"879",1142,88,"Adult","F",5,"1","Immoral",0,NA,"2"
-"880",1182,88,"Adult","F",6,"1","Immoral",0,NA,"2"
-"881",806,89,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"882",846,89,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"883",886,89,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"884",926,89,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"885",966,89,"Adult","F",1,"2","Opinion",1,NA,"1"
-"886",1006,89,"Adult","F",2,"2","Opinion",1,NA,"1"
-"887",1046,89,"Adult","F",3,"2","Moral",1,NA,"1"
-"888",1086,89,"Adult","F",4,"2","Moral",1,NA,"1"
-"889",1126,89,"Adult","F",5,"2","Immoral",0,NA,"1"
-"890",1166,89,"Adult","F",6,"2","Immoral",0,NA,"1"
-"891",3410,90,"Adult","D",NA,"1","Action Possible",1,NA,"6"
-"892",7410,90,"Adult","D",NA,"1","Action Impossible",0,NA,"6"
-"893",1144,90,"Adult","D",NA,"1","Action Impossible",0,NA,"6"
-"894",1541,90,"Adult","D",NA,"1","Action Possible",1,NA,"6"
-"895",1941,90,"Adult","D",1,"1","Opinion",1,NA,"6"
-"896",2341,90,"Adult","D",2,"1","Opinion",1,NA,"6"
-"897",2741,90,"Adult","D",3,"1","Moral",1,NA,"6"
-"898",3141,90,"Adult","D",4,"1","Moral",1,NA,"6"
-"899",3541,90,"Adult","D",5,"1","Immoral",1,NA,"6"
-"900",3941,90,"Adult","D",6,"1","Immoral",1,NA,"6"
-"901",4010,91,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"902",801,91,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"903",1201,91,"Adult","D",NA,"1","Action Impossible",1,NA,"1"
-"904",1601,91,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"905",2001,91,"Adult","D",1,"1","Opinion",1,NA,"1"
-"906",2401,91,"Adult","D",2,"1","Opinion",1,NA,"1"
-"907",2801,91,"Adult","D",3,"1","Moral",0,NA,"1"
-"908",3201,91,"Adult","D",4,"1","Moral",0,NA,"1"
-"909",3601,91,"Adult","D",5,"1","Immoral",0,NA,"1"
-"910",4001,91,"Adult","D",6,"1","Immoral",0,NA,"1"
-"911",4100,92,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"912",4410,92,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"913",841,92,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"914",1241,92,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"915",1641,92,"Adult","D",1,"1","Opinion",1,NA,"1"
-"916",2041,92,"Adult","D",2,"1","Opinion",1,NA,"1"
-"917",2441,92,"Adult","D",3,"1","Moral",1,NA,"1"
-"918",2841,92,"Adult","D",4,"1","Moral",1,NA,"1"
-"919",3241,92,"Adult","D",5,"1","Immoral",1,NA,"1"
-"920",3641,92,"Adult","D",6,"1","Immoral",1,NA,"1"
-"921",818,93,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"922",858,93,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"923",898,93,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"924",938,93,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"925",978,93,"Adult","F",1,"2","Opinion",1,NA,"1"
-"926",1018,93,"Adult","F",2,"2","Opinion",1,NA,"1"
-"927",1058,93,"Adult","F",3,"2","Moral",0,NA,"1"
-"928",1098,93,"Adult","F",4,"2","Moral",0,NA,"1"
-"929",1138,93,"Adult","F",5,"2","Immoral",1,NA,"1"
-"930",1178,93,"Adult","F",6,"2","Immoral",1,NA,"1"
-"931",4081,94,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"932",4481,94,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"933",4881,94,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"934",5281,94,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"935",5681,94,"Adult","E",1,"2","Opinion",0,NA,"1"
-"936",6081,94,"Adult","E",2,"2","Opinion",0,NA,"1"
-"937",6481,94,"Adult","E",3,"2","Moral",1,NA,"1"
-"938",6881,94,"Adult","E",4,"2","Moral",1,NA,"1"
-"939",7281,94,"Adult","E",5,"2","Immoral",1,NA,"1"
-"940",7681,94,"Adult","E",6,"2","Immoral",1,NA,"1"
-"941",2410,95,"Adult","D",NA,"2","Action Possible",1,NA,"6"
-"942",6410,95,"Adult","D",NA,"2","Action Impossible",0,NA,"6"
-"943",1041,95,"Adult","D",NA,"2","Action Impossible",0,NA,"6"
-"944",1441,95,"Adult","D",NA,"2","Action Possible",1,NA,"6"
-"945",1841,95,"Adult","D",1,"2","Opinion",1,NA,"6"
-"946",2241,95,"Adult","D",2,"2","Opinion",1,NA,"6"
-"947",2641,95,"Adult","D",3,"2","Moral",0,NA,"6"
-"948",3041,95,"Adult","D",4,"2","Moral",1,NA,"6"
-"949",3441,95,"Adult","D",5,"2","Immoral",1,NA,"6"
-"950",3841,95,"Adult","D",6,"2","Immoral",1,NA,"6"
-"951",1510,96,"Adult","D",NA,"2","Action Possible",1,NA,"2"
-"952",5510,96,"Adult","D",NA,"2","Action Impossible",0,NA,"2"
-"953",951,96,"Adult","D",NA,"2","Action Impossible",0,NA,"2"
-"954",1351,96,"Adult","D",NA,"2","Action Possible",1,NA,"2"
-"955",1751,96,"Adult","D",1,"2","Opinion",1,NA,"2"
-"956",2151,96,"Adult","D",2,"2","Opinion",1,NA,"2"
-"957",2551,96,"Adult","D",3,"2","Moral",1,NA,"2"
-"958",2951,96,"Adult","D",4,"2","Moral",1,NA,"2"
-"959",3351,96,"Adult","D",5,"2","Immoral",1,NA,"2"
-"960",3751,96,"Adult","D",6,"2","Immoral",1,NA,"2"
-"961",821,97,"Adult","F",NA,"1","Action Possible",1,NA,"7"
-"962",861,97,"Adult","F",NA,"1","Action Impossible",0,NA,"7"
-"963",901,97,"Adult","F",NA,"1","Action Impossible",0,NA,"7"
-"964",941,97,"Adult","F",NA,"1","Action Possible",1,NA,"7"
-"965",981,97,"Adult","F",1,"1","Opinion",1,NA,"7"
-"966",1021,97,"Adult","F",2,"1","Opinion",1,NA,"7"
-"967",1061,97,"Adult","F",3,"1","Moral",0,NA,"7"
-"968",1101,97,"Adult","F",4,"1","Moral",1,NA,"7"
-"969",1141,97,"Adult","F",5,"1","Immoral",1,NA,"7"
-"970",1181,97,"Adult","F",6,"1","Immoral",1,NA,"7"
-"971",1410,98,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"972",5410,98,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"973",944,98,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"974",1341,98,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"975",1741,98,"Adult","D",1,"1","Opinion",1,NA,"1"
-"976",2141,98,"Adult","D",2,"1","Opinion",1,NA,"1"
-"977",2541,98,"Adult","D",3,"1","Moral",0,NA,"1"
-"978",2941,98,"Adult","D",4,"1","Moral",0,NA,"1"
-"979",3341,98,"Adult","D",5,"1","Immoral",1,NA,"1"
-"980",3741,98,"Adult","D",6,"1","Immoral",1,NA,"1"
-"981",812,99,"Adult","F",NA,"1","Action Possible",1,NA,"1,6"
-"982",852,99,"Adult","F",NA,"1","Action Impossible",0,NA,"1,6"
-"983",892,99,"Adult","F",NA,"1","Action Impossible",0,NA,"1,6"
-"984",932,99,"Adult","F",NA,"1","Action Possible",1,NA,"1,6"
-"985",972,99,"Adult","F",1,"1","Opinion",1,NA,"1,6"
-"986",1012,99,"Adult","F",2,"1","Opinion",1,NA,"1,6"
-"987",1052,99,"Adult","F",3,"1","Moral",0,NA,"1,6"
-"988",1092,99,"Adult","F",4,"1","Moral",0,NA,"1,6"
-"989",1132,99,"Adult","F",5,"1","Immoral",0,NA,"1,6"
-"990",1172,99,"Adult","F",6,"1","Immoral",0,NA,"1,6"
-"991",838,100,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"992",878,100,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"993",918,100,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"994",958,100,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"995",998,100,"Adult","F",1,"2","Opinion",1,NA,"1"
-"996",1038,100,"Adult","F",2,"2","Opinion",1,NA,"1"
-"997",1078,100,"Adult","F",3,"2","Moral",1,NA,"1"
-"998",1118,100,"Adult","F",4,"2","Moral",1,NA,"1"
-"999",1158,100,"Adult","F",5,"2","Immoral",1,NA,"1"
-"1000",1198,100,"Adult","F",6,"2","Immoral",1,NA,"1"
-"1001",1010,101,"Adult","D",NA,"1","Action Possible",1,NA,"1,4"
-"1002",5010,101,"Adult","D",NA,"1","Action Impossible",0,NA,"1,4"
-"1003",904,101,"Adult","D",NA,"1","Action Impossible",0,NA,"1,4"
-"1004",1301,101,"Adult","D",NA,"1","Action Possible",1,NA,"1,4"
-"1005",1701,101,"Adult","D",1,"1","Opinion",1,NA,"1,4"
-"1006",2101,101,"Adult","D",2,"1","Opinion",1,NA,"1,4"
-"1007",2501,101,"Adult","D",3,"1","Moral",1,NA,"1,4"
-"1008",2901,101,"Adult","D",4,"1","Moral",1,NA,"1,4"
-"1009",3301,101,"Adult","D",5,"1","Immoral",1,NA,"1,4"
-"1010",3701,101,"Adult","D",6,"1","Immoral",1,NA,"1,4"
-"1011",4131,102,"Adult","E",NA,"1","Action Possible",1,NA,"4"
-"1012",4531,102,"Adult","E",NA,"1","Action Impossible",0,NA,"4"
-"1013",4931,102,"Adult","E",NA,"1","Action Impossible",0,NA,"4"
-"1014",5331,102,"Adult","E",NA,"1","Action Possible",1,NA,"4"
-"1015",5731,102,"Adult","E",1,"1","Opinion",1,NA,"4"
-"1016",6131,102,"Adult","E",2,"1","Opinion",1,NA,"4"
-"1017",6531,102,"Adult","E",3,"1","Moral",1,NA,"4"
-"1018",6931,102,"Adult","E",4,"1","Moral",1,NA,"4"
-"1019",7331,102,"Adult","E",5,"1","Immoral",1,NA,"4"
-"1020",7731,102,"Adult","E",6,"1","Immoral",1,NA,"4"
-"1021",3710,103,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1022",7710,103,"Adult","D",NA,"1","Action Impossible",1,NA,"1"
-"1023",1173,103,"Adult","D",NA,"1","Action Impossible",1,NA,"1"
-"1024",1571,103,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1025",1971,103,"Adult","D",1,"1","Opinion",1,NA,"1"
-"1026",2371,103,"Adult","D",2,"1","Opinion",0,NA,"1"
-"1027",2771,103,"Adult","D",3,"1","Moral",1,NA,"1"
-"1028",3171,103,"Adult","D",4,"1","Moral",1,NA,"1"
-"1029",3571,103,"Adult","D",5,"1","Immoral",1,NA,"1"
-"1030",3971,103,"Adult","D",6,"1","Immoral",1,NA,"1"
-"1031",828,104,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1032",868,104,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1033",908,104,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1034",948,104,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1035",988,104,"Adult","F",1,"1","Opinion",1,NA,"1"
-"1036",1028,104,"Adult","F",2,"1","Opinion",1,NA,"1"
-"1037",1068,104,"Adult","F",3,"1","Moral",0,NA,"1"
-"1038",1108,104,"Adult","F",4,"1","Moral",0,NA,"1"
-"1039",1148,104,"Adult","F",5,"1","Immoral",1,NA,"1"
-"1040",1188,104,"Adult","F",6,"1","Immoral",1,NA,"1"
-"1041",2510,105,"Adult","D",NA,"2","Action Possible",1,NA,"1"
-"1042",6510,105,"Adult","D",NA,"2","Action Impossible",0,NA,"1"
-"1043",1053,105,"Adult","D",NA,"2","Action Impossible",0,NA,"1"
-"1044",1451,105,"Adult","D",NA,"2","Action Possible",1,NA,"1"
-"1045",1851,105,"Adult","D",1,"2","Opinion",1,NA,"1"
-"1046",2251,105,"Adult","D",2,"2","Opinion",1,NA,"1"
-"1047",2651,105,"Adult","D",3,"2","Moral",0,NA,"1"
-"1048",3051,105,"Adult","D",4,"2","Moral",0,NA,"1"
-"1049",3451,105,"Adult","D",5,"2","Immoral",1,NA,"1"
-"1050",3851,105,"Adult","D",6,"2","Immoral",1,NA,"1"
-"1051",823,106,"Adult","F",NA,"2","Action Possible",0,NA,"1"
-"1052",863,106,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1053",903,106,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1054",943,106,"Adult","F",NA,"2","Action Possible",0,NA,"1"
-"1055",983,106,"Adult","F",1,"2","Opinion",0,NA,"1"
-"1056",1023,106,"Adult","F",2,"2","Opinion",0,NA,"1"
-"1057",1063,106,"Adult","F",3,"2","Moral",0,NA,"1"
-"1058",1103,106,"Adult","F",4,"2","Moral",0,NA,"1"
-"1059",1143,106,"Adult","F",5,"2","Immoral",1,NA,"1"
-"1060",1183,106,"Adult","F",6,"2","Immoral",0,NA,"1"
-"1061",4021,107,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1062",4421,107,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1063",4821,107,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1064",5221,107,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1065",5621,107,"Adult","E",1,"2","Opinion",1,NA,"1"
-"1066",6021,107,"Adult","E",2,"2","Opinion",1,NA,"1"
-"1067",6421,107,"Adult","E",3,"2","Moral",0,NA,"1"
-"1068",6821,107,"Adult","E",4,"2","Moral",0,NA,"1"
-"1069",7221,107,"Adult","E",5,"2","Immoral",1,NA,"1"
-"1070",7621,107,"Adult","E",6,"2","Immoral",1,NA,"1"
-"1071",4201,108,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"1072",4601,108,"Adult","E",NA,"1","Action Impossible",1,NA,"1"
-"1073",5001,108,"Adult","E",NA,"1","Action Impossible",1,NA,"1"
-"1074",5401,108,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"1075",5801,108,"Adult","E",1,"1","Opinion",1,NA,"1"
-"1076",6201,108,"Adult","E",2,"1","Opinion",1,NA,"1"
-"1077",6601,108,"Adult","E",3,"1","Moral",1,NA,"1"
-"1078",7001,108,"Adult","E",4,"1","Moral",1,NA,"1"
-"1079",7401,108,"Adult","E",5,"1","Immoral",1,NA,"1"
-"1080",7801,108,"Adult","E",6,"1","Immoral",1,NA,"1"
-"1081",836,109,"Adult","F",NA,"1","Action Possible",1,NA,"6"
-"1082",876,109,"Adult","F",NA,"1","Action Impossible",0,NA,"6"
-"1083",916,109,"Adult","F",NA,"1","Action Impossible",0,NA,"6"
-"1084",956,109,"Adult","F",NA,"1","Action Possible",1,NA,"6"
-"1085",996,109,"Adult","F",1,"1","Opinion",1,NA,"6"
-"1086",1036,109,"Adult","F",2,"1","Opinion",1,NA,"6"
-"1087",1076,109,"Adult","F",3,"1","Moral",1,NA,"6"
-"1088",1116,109,"Adult","F",4,"1","Moral",1,NA,"6"
-"1089",1156,109,"Adult","F",5,"1","Immoral",1,NA,"6"
-"1090",1196,109,"Adult","F",6,"1","Immoral",1,NA,"6"
-"1091",830,110,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1092",870,110,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1093",910,110,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1094",950,110,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1095",990,110,"Adult","F",1,"1","Opinion",1,NA,"1"
-"1096",1030,110,"Adult","F",2,"1","Opinion",1,NA,"1"
-"1097",1070,110,"Adult","F",3,"1","Moral",0,NA,"1"
-"1098",1110,110,"Adult","F",4,"1","Moral",1,NA,"1"
-"1099",1150,110,"Adult","F",5,"1","Immoral",1,NA,"1"
-"1100",1190,110,"Adult","F",6,"1","Immoral",1,NA,"1"
-"1101",1100,111,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1102",4110,111,"Adult","D",NA,"1","Action Impossible",1,NA,"1"
-"1103",813,111,"Adult","D",NA,"1","Action Impossible",1,NA,"1"
-"1104",1211,111,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1105",1611,111,"Adult","D",1,"1","Opinion",1,NA,"1"
-"1106",2011,111,"Adult","D",2,"1","Opinion",1,NA,"1"
-"1107",2411,111,"Adult","D",3,"1","Moral",1,NA,"1"
-"1108",2811,111,"Adult","D",4,"1","Moral",1,NA,"1"
-"1109",3211,111,"Adult","D",5,"1","Immoral",1,NA,"1"
-"1110",3611,111,"Adult","D",6,"1","Immoral",1,NA,"1"
-"1111",3510,112,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1112",7510,112,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"1113",1151,112,"Adult","D",NA,"1","Action Impossible",0,NA,"1"
-"1114",1551,112,"Adult","D",NA,"1","Action Possible",1,NA,"1"
-"1115",1951,112,"Adult","D",1,"1","Opinion",1,NA,"1"
-"1116",2351,112,"Adult","D",2,"1","Opinion",1,NA,"1"
-"1117",2751,112,"Adult","D",3,"1","Moral",1,NA,"1"
-"1118",3151,112,"Adult","D",4,"1","Moral",1,NA,"1"
-"1119",3551,112,"Adult","D",5,"1","Immoral",1,NA,"1"
-"1120",3951,112,"Adult","D",6,"1","Immoral",1,NA,"1"
-"1121",4071,113,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1122",4471,113,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1123",4871,113,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1124",5271,113,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1125",5671,113,"Adult","E",1,"2","Opinion",1,NA,"1"
-"1126",6071,113,"Adult","E",2,"2","Opinion",1,NA,"1"
-"1127",6471,113,"Adult","E",3,"2","Moral",1,NA,"1"
-"1128",6871,113,"Adult","E",4,"2","Moral",1,NA,"1"
-"1129",7271,113,"Adult","E",5,"2","Immoral",1,NA,"1"
-"1130",7671,113,"Adult","E",6,"2","Immoral",1,NA,"1"
-"1131",4321,114,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"1132",4721,114,"Adult","E",NA,"1","Action Impossible",0,NA,"1"
-"1133",5121,114,"Adult","E",NA,"1","Action Impossible",0,NA,"1"
-"1134",5521,114,"Adult","E",NA,"1","Action Possible",1,NA,"1"
-"1135",5921,114,"Adult","E",1,"1","Opinion",0,NA,"1"
-"1136",6321,114,"Adult","E",2,"1","Opinion",1,NA,"1"
-"1137",6721,114,"Adult","E",3,"1","Moral",0,NA,"1"
-"1138",7121,114,"Adult","E",4,"1","Moral",0,NA,"1"
-"1139",7521,114,"Adult","E",5,"1","Immoral",1,NA,"1"
-"1140",7921,114,"Adult","E",6,"1","Immoral",1,NA,"1"
-"1141",3310,115,"Adult","D",NA,"1","Action Possible",1,NA,"4"
-"1142",7310,115,"Adult","D",NA,"1","Action Impossible",0,NA,"4"
-"1143",1133,115,"Adult","D",NA,"1","Action Impossible",0,NA,"4"
-"1144",1531,115,"Adult","D",NA,"1","Action Possible",1,NA,"4"
-"1145",1931,115,"Adult","D",1,"1","Opinion",1,NA,"4"
-"1146",2331,115,"Adult","D",2,"1","Opinion",1,NA,"4"
-"1147",2731,115,"Adult","D",3,"1","Moral",0,NA,"4"
-"1148",3131,115,"Adult","D",4,"1","Moral",0,NA,"4"
-"1149",3531,115,"Adult","D",5,"1","Immoral",1,NA,"4"
-"1150",3931,115,"Adult","D",6,"1","Immoral",1,NA,"4"
-"1151",805,116,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"1152",845,116,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1153",885,116,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1154",925,116,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"1155",965,116,"Adult","F",1,"2","Opinion",1,NA,"1"
-"1156",1005,116,"Adult","F",2,"2","Opinion",1,NA,"1"
-"1157",1045,116,"Adult","F",3,"2","Moral",1,NA,"1"
-"1158",1085,116,"Adult","F",4,"2","Moral",1,NA,"1"
-"1159",1125,116,"Adult","F",5,"2","Immoral",1,NA,"1"
-"1160",1165,116,"Adult","F",6,"2","Immoral",1,NA,"1"
-"1161",4191,117,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1162",4591,117,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1163",4991,117,"Adult","E",NA,"2","Action Impossible",0,NA,"1"
-"1164",5391,117,"Adult","E",NA,"2","Action Possible",1,NA,"1"
-"1165",5791,117,"Adult","E",1,"2","Opinion",1,NA,"1"
-"1166",6191,117,"Adult","E",2,"2","Opinion",1,NA,"1"
-"1167",6591,117,"Adult","E",3,"2","Moral",1,NA,"1"
-"1168",6991,117,"Adult","E",4,"2","Moral",1,NA,"1"
-"1169",7391,117,"Adult","E",5,"2","Immoral",1,NA,"1"
-"1170",7791,117,"Adult","E",6,"2","Immoral",1,NA,"1"
-"1171",811,118,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"1172",851,118,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1173",891,118,"Adult","F",NA,"2","Action Impossible",0,NA,"1"
-"1174",931,118,"Adult","F",NA,"2","Action Possible",1,NA,"1"
-"1175",971,118,"Adult","F",1,"2","Opinion",1,NA,"1"
-"1176",1011,118,"Adult","F",2,"2","Opinion",1,NA,"1"
-"1177",1051,118,"Adult","F",3,"2","Moral",0,NA,"1"
-"1178",1091,118,"Adult","F",4,"2","Moral",0,NA,"1"
-"1179",1131,118,"Adult","F",5,"2","Immoral",0,NA,"1"
-"1180",1171,118,"Adult","F",6,"2","Immoral",1,NA,"1"
-"1181",826,119,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1182",866,119,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1183",906,119,"Adult","F",NA,"1","Action Impossible",0,NA,"1"
-"1184",946,119,"Adult","F",NA,"1","Action Possible",1,NA,"1"
-"1185",986,119,"Adult","F",1,"1","Opinion",1,NA,"1"
-"1186",1026,119,"Adult","F",2,"1","Opinion",1,NA,"1"
-"1187",1066,119,"Adult","F",3,"1","Moral",1,NA,"1"
-"1188",1106,119,"Adult","F",4,"1","Moral",1,NA,"1"
-"1189",1146,119,"Adult","F",5,"1","Immoral",1,NA,"1"
-"1190",1186,119,"Adult","F",6,"1","Immoral",1,NA,"1"
-"1191",3100,120,"Adult","D",NA,"2","Action Possible",1,NA,"1"
-"1192",4310,120,"Adult","D",NA,"2","Action Impossible",0,NA,"1"
-"1193",831,120,"Adult","D",NA,"2","Action Impossible",0,NA,"1"
-"1194",1231,120,"Adult","D",NA,"2","Action Possible",1,NA,"1"
-"1195",1631,120,"Adult","D",1,"2","Opinion",1,NA,"1"
-"1196",2031,120,"Adult","D",2,"2","Opinion",1,NA,"1"
-"1197",2431,120,"Adult","D",3,"2","Moral",0,NA,"1"
-"1198",2831,120,"Adult","D",4,"2","Moral",0,NA,"1"
-"1199",3231,120,"Adult","D",5,"2","Immoral",1,NA,"1"
-"1200",3631,120,"Adult","D",6,"2","Immoral",1,NA,"1"
+"","X","ID","Age.3","Stimuli","Trial","Condition","Answer","Gender"
+"1",221,1,"7-8 group","D",NA,"Action Possible",1,"Female"
+"2",222,1,"7-8 group","D",NA,"Action Impossible",NA,"Female"
+"3",223,1,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"4",224,1,"7-8 group","D",NA,"Action Possible",1,"Female"
+"5",225,1,"7-8 group","D",1,"Opinion",1,"Female"
+"6",226,1,"7-8 group","D",2,"Opinion",1,"Female"
+"7",227,1,"7-8 group","D",3,"Moral",0,"Female"
+"8",228,1,"7-8 group","D",4,"Moral",0,"Female"
+"9",229,1,"7-8 group","D",5,"Immoral",1,"Female"
+"10",230,1,"7-8 group","D",6,"Immoral",1,"Female"
+"11",61,2,"7-8 group","F",NA,"Action Possible",1,"Female"
+"12",62,2,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"13",63,2,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"14",64,2,"7-8 group","F",NA,"Action Possible",0,"Female"
+"15",65,2,"7-8 group","F",1,"Opinion",1,"Female"
+"16",66,2,"7-8 group","F",2,"Opinion",0,"Female"
+"17",67,2,"7-8 group","F",3,"Moral",0,"Female"
+"18",68,2,"7-8 group","F",4,"Moral",0,"Female"
+"19",69,2,"7-8 group","F",5,"Immoral",1,"Female"
+"20",70,2,"7-8 group","F",6,"Immoral",1,"Female"
+"21",151,3,"5-6 group","D",NA,"Action Possible",1,"Male"
+"22",152,3,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"23",153,3,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"24",154,3,"5-6 group","D",NA,"Action Possible",1,"Male"
+"25",155,3,"5-6 group","D",1,"Opinion",1,"Male"
+"26",156,3,"5-6 group","D",2,"Opinion",1,"Male"
+"27",157,3,"5-6 group","D",3,"Moral",1,"Male"
+"28",158,3,"5-6 group","D",4,"Moral",1,"Male"
+"29",159,3,"5-6 group","D",5,"Immoral",1,"Male"
+"30",160,3,"5-6 group","D",6,"Immoral",1,"Male"
+"31",101,4,"7-8 group","D",NA,"Action Possible",1,"Female"
+"32",102,4,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"33",103,4,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"34",104,4,"7-8 group","D",NA,"Action Possible",1,"Female"
+"35",105,4,"7-8 group","D",1,"Opinion",1,"Female"
+"36",106,4,"7-8 group","D",2,"Opinion",1,"Female"
+"37",107,4,"7-8 group","D",3,"Moral",0,"Female"
+"38",108,4,"7-8 group","D",4,"Moral",0,"Female"
+"39",109,4,"7-8 group","D",5,"Immoral",1,"Female"
+"40",110,4,"7-8 group","D",6,"Immoral",1,"Female"
+"41",771,5,"5-6 group","E",NA,"Action Possible",1,"Male"
+"42",772,5,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"43",773,5,"5-6 group","E",NA,"Action Impossible",1,"Male"
+"44",774,5,"5-6 group","E",NA,"Action Possible",1,"Male"
+"45",775,5,"5-6 group","E",1,"Opinion",1,"Male"
+"46",776,5,"5-6 group","E",2,"Opinion",1,"Male"
+"47",777,5,"5-6 group","E",3,"Moral",0,"Male"
+"48",778,5,"5-6 group","E",4,"Moral",0,"Male"
+"49",779,5,"5-6 group","E",5,"Immoral",1,"Male"
+"50",780,5,"5-6 group","E",6,"Immoral",1,"Male"
+"51",661,6,"7-8 group","D",NA,"Action Possible",1,"Female"
+"52",662,6,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"53",663,6,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"54",664,6,"7-8 group","D",NA,"Action Possible",1,"Female"
+"55",665,6,"7-8 group","D",1,"Opinion",1,"Female"
+"56",666,6,"7-8 group","D",2,"Opinion",1,"Female"
+"57",667,6,"7-8 group","D",3,"Moral",1,"Female"
+"58",668,6,"7-8 group","D",4,"Moral",1,"Female"
+"59",669,6,"7-8 group","D",5,"Immoral",1,"Female"
+"60",670,6,"7-8 group","D",6,"Immoral",1,"Female"
+"61",761,7,"7-8 group","D",NA,"Action Possible",1,"Female"
+"62",762,7,"7-8 group","D",NA,"Action Impossible",1,"Female"
+"63",763,7,"7-8 group","D",NA,"Action Impossible",1,"Female"
+"64",764,7,"7-8 group","D",NA,"Action Possible",1,"Female"
+"65",765,7,"7-8 group","D",1,"Opinion",1,"Female"
+"66",766,7,"7-8 group","D",2,"Opinion",1,"Female"
+"67",767,7,"7-8 group","D",3,"Moral",1,"Female"
+"68",768,7,"7-8 group","D",4,"Moral",1,"Female"
+"69",769,7,"7-8 group","D",5,"Immoral",1,"Female"
+"70",770,7,"7-8 group","D",6,"Immoral",1,"Female"
+"71",691,8,"7-8 group","F",NA,"Action Possible",1,"Female"
+"72",692,8,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"73",693,8,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"74",694,8,"7-8 group","F",NA,"Action Possible",1,"Female"
+"75",695,8,"7-8 group","F",1,"Opinion",1,"Female"
+"76",696,8,"7-8 group","F",2,"Opinion",1,"Female"
+"77",697,8,"7-8 group","F",3,"Moral",0,"Female"
+"78",698,8,"7-8 group","F",4,"Moral",0,"Female"
+"79",699,8,"7-8 group","F",5,"Immoral",1,"Female"
+"80",700,8,"7-8 group","F",6,"Immoral",1,"Female"
+"81",481,9,"7-8 group","D",NA,"Action Possible",1,"Male"
+"82",482,9,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"83",483,9,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"84",484,9,"7-8 group","D",NA,"Action Possible",1,"Male"
+"85",485,9,"7-8 group","D",1,"Opinion",1,"Male"
+"86",486,9,"7-8 group","D",2,"Opinion",1,"Male"
+"87",487,9,"7-8 group","D",3,"Moral",0,"Male"
+"88",488,9,"7-8 group","D",4,"Moral",0,"Male"
+"89",489,9,"7-8 group","D",5,"Immoral",1,"Male"
+"90",490,9,"7-8 group","D",6,"Immoral",1,"Male"
+"91",241,10,"7-8 group","F",NA,"Action Possible",1,"Male"
+"92",242,10,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"93",243,10,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"94",244,10,"7-8 group","F",NA,"Action Possible",1,"Male"
+"95",245,10,"7-8 group","F",1,"Opinion",1,"Male"
+"96",246,10,"7-8 group","F",2,"Opinion",1,"Male"
+"97",247,10,"7-8 group","F",3,"Moral",0,"Male"
+"98",248,10,"7-8 group","F",4,"Moral",0,"Male"
+"99",249,10,"7-8 group","F",5,"Immoral",1,"Male"
+"100",250,10,"7-8 group","F",6,"Immoral",1,"Male"
+"101",501,11,"7-8 group","E",NA,"Action Possible",1,"Female"
+"102",502,11,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"103",503,11,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"104",504,11,"7-8 group","E",NA,"Action Possible",1,"Female"
+"105",505,11,"7-8 group","E",1,"Opinion",1,"Female"
+"106",506,11,"7-8 group","E",2,"Opinion",1,"Female"
+"107",507,11,"7-8 group","E",3,"Moral",1,"Female"
+"108",508,11,"7-8 group","E",4,"Moral",1,"Female"
+"109",509,11,"7-8 group","E",5,"Immoral",1,"Female"
+"110",510,11,"7-8 group","E",6,"Immoral",1,"Female"
+"111",611,12,"5-6 group","F",NA,"Action Possible",0,"Male"
+"112",612,12,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"113",613,12,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"114",614,12,"5-6 group","F",NA,"Action Possible",0,"Male"
+"115",615,12,"5-6 group","F",1,"Opinion",1,"Male"
+"116",616,12,"5-6 group","F",2,"Opinion",1,"Male"
+"117",617,12,"5-6 group","F",3,"Moral",0,"Male"
+"118",618,12,"5-6 group","F",4,"Moral",0,"Male"
+"119",619,12,"5-6 group","F",5,"Immoral",1,"Male"
+"120",620,12,"5-6 group","F",6,"Immoral",1,"Male"
+"121",681,13,"7-8 group","D",NA,"Action Possible",1,"Male"
+"122",682,13,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"123",683,13,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"124",684,13,"7-8 group","D",NA,"Action Possible",1,"Male"
+"125",685,13,"7-8 group","D",1,"Opinion",1,"Male"
+"126",686,13,"7-8 group","D",2,"Opinion",1,"Male"
+"127",687,13,"7-8 group","D",3,"Moral",1,"Male"
+"128",688,13,"7-8 group","D",4,"Moral",0,"Male"
+"129",689,13,"7-8 group","D",5,"Immoral",1,"Male"
+"130",690,13,"7-8 group","D",6,"Immoral",1,"Male"
+"131",371,14,"5-6 group","F",NA,"Action Possible",0,"Male"
+"132",372,14,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"133",373,14,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"134",374,14,"5-6 group","F",NA,"Action Possible",0,"Male"
+"135",375,14,"5-6 group","F",1,"Opinion",1,"Male"
+"136",376,14,"5-6 group","F",2,"Opinion",1,"Male"
+"137",377,14,"5-6 group","F",3,"Moral",1,"Male"
+"138",378,14,"5-6 group","F",4,"Moral",0,"Male"
+"139",379,14,"5-6 group","F",5,"Immoral",0,"Male"
+"140",380,14,"5-6 group","F",6,"Immoral",0,"Male"
+"141",521,15,"7-8 group","E",NA,"Action Possible",1,"Female"
+"142",522,15,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"143",523,15,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"144",524,15,"7-8 group","E",NA,"Action Possible",1,"Female"
+"145",525,15,"7-8 group","E",1,"Opinion",1,"Female"
+"146",526,15,"7-8 group","E",2,"Opinion",1,"Female"
+"147",527,15,"7-8 group","E",3,"Moral",1,"Female"
+"148",528,15,"7-8 group","E",4,"Moral",1,"Female"
+"149",529,15,"7-8 group","E",5,"Immoral",1,"Female"
+"150",530,15,"7-8 group","E",6,"Immoral",1,"Female"
+"151",21,16,"5-6 group","F",NA,"Action Possible",1,"Female"
+"152",22,16,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"153",23,16,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"154",24,16,"5-6 group","F",NA,"Action Possible",1,"Female"
+"155",25,16,"5-6 group","F",1,"Opinion",1,"Female"
+"156",26,16,"5-6 group","F",2,"Opinion",1,"Female"
+"157",27,16,"5-6 group","F",3,"Moral",0,"Female"
+"158",28,16,"5-6 group","F",4,"Moral",0,"Female"
+"159",29,16,"5-6 group","F",5,"Immoral",1,"Female"
+"160",30,16,"5-6 group","F",6,"Immoral",0,"Female"
+"161",51,17,"5-6 group","F",NA,"Action Possible",1,"Male"
+"162",52,17,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"163",53,17,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"164",54,17,"5-6 group","F",NA,"Action Possible",1,"Male"
+"165",55,17,"5-6 group","F",1,"Opinion",1,"Male"
+"166",56,17,"5-6 group","F",2,"Opinion",1,"Male"
+"167",57,17,"5-6 group","F",3,"Moral",1,"Male"
+"168",58,17,"5-6 group","F",4,"Moral",1,"Male"
+"169",59,17,"5-6 group","F",5,"Immoral",1,"Male"
+"170",60,17,"5-6 group","F",6,"Immoral",1,"Male"
+"171",91,18,"5-6 group","D",NA,"Action Possible",1,"Female"
+"172",92,18,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"173",93,18,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"174",94,18,"5-6 group","D",NA,"Action Possible",0,"Female"
+"175",95,18,"5-6 group","D",1,"Opinion",0,"Female"
+"176",96,18,"5-6 group","D",2,"Opinion",0,"Female"
+"177",97,18,"5-6 group","D",3,"Moral",0,"Female"
+"178",98,18,"5-6 group","D",4,"Moral",0,"Female"
+"179",99,18,"5-6 group","D",5,"Immoral",1,"Female"
+"180",100,18,"5-6 group","D",6,"Immoral",1,"Female"
+"181",321,19,"5-6 group","F",NA,"Action Possible",1,"Male"
+"182",322,19,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"183",323,19,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"184",324,19,"5-6 group","F",NA,"Action Possible",1,"Male"
+"185",325,19,"5-6 group","F",1,"Opinion",1,"Male"
+"186",326,19,"5-6 group","F",2,"Opinion",1,"Male"
+"187",327,19,"5-6 group","F",3,"Moral",0,"Male"
+"188",328,19,"5-6 group","F",4,"Moral",0,"Male"
+"189",329,19,"5-6 group","F",5,"Immoral",1,"Male"
+"190",330,19,"5-6 group","F",6,"Immoral",1,"Male"
+"191",511,20,"5-6 group","D",NA,"Action Possible",1,"Male"
+"192",512,20,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"193",513,20,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"194",514,20,"5-6 group","D",NA,"Action Possible",1,"Male"
+"195",515,20,"5-6 group","D",1,"Opinion",1,"Male"
+"196",516,20,"5-6 group","D",2,"Opinion",1,"Male"
+"197",517,20,"5-6 group","D",3,"Moral",1,"Male"
+"198",518,20,"5-6 group","D",4,"Moral",1,"Male"
+"199",519,20,"5-6 group","D",5,"Immoral",1,"Male"
+"200",520,20,"5-6 group","D",6,"Immoral",1,"Male"
+"201",721,21,"5-6 group","D",NA,"Action Possible",1,"Female"
+"202",722,21,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"203",723,21,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"204",724,21,"5-6 group","D",NA,"Action Possible",1,"Female"
+"205",725,21,"5-6 group","D",1,"Opinion",1,"Female"
+"206",726,21,"5-6 group","D",2,"Opinion",1,"Female"
+"207",727,21,"5-6 group","D",3,"Moral",0,"Female"
+"208",728,21,"5-6 group","D",4,"Moral",0,"Female"
+"209",729,21,"5-6 group","D",5,"Immoral",1,"Female"
+"210",730,21,"5-6 group","D",6,"Immoral",1,"Female"
+"211",531,22,"5-6 group","D",NA,"Action Possible",1,"Female"
+"212",532,22,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"213",533,22,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"214",534,22,"5-6 group","D",NA,"Action Possible",1,"Female"
+"215",535,22,"5-6 group","D",1,"Opinion",1,"Female"
+"216",536,22,"5-6 group","D",2,"Opinion",1,"Female"
+"217",537,22,"5-6 group","D",3,"Moral",0,"Female"
+"218",538,22,"5-6 group","D",4,"Moral",0,"Female"
+"219",539,22,"5-6 group","D",5,"Immoral",1,"Female"
+"220",540,22,"5-6 group","D",6,"Immoral",1,"Female"
+"221",121,23,"5-6 group","E",NA,"Action Possible",1,"Male"
+"222",122,23,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"223",123,23,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"224",124,23,"5-6 group","E",NA,"Action Possible",1,"Male"
+"225",125,23,"5-6 group","E",1,"Opinion",1,"Male"
+"226",126,23,"5-6 group","E",2,"Opinion",1,"Male"
+"227",127,23,"5-6 group","E",3,"Moral",0,"Male"
+"228",128,23,"5-6 group","E",4,"Moral",1,"Male"
+"229",129,23,"5-6 group","E",5,"Immoral",1,"Male"
+"230",130,23,"5-6 group","E",6,"Immoral",1,"Male"
+"231",111,24,"5-6 group","E",NA,"Action Possible",1,"Male"
+"232",112,24,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"233",113,24,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"234",114,24,"5-6 group","E",NA,"Action Possible",1,"Male"
+"235",115,24,"5-6 group","E",1,"Opinion",1,"Male"
+"236",116,24,"5-6 group","E",2,"Opinion",1,"Male"
+"237",117,24,"5-6 group","E",3,"Moral",0,"Male"
+"238",118,24,"5-6 group","E",4,"Moral",0,"Male"
+"239",119,24,"5-6 group","E",5,"Immoral",1,"Male"
+"240",120,24,"5-6 group","E",6,"Immoral",1,"Male"
+"241",271,25,"7-8 group","F",NA,"Action Possible",1,"Female"
+"242",272,25,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"243",273,25,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"244",274,25,"7-8 group","F",NA,"Action Possible",1,"Female"
+"245",275,25,"7-8 group","F",1,"Opinion",1,"Female"
+"246",276,25,"7-8 group","F",2,"Opinion",1,"Female"
+"247",277,25,"7-8 group","F",3,"Moral",0,"Female"
+"248",278,25,"7-8 group","F",4,"Moral",1,"Female"
+"249",279,25,"7-8 group","F",5,"Immoral",1,"Female"
+"250",280,25,"7-8 group","F",6,"Immoral",1,"Female"
+"251",131,26,"5-6 group","E",NA,"Action Possible",1,"Male"
+"252",132,26,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"253",133,26,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"254",134,26,"5-6 group","E",NA,"Action Possible",1,"Male"
+"255",135,26,"5-6 group","E",1,"Opinion",1,"Male"
+"256",136,26,"5-6 group","E",2,"Opinion",1,"Male"
+"257",137,26,"5-6 group","E",3,"Moral",NA,"Male"
+"258",138,26,"5-6 group","E",4,"Moral",0,"Male"
+"259",139,26,"5-6 group","E",5,"Immoral",1,"Male"
+"260",140,26,"5-6 group","E",6,"Immoral",1,"Male"
+"261",141,27,"5-6 group","E",NA,"Action Possible",1,"Male"
+"262",142,27,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"263",143,27,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"264",144,27,"5-6 group","E",NA,"Action Possible",1,"Male"
+"265",145,27,"5-6 group","E",1,"Opinion",1,"Male"
+"266",146,27,"5-6 group","E",2,"Opinion",1,"Male"
+"267",147,27,"5-6 group","E",3,"Moral",0,"Male"
+"268",148,27,"5-6 group","E",4,"Moral",0,"Male"
+"269",149,27,"5-6 group","E",5,"Immoral",1,"Male"
+"270",150,27,"5-6 group","E",6,"Immoral",1,"Male"
+"271",431,28,"5-6 group","F",NA,"Action Possible",1,"Male"
+"272",432,28,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"273",433,28,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"274",434,28,"5-6 group","F",NA,"Action Possible",1,"Male"
+"275",435,28,"5-6 group","F",1,"Opinion",1,"Male"
+"276",436,28,"5-6 group","F",2,"Opinion",1,"Male"
+"277",437,28,"5-6 group","F",3,"Moral",0,"Male"
+"278",438,28,"5-6 group","F",4,"Moral",0,"Male"
+"279",439,28,"5-6 group","F",5,"Immoral",1,"Male"
+"280",440,28,"5-6 group","F",6,"Immoral",1,"Male"
+"281",741,29,"7-8 group","F",NA,"Action Possible",1,"Female"
+"282",742,29,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"283",743,29,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"284",744,29,"7-8 group","F",NA,"Action Possible",1,"Female"
+"285",745,29,"7-8 group","F",1,"Opinion",1,"Female"
+"286",746,29,"7-8 group","F",2,"Opinion",1,"Female"
+"287",747,29,"7-8 group","F",3,"Moral",1,"Female"
+"288",748,29,"7-8 group","F",4,"Moral",1,"Female"
+"289",749,29,"7-8 group","F",5,"Immoral",1,"Female"
+"290",750,29,"7-8 group","F",6,"Immoral",1,"Female"
+"291",461,30,"5-6 group","E",NA,"Action Possible",0,"Male"
+"292",462,30,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"293",463,30,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"294",464,30,"5-6 group","E",NA,"Action Possible",0,"Male"
+"295",465,30,"5-6 group","E",1,"Opinion",0,"Male"
+"296",466,30,"5-6 group","E",2,"Opinion",0,"Male"
+"297",467,30,"5-6 group","E",3,"Moral",0,"Male"
+"298",468,30,"5-6 group","E",4,"Moral",0,"Male"
+"299",469,30,"5-6 group","E",5,"Immoral",0,"Male"
+"300",470,30,"5-6 group","E",6,"Immoral",0,"Male"
+"301",341,31,"5-6 group","F",NA,"Action Possible",1,"Female"
+"302",342,31,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"303",343,31,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"304",344,31,"5-6 group","F",NA,"Action Possible",1,"Female"
+"305",345,31,"5-6 group","F",1,"Opinion",1,"Female"
+"306",346,31,"5-6 group","F",2,"Opinion",1,"Female"
+"307",347,31,"5-6 group","F",3,"Moral",1,"Female"
+"308",348,31,"5-6 group","F",4,"Moral",1,"Female"
+"309",349,31,"5-6 group","F",5,"Immoral",1,"Female"
+"310",350,31,"5-6 group","F",6,"Immoral",1,"Female"
+"311",561,32,"7-8 group","E",NA,"Action Possible",1,"Male"
+"312",562,32,"7-8 group","E",NA,"Action Impossible",0,"Male"
+"313",563,32,"7-8 group","E",NA,"Action Impossible",0,"Male"
+"314",564,32,"7-8 group","E",NA,"Action Possible",1,"Male"
+"315",565,32,"7-8 group","E",1,"Opinion",1,"Male"
+"316",566,32,"7-8 group","E",2,"Opinion",1,"Male"
+"317",567,32,"7-8 group","E",3,"Moral",0,"Male"
+"318",568,32,"7-8 group","E",4,"Moral",0,"Male"
+"319",569,32,"7-8 group","E",5,"Immoral",1,"Male"
+"320",570,32,"7-8 group","E",6,"Immoral",1,"Male"
+"321",491,33,"7-8 group","D",NA,"Action Possible",1,"Female"
+"322",492,33,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"323",493,33,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"324",494,33,"7-8 group","D",NA,"Action Possible",1,"Female"
+"325",495,33,"7-8 group","D",1,"Opinion",1,"Female"
+"326",496,33,"7-8 group","D",2,"Opinion",1,"Female"
+"327",497,33,"7-8 group","D",3,"Moral",0,"Female"
+"328",498,33,"7-8 group","D",4,"Moral",0,"Female"
+"329",499,33,"7-8 group","D",5,"Immoral",1,"Female"
+"330",500,33,"7-8 group","D",6,"Immoral",1,"Female"
+"331",451,34,"5-6 group","D",NA,"Action Possible",1,"Female"
+"332",452,34,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"333",453,34,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"334",454,34,"5-6 group","D",NA,"Action Possible",1,"Female"
+"335",455,34,"5-6 group","D",1,"Opinion",1,"Female"
+"336",456,34,"5-6 group","D",2,"Opinion",1,"Female"
+"337",457,34,"5-6 group","D",3,"Moral",0,"Female"
+"338",458,34,"5-6 group","D",4,"Moral",0,"Female"
+"339",459,34,"5-6 group","D",5,"Immoral",1,"Female"
+"340",460,34,"5-6 group","D",6,"Immoral",1,"Female"
+"341",211,35,"5-6 group","D",NA,"Action Possible",1,"Male"
+"342",212,35,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"343",213,35,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"344",214,35,"5-6 group","D",NA,"Action Possible",1,"Male"
+"345",215,35,"5-6 group","D",1,"Opinion",1,"Male"
+"346",216,35,"5-6 group","D",2,"Opinion",1,"Male"
+"347",217,35,"5-6 group","D",3,"Moral",0,"Male"
+"348",218,35,"5-6 group","D",4,"Moral",0,"Male"
+"349",219,35,"5-6 group","D",5,"Immoral",1,"Male"
+"350",220,35,"5-6 group","D",6,"Immoral",1,"Male"
+"351",331,36,"5-6 group","E",NA,"Action Possible",1,"Female"
+"352",332,36,"5-6 group","E",NA,"Action Impossible",0,"Female"
+"353",333,36,"5-6 group","E",NA,"Action Impossible",0,"Female"
+"354",334,36,"5-6 group","E",NA,"Action Possible",1,"Female"
+"355",335,36,"5-6 group","E",1,"Opinion",1,"Female"
+"356",336,36,"5-6 group","E",2,"Opinion",1,"Female"
+"357",337,36,"5-6 group","E",3,"Moral",1,"Female"
+"358",338,36,"5-6 group","E",4,"Moral",1,"Female"
+"359",339,36,"5-6 group","E",5,"Immoral",1,"Female"
+"360",340,36,"5-6 group","E",6,"Immoral",1,"Female"
+"361",181,37,"7-8 group","D",NA,"Action Possible",1,"Female"
+"362",182,37,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"363",183,37,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"364",184,37,"7-8 group","D",NA,"Action Possible",1,"Female"
+"365",185,37,"7-8 group","D",1,"Opinion",1,"Female"
+"366",186,37,"7-8 group","D",2,"Opinion",1,"Female"
+"367",187,37,"7-8 group","D",3,"Moral",1,"Female"
+"368",188,37,"7-8 group","D",4,"Moral",1,"Female"
+"369",189,37,"7-8 group","D",5,"Immoral",1,"Female"
+"370",190,37,"7-8 group","D",6,"Immoral",1,"Female"
+"371",581,38,"7-8 group","E",NA,"Action Possible",1,"Female"
+"372",582,38,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"373",583,38,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"374",584,38,"7-8 group","E",NA,"Action Possible",1,"Female"
+"375",585,38,"7-8 group","E",1,"Opinion",1,"Female"
+"376",586,38,"7-8 group","E",2,"Opinion",1,"Female"
+"377",587,38,"7-8 group","E",3,"Moral",1,"Female"
+"378",588,38,"7-8 group","E",4,"Moral",1,"Female"
+"379",589,38,"7-8 group","E",5,"Immoral",1,"Female"
+"380",590,38,"7-8 group","E",6,"Immoral",1,"Female"
+"381",301,39,"5-6 group","D",NA,"Action Possible",1,"Female"
+"382",302,39,"5-6 group","D",NA,"Action Impossible",1,"Female"
+"383",303,39,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"384",304,39,"5-6 group","D",NA,"Action Possible",1,"Female"
+"385",305,39,"5-6 group","D",1,"Opinion",1,"Female"
+"386",306,39,"5-6 group","D",2,"Opinion",1,"Female"
+"387",307,39,"5-6 group","D",3,"Moral",0,"Female"
+"388",308,39,"5-6 group","D",4,"Moral",0,"Female"
+"389",309,39,"5-6 group","D",5,"Immoral",1,"Female"
+"390",310,39,"5-6 group","D",6,"Immoral",1,"Female"
+"391",81,40,"5-6 group","E",NA,"Action Possible",1,"Male"
+"392",82,40,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"393",83,40,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"394",84,40,"5-6 group","E",NA,"Action Possible",0,"Male"
+"395",85,40,"5-6 group","E",1,"Opinion",1,"Male"
+"396",86,40,"5-6 group","E",2,"Opinion",1,"Male"
+"397",87,40,"5-6 group","E",3,"Moral",NA,"Male"
+"398",88,40,"5-6 group","E",4,"Moral",NA,"Male"
+"399",89,40,"5-6 group","E",5,"Immoral",NA,"Male"
+"400",90,40,"5-6 group","E",6,"Immoral",NA,"Male"
+"401",701,41,"7-8 group","F",NA,"Action Possible",1,"Male"
+"402",702,41,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"403",703,41,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"404",704,41,"7-8 group","F",NA,"Action Possible",1,"Male"
+"405",705,41,"7-8 group","F",1,"Opinion",1,"Male"
+"406",706,41,"7-8 group","F",2,"Opinion",1,"Male"
+"407",707,41,"7-8 group","F",3,"Moral",1,"Male"
+"408",708,41,"7-8 group","F",4,"Moral",1,"Male"
+"409",709,41,"7-8 group","F",5,"Immoral",1,"Male"
+"410",710,41,"7-8 group","F",6,"Immoral",1,"Male"
+"411",571,42,"7-8 group","E",NA,"Action Possible",1,"Female"
+"412",572,42,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"413",573,42,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"414",574,42,"7-8 group","E",NA,"Action Possible",1,"Female"
+"415",575,42,"7-8 group","E",1,"Opinion",1,"Female"
+"416",576,42,"7-8 group","E",2,"Opinion",1,"Female"
+"417",577,42,"7-8 group","E",3,"Moral",0,"Female"
+"418",578,42,"7-8 group","E",4,"Moral",0,"Female"
+"419",579,42,"7-8 group","E",5,"Immoral",1,"Female"
+"420",580,42,"7-8 group","E",6,"Immoral",1,"Female"
+"421",621,43,"7-8 group","E",NA,"Action Possible",1,"Female"
+"422",622,43,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"423",623,43,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"424",624,43,"7-8 group","E",NA,"Action Possible",1,"Female"
+"425",625,43,"7-8 group","E",1,"Opinion",0,"Female"
+"426",626,43,"7-8 group","E",2,"Opinion",1,"Female"
+"427",627,43,"7-8 group","E",3,"Moral",0,"Female"
+"428",628,43,"7-8 group","E",4,"Moral",0,"Female"
+"429",629,43,"7-8 group","E",5,"Immoral",1,"Female"
+"430",630,43,"7-8 group","E",6,"Immoral",1,"Female"
+"431",441,44,"5-6 group","D",NA,"Action Possible",1,"Male"
+"432",442,44,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"433",443,44,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"434",444,44,"5-6 group","D",NA,"Action Possible",0,"Male"
+"435",445,44,"5-6 group","D",1,"Opinion",1,"Male"
+"436",446,44,"5-6 group","D",2,"Opinion",1,"Male"
+"437",447,44,"5-6 group","D",3,"Moral",0,"Male"
+"438",448,44,"5-6 group","D",4,"Moral",0,"Male"
+"439",449,44,"5-6 group","D",5,"Immoral",1,"Male"
+"440",450,44,"5-6 group","D",6,"Immoral",1,"Male"
+"441",291,45,"7-8 group","E",NA,"Action Possible",1,"Male"
+"442",292,45,"7-8 group","E",NA,"Action Impossible",0,"Male"
+"443",293,45,"7-8 group","E",NA,"Action Impossible",0,"Male"
+"444",294,45,"7-8 group","E",NA,"Action Possible",1,"Male"
+"445",295,45,"7-8 group","E",1,"Opinion",1,"Male"
+"446",296,45,"7-8 group","E",2,"Opinion",1,"Male"
+"447",297,45,"7-8 group","E",3,"Moral",1,"Male"
+"448",298,45,"7-8 group","E",4,"Moral",1,"Male"
+"449",299,45,"7-8 group","E",5,"Immoral",1,"Male"
+"450",300,45,"7-8 group","E",6,"Immoral",1,"Male"
+"451",311,46,"5-6 group","D",NA,"Action Possible",0,"Female"
+"452",312,46,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"453",313,46,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"454",314,46,"5-6 group","D",NA,"Action Possible",0,"Female"
+"455",315,46,"5-6 group","D",1,"Opinion",0,"Female"
+"456",316,46,"5-6 group","D",2,"Opinion",1,"Female"
+"457",317,46,"5-6 group","D",3,"Moral",0,"Female"
+"458",318,46,"5-6 group","D",4,"Moral",0,"Female"
+"459",319,46,"5-6 group","D",5,"Immoral",1,"Female"
+"460",320,46,"5-6 group","D",6,"Immoral",1,"Female"
+"461",351,47,"5-6 group","D",NA,"Action Possible",1,"Female"
+"462",352,47,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"463",353,47,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"464",354,47,"5-6 group","D",NA,"Action Possible",1,"Female"
+"465",355,47,"5-6 group","D",1,"Opinion",1,"Female"
+"466",356,47,"5-6 group","D",2,"Opinion",1,"Female"
+"467",357,47,"5-6 group","D",3,"Moral",0,"Female"
+"468",358,47,"5-6 group","D",4,"Moral",1,"Female"
+"469",359,47,"5-6 group","D",5,"Immoral",1,"Female"
+"470",360,47,"5-6 group","D",6,"Immoral",1,"Female"
+"471",641,48,"5-6 group","F",NA,"Action Possible",1,"Female"
+"472",642,48,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"473",643,48,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"474",644,48,"5-6 group","F",NA,"Action Possible",1,"Female"
+"475",645,48,"5-6 group","F",1,"Opinion",1,"Female"
+"476",646,48,"5-6 group","F",2,"Opinion",1,"Female"
+"477",647,48,"5-6 group","F",3,"Moral",1,"Female"
+"478",648,48,"5-6 group","F",4,"Moral",1,"Female"
+"479",649,48,"5-6 group","F",5,"Immoral",1,"Female"
+"480",650,48,"5-6 group","F",6,"Immoral",1,"Female"
+"481",601,49,"7-8 group","D",NA,"Action Possible",1,"Female"
+"482",602,49,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"483",603,49,"7-8 group","D",NA,"Action Impossible",0,"Female"
+"484",604,49,"7-8 group","D",NA,"Action Possible",1,"Female"
+"485",605,49,"7-8 group","D",1,"Opinion",1,"Female"
+"486",606,49,"7-8 group","D",2,"Opinion",1,"Female"
+"487",607,49,"7-8 group","D",3,"Moral",0,"Female"
+"488",608,49,"7-8 group","D",4,"Moral",0,"Female"
+"489",609,49,"7-8 group","D",5,"Immoral",1,"Female"
+"490",610,49,"7-8 group","D",6,"Immoral",1,"Female"
+"491",281,50,"5-6 group","F",NA,"Action Possible",1,"Male"
+"492",282,50,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"493",283,50,"5-6 group","F",NA,"Action Impossible",1,"Male"
+"494",284,50,"5-6 group","F",NA,"Action Possible",1,"Male"
+"495",285,50,"5-6 group","F",1,"Opinion",1,"Male"
+"496",286,50,"5-6 group","F",2,"Opinion",0,"Male"
+"497",287,50,"5-6 group","F",3,"Moral",1,"Male"
+"498",288,50,"5-6 group","F",4,"Moral",0,"Male"
+"499",289,50,"5-6 group","F",5,"Immoral",1,"Male"
+"500",290,50,"5-6 group","F",6,"Immoral",1,"Male"
+"501",671,51,"5-6 group","D",NA,"Action Possible",1,"Female"
+"502",672,51,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"503",673,51,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"504",674,51,"5-6 group","D",NA,"Action Possible",1,"Female"
+"505",675,51,"5-6 group","D",1,"Opinion",1,"Female"
+"506",676,51,"5-6 group","D",2,"Opinion",1,"Female"
+"507",677,51,"5-6 group","D",3,"Moral",NA,"Female"
+"508",678,51,"5-6 group","D",4,"Moral",NA,"Female"
+"509",679,51,"5-6 group","D",5,"Immoral",1,"Female"
+"510",680,51,"5-6 group","D",6,"Immoral",1,"Female"
+"511",261,52,"7-8 group","F",NA,"Action Possible",1,"Male"
+"512",262,52,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"513",263,52,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"514",264,52,"7-8 group","F",NA,"Action Possible",1,"Male"
+"515",265,52,"7-8 group","F",1,"Opinion",1,"Male"
+"516",266,52,"7-8 group","F",2,"Opinion",1,"Male"
+"517",267,52,"7-8 group","F",3,"Moral",0,"Male"
+"518",268,52,"7-8 group","F",4,"Moral",0,"Male"
+"519",269,52,"7-8 group","F",5,"Immoral",1,"Male"
+"520",270,52,"7-8 group","F",6,"Immoral",1,"Male"
+"521",381,53,"5-6 group","D",NA,"Action Possible",1,"Female"
+"522",382,53,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"523",383,53,"5-6 group","D",NA,"Action Impossible",1,"Female"
+"524",384,53,"5-6 group","D",NA,"Action Possible",1,"Female"
+"525",385,53,"5-6 group","D",1,"Opinion",1,"Female"
+"526",386,53,"5-6 group","D",2,"Opinion",1,"Female"
+"527",387,53,"5-6 group","D",3,"Moral",1,"Female"
+"528",388,53,"5-6 group","D",4,"Moral",1,"Female"
+"529",389,53,"5-6 group","D",5,"Immoral",1,"Female"
+"530",390,53,"5-6 group","D",6,"Immoral",1,"Female"
+"531",251,54,"7-8 group","D",NA,"Action Possible",1,"Male"
+"532",252,54,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"533",253,54,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"534",254,54,"7-8 group","D",NA,"Action Possible",1,"Male"
+"535",255,54,"7-8 group","D",1,"Opinion",1,"Male"
+"536",256,54,"7-8 group","D",2,"Opinion",1,"Male"
+"537",257,54,"7-8 group","D",3,"Moral",0,"Male"
+"538",258,54,"7-8 group","D",4,"Moral",0,"Male"
+"539",259,54,"7-8 group","D",5,"Immoral",1,"Male"
+"540",260,54,"7-8 group","D",6,"Immoral",1,"Male"
+"541",41,55,"5-6 group","F",NA,"Action Possible",0,"Male"
+"542",42,55,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"543",43,55,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"544",44,55,"5-6 group","F",NA,"Action Possible",1,"Male"
+"545",45,55,"5-6 group","F",1,"Opinion",0,"Male"
+"546",46,55,"5-6 group","F",2,"Opinion",0,"Male"
+"547",47,55,"5-6 group","F",3,"Moral",0,"Male"
+"548",48,55,"5-6 group","F",4,"Moral",0,"Male"
+"549",49,55,"5-6 group","F",5,"Immoral",1,"Male"
+"550",50,55,"5-6 group","F",6,"Immoral",1,"Male"
+"551",541,56,"5-6 group","D",NA,"Action Possible",1,"Male"
+"552",542,56,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"553",543,56,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"554",544,56,"5-6 group","D",NA,"Action Possible",1,"Male"
+"555",545,56,"5-6 group","D",1,"Opinion",1,"Male"
+"556",546,56,"5-6 group","D",2,"Opinion",1,"Male"
+"557",547,56,"5-6 group","D",3,"Moral",1,"Male"
+"558",548,56,"5-6 group","D",4,"Moral",1,"Male"
+"559",549,56,"5-6 group","D",5,"Immoral",1,"Male"
+"560",550,56,"5-6 group","D",6,"Immoral",1,"Male"
+"561",631,57,"7-8 group","F",NA,"Action Possible",1,"Female"
+"562",632,57,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"563",633,57,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"564",634,57,"7-8 group","F",NA,"Action Possible",1,"Female"
+"565",635,57,"7-8 group","F",1,"Opinion",1,"Female"
+"566",636,57,"7-8 group","F",2,"Opinion",1,"Female"
+"567",637,57,"7-8 group","F",3,"Moral",0,"Female"
+"568",638,57,"7-8 group","F",4,"Moral",0,"Female"
+"569",639,57,"7-8 group","F",5,"Immoral",1,"Female"
+"570",640,57,"7-8 group","F",6,"Immoral",1,"Female"
+"571",591,58,"5-6 group","D",NA,"Action Possible",1,"Male"
+"572",592,58,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"573",593,58,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"574",594,58,"5-6 group","D",NA,"Action Possible",1,"Male"
+"575",595,58,"5-6 group","D",1,"Opinion",1,"Male"
+"576",596,58,"5-6 group","D",2,"Opinion",1,"Male"
+"577",597,58,"5-6 group","D",3,"Moral",0,"Male"
+"578",598,58,"5-6 group","D",4,"Moral",0,"Male"
+"579",599,58,"5-6 group","D",5,"Immoral",1,"Male"
+"580",600,58,"5-6 group","D",6,"Immoral",1,"Male"
+"581",781,59,"7-8 group","E",NA,"Action Possible",1,"Female"
+"582",782,59,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"583",783,59,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"584",784,59,"7-8 group","E",NA,"Action Possible",1,"Female"
+"585",785,59,"7-8 group","E",1,"Opinion",1,"Female"
+"586",786,59,"7-8 group","E",2,"Opinion",1,"Female"
+"587",787,59,"7-8 group","E",3,"Moral",0,"Female"
+"588",788,59,"7-8 group","E",4,"Moral",0,"Female"
+"589",789,59,"7-8 group","E",5,"Immoral",1,"Female"
+"590",790,59,"7-8 group","E",6,"Immoral",1,"Female"
+"591",401,60,"5-6 group","E",NA,"Action Possible",1,"Female"
+"592",402,60,"5-6 group","E",NA,"Action Impossible",0,"Female"
+"593",403,60,"5-6 group","E",NA,"Action Impossible",0,"Female"
+"594",404,60,"5-6 group","E",NA,"Action Possible",1,"Female"
+"595",405,60,"5-6 group","E",1,"Opinion",1,"Female"
+"596",406,60,"5-6 group","E",2,"Opinion",1,"Female"
+"597",407,60,"5-6 group","E",3,"Moral",0,"Female"
+"598",408,60,"5-6 group","E",4,"Moral",0,"Female"
+"599",409,60,"5-6 group","E",5,"Immoral",1,"Female"
+"600",410,60,"5-6 group","E",6,"Immoral",1,"Female"
+"601",711,61,"7-8 group","D",NA,"Action Possible",1,"Male"
+"602",712,61,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"603",713,61,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"604",714,61,"7-8 group","D",NA,"Action Possible",1,"Male"
+"605",715,61,"7-8 group","D",1,"Opinion",1,"Male"
+"606",716,61,"7-8 group","D",2,"Opinion",1,"Male"
+"607",717,61,"7-8 group","D",3,"Moral",0,"Male"
+"608",718,61,"7-8 group","D",4,"Moral",1,"Male"
+"609",719,61,"7-8 group","D",5,"Immoral",1,"Male"
+"610",720,61,"7-8 group","D",6,"Immoral",1,"Male"
+"611",161,62,"5-6 group","D",NA,"Action Possible",1,"Male"
+"612",162,62,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"613",163,62,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"614",164,62,"5-6 group","D",NA,"Action Possible",1,"Male"
+"615",165,62,"5-6 group","D",1,"Opinion",1,"Male"
+"616",166,62,"5-6 group","D",2,"Opinion",1,"Male"
+"617",167,62,"5-6 group","D",3,"Moral",1,"Male"
+"618",168,62,"5-6 group","D",4,"Moral",1,"Male"
+"619",169,62,"5-6 group","D",5,"Immoral",1,"Male"
+"620",170,62,"5-6 group","D",6,"Immoral",1,"Male"
+"621",471,63,"7-8 group","F",NA,"Action Possible",1,"Female"
+"622",472,63,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"623",473,63,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"624",474,63,"7-8 group","F",NA,"Action Possible",1,"Female"
+"625",475,63,"7-8 group","F",1,"Opinion",1,"Female"
+"626",476,63,"7-8 group","F",2,"Opinion",1,"Female"
+"627",477,63,"7-8 group","F",3,"Moral",1,"Female"
+"628",478,63,"7-8 group","F",4,"Moral",1,"Female"
+"629",479,63,"7-8 group","F",5,"Immoral",1,"Female"
+"630",480,63,"7-8 group","F",6,"Immoral",1,"Female"
+"631",1,64,"7-8 group","F",NA,"Action Possible",1,"Male"
+"632",2,64,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"633",3,64,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"634",4,64,"7-8 group","F",NA,"Action Possible",1,"Male"
+"635",5,64,"7-8 group","F",1,"Opinion",1,"Male"
+"636",6,64,"7-8 group","F",2,"Opinion",1,"Male"
+"637",7,64,"7-8 group","F",3,"Moral",1,"Male"
+"638",8,64,"7-8 group","F",4,"Moral",1,"Male"
+"639",9,64,"7-8 group","F",5,"Immoral",1,"Male"
+"640",10,64,"7-8 group","F",6,"Immoral",1,"Male"
+"641",361,65,"5-6 group","F",NA,"Action Possible",1,"Female"
+"642",362,65,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"643",363,65,"5-6 group","F",NA,"Action Impossible",0,"Female"
+"644",364,65,"5-6 group","F",NA,"Action Possible",1,"Female"
+"645",365,65,"5-6 group","F",1,"Opinion",1,"Female"
+"646",366,65,"5-6 group","F",2,"Opinion",1,"Female"
+"647",367,65,"5-6 group","F",3,"Moral",0,"Female"
+"648",368,65,"5-6 group","F",4,"Moral",0,"Female"
+"649",369,65,"5-6 group","F",5,"Immoral",1,"Female"
+"650",370,65,"5-6 group","F",6,"Immoral",1,"Female"
+"651",391,66,"7-8 group","E",NA,"Action Possible",1,"Female"
+"652",392,66,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"653",393,66,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"654",394,66,"7-8 group","E",NA,"Action Possible",1,"Female"
+"655",395,66,"7-8 group","E",1,"Opinion",0,"Female"
+"656",396,66,"7-8 group","E",2,"Opinion",0,"Female"
+"657",397,66,"7-8 group","E",3,"Moral",0,"Female"
+"658",398,66,"7-8 group","E",4,"Moral",1,"Female"
+"659",399,66,"7-8 group","E",5,"Immoral",1,"Female"
+"660",400,66,"7-8 group","E",6,"Immoral",1,"Female"
+"661",11,67,"7-8 group","F",NA,"Action Possible",1,"Female"
+"662",12,67,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"663",13,67,"7-8 group","F",NA,"Action Impossible",0,"Female"
+"664",14,67,"7-8 group","F",NA,"Action Possible",1,"Female"
+"665",15,67,"7-8 group","F",1,"Opinion",1,"Female"
+"666",16,67,"7-8 group","F",2,"Opinion",1,"Female"
+"667",17,67,"7-8 group","F",3,"Moral",0,"Female"
+"668",18,67,"7-8 group","F",4,"Moral",0,"Female"
+"669",19,67,"7-8 group","F",5,"Immoral",1,"Female"
+"670",20,67,"7-8 group","F",6,"Immoral",1,"Female"
+"671",651,68,"5-6 group","F",NA,"Action Possible",1,"Male"
+"672",652,68,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"673",653,68,"5-6 group","F",NA,"Action Impossible",0,"Male"
+"674",654,68,"5-6 group","F",NA,"Action Possible",1,"Male"
+"675",655,68,"5-6 group","F",1,"Opinion",1,"Male"
+"676",656,68,"5-6 group","F",2,"Opinion",1,"Male"
+"677",657,68,"5-6 group","F",3,"Moral",1,"Male"
+"678",658,68,"5-6 group","F",4,"Moral",1,"Male"
+"679",659,68,"5-6 group","F",5,"Immoral",1,"Male"
+"680",660,68,"5-6 group","F",6,"Immoral",1,"Male"
+"681",751,69,"7-8 group","F",NA,"Action Possible",1,"Male"
+"682",752,69,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"683",753,69,"7-8 group","F",NA,"Action Impossible",1,"Male"
+"684",754,69,"7-8 group","F",NA,"Action Possible",1,"Male"
+"685",755,69,"7-8 group","F",1,"Opinion",1,"Male"
+"686",756,69,"7-8 group","F",2,"Opinion",1,"Male"
+"687",757,69,"7-8 group","F",3,"Moral",0,"Male"
+"688",758,69,"7-8 group","F",4,"Moral",0,"Male"
+"689",759,69,"7-8 group","F",5,"Immoral",1,"Male"
+"690",760,69,"7-8 group","F",6,"Immoral",1,"Male"
+"691",191,70,"7-8 group","E",NA,"Action Possible",1,"Female"
+"692",192,70,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"693",193,70,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"694",194,70,"7-8 group","E",NA,"Action Possible",1,"Female"
+"695",195,70,"7-8 group","E",1,"Opinion",1,"Female"
+"696",196,70,"7-8 group","E",2,"Opinion",1,"Female"
+"697",197,70,"7-8 group","E",3,"Moral",1,"Female"
+"698",198,70,"7-8 group","E",4,"Moral",1,"Female"
+"699",199,70,"7-8 group","E",5,"Immoral",1,"Female"
+"700",200,70,"7-8 group","E",6,"Immoral",1,"Female"
+"701",731,71,"5-6 group","E",NA,"Action Possible",1,"Male"
+"702",732,71,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"703",733,71,"5-6 group","E",NA,"Action Impossible",0,"Male"
+"704",734,71,"5-6 group","E",NA,"Action Possible",1,"Male"
+"705",735,71,"5-6 group","E",1,"Opinion",1,"Male"
+"706",736,71,"5-6 group","E",2,"Opinion",1,"Male"
+"707",737,71,"5-6 group","E",3,"Moral",0,"Male"
+"708",738,71,"5-6 group","E",4,"Moral",0,"Male"
+"709",739,71,"5-6 group","E",5,"Immoral",1,"Male"
+"710",740,71,"5-6 group","E",6,"Immoral",1,"Male"
+"711",551,72,"7-8 group","F",NA,"Action Possible",1,"Male"
+"712",552,72,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"713",553,72,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"714",554,72,"7-8 group","F",NA,"Action Possible",1,"Male"
+"715",555,72,"7-8 group","F",1,"Opinion",1,"Male"
+"716",556,72,"7-8 group","F",2,"Opinion",1,"Male"
+"717",557,72,"7-8 group","F",3,"Moral",0,"Male"
+"718",558,72,"7-8 group","F",4,"Moral",0,"Male"
+"719",559,72,"7-8 group","F",5,"Immoral",1,"Male"
+"720",560,72,"7-8 group","F",6,"Immoral",1,"Male"
+"721",171,73,"5-6 group","D",NA,"Action Possible",1,"Male"
+"722",172,73,"5-6 group","D",NA,"Action Impossible",0,"Male"
+"723",173,73,"5-6 group","D",NA,"Action Impossible",NA,"Male"
+"724",174,73,"5-6 group","D",NA,"Action Possible",1,"Male"
+"725",175,73,"5-6 group","D",1,"Opinion",1,"Male"
+"726",176,73,"5-6 group","D",2,"Opinion",1,"Male"
+"727",177,73,"5-6 group","D",3,"Moral",0,"Male"
+"728",178,73,"5-6 group","D",4,"Moral",1,"Male"
+"729",179,73,"5-6 group","D",5,"Immoral",1,"Male"
+"730",180,73,"5-6 group","D",6,"Immoral",1,"Male"
+"731",791,74,"7-8 group","D",NA,"Action Possible",1,"Male"
+"732",792,74,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"733",793,74,"7-8 group","D",NA,"Action Impossible",0,"Male"
+"734",794,74,"7-8 group","D",NA,"Action Possible",1,"Male"
+"735",795,74,"7-8 group","D",1,"Opinion",1,"Male"
+"736",796,74,"7-8 group","D",2,"Opinion",1,"Male"
+"737",797,74,"7-8 group","D",3,"Moral",0,"Male"
+"738",798,74,"7-8 group","D",4,"Moral",0,"Male"
+"739",799,74,"7-8 group","D",5,"Immoral",1,"Male"
+"740",800,74,"7-8 group","D",6,"Immoral",1,"Male"
+"741",411,75,"7-8 group","E",NA,"Action Possible",1,"Female"
+"742",412,75,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"743",413,75,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"744",414,75,"7-8 group","E",NA,"Action Possible",1,"Female"
+"745",415,75,"7-8 group","E",1,"Opinion",1,"Female"
+"746",416,75,"7-8 group","E",2,"Opinion",1,"Female"
+"747",417,75,"7-8 group","E",3,"Moral",0,"Female"
+"748",418,75,"7-8 group","E",4,"Moral",0,"Female"
+"749",419,75,"7-8 group","E",5,"Immoral",1,"Female"
+"750",420,75,"7-8 group","E",6,"Immoral",1,"Female"
+"751",231,76,"7-8 group","D",NA,"Action Possible",1,"Male"
+"752",232,76,"7-8 group","D",NA,"Action Impossible",1,"Male"
+"753",233,76,"7-8 group","D",NA,"Action Impossible",1,"Male"
+"754",234,76,"7-8 group","D",NA,"Action Possible",1,"Male"
+"755",235,76,"7-8 group","D",1,"Opinion",1,"Male"
+"756",236,76,"7-8 group","D",2,"Opinion",1,"Male"
+"757",237,76,"7-8 group","D",3,"Moral",1,"Male"
+"758",238,76,"7-8 group","D",4,"Moral",1,"Male"
+"759",239,76,"7-8 group","D",5,"Immoral",1,"Male"
+"760",240,76,"7-8 group","D",6,"Immoral",1,"Male"
+"761",31,77,"7-8 group","F",NA,"Action Possible",1,"Male"
+"762",32,77,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"763",33,77,"7-8 group","F",NA,"Action Impossible",0,"Male"
+"764",34,77,"7-8 group","F",NA,"Action Possible",1,"Male"
+"765",35,77,"7-8 group","F",1,"Opinion",1,"Male"
+"766",36,77,"7-8 group","F",2,"Opinion",1,"Male"
+"767",37,77,"7-8 group","F",3,"Moral",0,"Male"
+"768",38,77,"7-8 group","F",4,"Moral",0,"Male"
+"769",39,77,"7-8 group","F",5,"Immoral",1,"Male"
+"770",40,77,"7-8 group","F",6,"Immoral",1,"Male"
+"771",71,78,"7-8 group","E",NA,"Action Possible",1,"Female"
+"772",72,78,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"773",73,78,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"774",74,78,"7-8 group","E",NA,"Action Possible",1,"Female"
+"775",75,78,"7-8 group","E",1,"Opinion",1,"Female"
+"776",76,78,"7-8 group","E",2,"Opinion",1,"Female"
+"777",77,78,"7-8 group","E",3,"Moral",1,"Female"
+"778",78,78,"7-8 group","E",4,"Moral",1,"Female"
+"779",79,78,"7-8 group","E",5,"Immoral",1,"Female"
+"780",80,78,"7-8 group","E",6,"Immoral",1,"Female"
+"781",201,79,"7-8 group","E",NA,"Action Possible",1,"Female"
+"782",202,79,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"783",203,79,"7-8 group","E",NA,"Action Impossible",0,"Female"
+"784",204,79,"7-8 group","E",NA,"Action Possible",1,"Female"
+"785",205,79,"7-8 group","E",1,"Opinion",1,"Female"
+"786",206,79,"7-8 group","E",2,"Opinion",1,"Female"
+"787",207,79,"7-8 group","E",3,"Moral",1,"Female"
+"788",208,79,"7-8 group","E",4,"Moral",1,"Female"
+"789",209,79,"7-8 group","E",5,"Immoral",1,"Female"
+"790",210,79,"7-8 group","E",6,"Immoral",1,"Female"
+"791",421,80,"5-6 group","D",NA,"Action Possible",1,"Female"
+"792",422,80,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"793",423,80,"5-6 group","D",NA,"Action Impossible",0,"Female"
+"794",424,80,"5-6 group","D",NA,"Action Possible",1,"Female"
+"795",425,80,"5-6 group","D",1,"Opinion",1,"Female"
+"796",426,80,"5-6 group","D",2,"Opinion",1,"Female"
+"797",427,80,"5-6 group","D",3,"Moral",0,"Female"
+"798",428,80,"5-6 group","D",4,"Moral",0,"Female"
+"799",429,80,"5-6 group","D",5,"Immoral",1,"Female"
+"800",430,80,"5-6 group","D",6,"Immoral",1,"Female"
+"801",4271,81,"Adult","E",NA,"Action Possible",1,"2"
+"802",4671,81,"Adult","E",NA,"Action Impossible",0,"2"
+"803",5071,81,"Adult","E",NA,"Action Impossible",0,"2"
+"804",5471,81,"Adult","E",NA,"Action Possible",1,"2"
+"805",5871,81,"Adult","E",1,"Opinion",1,"2"
+"806",6271,81,"Adult","E",2,"Opinion",1,"2"
+"807",6671,81,"Adult","E",3,"Moral",1,"2"
+"808",7071,81,"Adult","E",4,"Moral",1,"2"
+"809",7471,81,"Adult","E",5,"Immoral",1,"2"
+"810",7871,81,"Adult","E",6,"Immoral",1,"2"
+"811",4161,82,"Adult","E",NA,"Action Possible",1,"2"
+"812",4561,82,"Adult","E",NA,"Action Impossible",0,"2"
+"813",4961,82,"Adult","E",NA,"Action Impossible",0,"2"
+"814",5361,82,"Adult","E",NA,"Action Possible",1,"2"
+"815",5761,82,"Adult","E",1,"Opinion",1,"2"
+"816",6161,82,"Adult","E",2,"Opinion",1,"2"
+"817",6561,82,"Adult","E",3,"Moral",0,"2"
+"818",6961,82,"Adult","E",4,"Moral",0,"2"
+"819",7361,82,"Adult","E",5,"Immoral",0,"2"
+"820",7761,82,"Adult","E",6,"Immoral",1,"2"
+"821",4311,83,"Adult","E",NA,"Action Possible",1,"2"
+"822",4711,83,"Adult","E",NA,"Action Impossible",0,"2"
+"823",5111,83,"Adult","E",NA,"Action Impossible",0,"2"
+"824",5511,83,"Adult","E",NA,"Action Possible",1,"2"
+"825",5911,83,"Adult","E",1,"Opinion",1,"2"
+"826",6311,83,"Adult","E",2,"Opinion",1,"2"
+"827",6711,83,"Adult","E",3,"Moral",1,"2"
+"828",7111,83,"Adult","E",4,"Moral",1,"2"
+"829",7511,83,"Adult","E",5,"Immoral",1,"2"
+"830",7911,83,"Adult","E",6,"Immoral",1,"2"
+"831",4391,84,"Adult","E",NA,"Action Possible",0,"1"
+"832",4791,84,"Adult","E",NA,"Action Impossible",1,"1"
+"833",5191,84,"Adult","E",NA,"Action Impossible",0,"1"
+"834",5591,84,"Adult","E",NA,"Action Possible",1,"1"
+"835",5991,84,"Adult","E",1,"Opinion",1,"1"
+"836",6391,84,"Adult","E",2,"Opinion",0,"1"
+"837",6791,84,"Adult","E",3,"Moral",1,"1"
+"838",7191,84,"Adult","E",4,"Moral",1,"1"
+"839",7591,84,"Adult","E",5,"Immoral",0,"1"
+"840",7991,84,"Adult","E",6,"Immoral",1,"1"
+"841",2910,85,"Adult","D",NA,"Action Possible",1,"3"
+"842",6910,85,"Adult","D",NA,"Action Impossible",0,"3"
+"843",1093,85,"Adult","D",NA,"Action Impossible",0,"3"
+"844",1491,85,"Adult","D",NA,"Action Possible",1,"3"
+"845",1891,85,"Adult","D",1,"Opinion",1,"3"
+"846",2291,85,"Adult","D",2,"Opinion",1,"3"
+"847",2691,85,"Adult","D",3,"Moral",1,"3"
+"848",3091,85,"Adult","D",4,"Moral",1,"3"
+"849",3491,85,"Adult","D",5,"Immoral",1,"3"
+"850",3891,85,"Adult","D",6,"Immoral",1,"3"
+"851",4171,86,"Adult","E",NA,"Action Possible",1,"1"
+"852",4571,86,"Adult","E",NA,"Action Impossible",0,"1"
+"853",4971,86,"Adult","E",NA,"Action Impossible",0,"1"
+"854",5371,86,"Adult","E",NA,"Action Possible",1,"1"
+"855",5771,86,"Adult","E",1,"Opinion",1,"1"
+"856",6171,86,"Adult","E",2,"Opinion",1,"1"
+"857",6571,86,"Adult","E",3,"Moral",0,"1"
+"858",6971,86,"Adult","E",4,"Moral",0,"1"
+"859",7371,86,"Adult","E",5,"Immoral",1,"1"
+"860",7771,86,"Adult","E",6,"Immoral",1,"1"
+"861",4091,87,"Adult","E",NA,"Action Possible",1,"1"
+"862",4491,87,"Adult","E",NA,"Action Impossible",0,"1"
+"863",4891,87,"Adult","E",NA,"Action Impossible",0,"1"
+"864",5291,87,"Adult","E",NA,"Action Possible",0,"1"
+"865",5691,87,"Adult","E",1,"Opinion",0,"1"
+"866",6091,87,"Adult","E",2,"Opinion",1,"1"
+"867",6491,87,"Adult","E",3,"Moral",0,"1"
+"868",6891,87,"Adult","E",4,"Moral",1,"1"
+"869",7291,87,"Adult","E",5,"Immoral",1,"1"
+"870",7691,87,"Adult","E",6,"Immoral",1,"1"
+"871",822,88,"Adult","F",NA,"Action Possible",0,"1"
+"872",862,88,"Adult","F",NA,"Action Impossible",1,"1"
+"873",902,88,"Adult","F",NA,"Action Impossible",0,"1"
+"874",942,88,"Adult","F",NA,"Action Possible",0,"1"
+"875",982,88,"Adult","F",1,"Opinion",0,"1"
+"876",1022,88,"Adult","F",2,"Opinion",0,"1"
+"877",1062,88,"Adult","F",3,"Moral",0,"1"
+"878",1102,88,"Adult","F",4,"Moral",1,"1"
+"879",1142,88,"Adult","F",5,"Immoral",0,"1"
+"880",1182,88,"Adult","F",6,"Immoral",0,"1"
+"881",806,89,"Adult","F",NA,"Action Possible",1,"2"
+"882",846,89,"Adult","F",NA,"Action Impossible",0,"2"
+"883",886,89,"Adult","F",NA,"Action Impossible",0,"2"
+"884",926,89,"Adult","F",NA,"Action Possible",1,"2"
+"885",966,89,"Adult","F",1,"Opinion",1,"2"
+"886",1006,89,"Adult","F",2,"Opinion",1,"2"
+"887",1046,89,"Adult","F",3,"Moral",1,"2"
+"888",1086,89,"Adult","F",4,"Moral",1,"2"
+"889",1126,89,"Adult","F",5,"Immoral",0,"2"
+"890",1166,89,"Adult","F",6,"Immoral",0,"2"
+"891",3410,90,"Adult","D",NA,"Action Possible",1,"1"
+"892",7410,90,"Adult","D",NA,"Action Impossible",0,"1"
+"893",1144,90,"Adult","D",NA,"Action Impossible",0,"1"
+"894",1541,90,"Adult","D",NA,"Action Possible",1,"1"
+"895",1941,90,"Adult","D",1,"Opinion",1,"1"
+"896",2341,90,"Adult","D",2,"Opinion",1,"1"
+"897",2741,90,"Adult","D",3,"Moral",1,"1"
+"898",3141,90,"Adult","D",4,"Moral",1,"1"
+"899",3541,90,"Adult","D",5,"Immoral",1,"1"
+"900",3941,90,"Adult","D",6,"Immoral",1,"1"
+"901",4010,91,"Adult","D",NA,"Action Possible",1,"1"
+"902",801,91,"Adult","D",NA,"Action Impossible",0,"1"
+"903",1201,91,"Adult","D",NA,"Action Impossible",1,"1"
+"904",1601,91,"Adult","D",NA,"Action Possible",1,"1"
+"905",2001,91,"Adult","D",1,"Opinion",1,"1"
+"906",2401,91,"Adult","D",2,"Opinion",1,"1"
+"907",2801,91,"Adult","D",3,"Moral",0,"1"
+"908",3201,91,"Adult","D",4,"Moral",0,"1"
+"909",3601,91,"Adult","D",5,"Immoral",0,"1"
+"910",4001,91,"Adult","D",6,"Immoral",0,"1"
+"911",4100,92,"Adult","D",NA,"Action Possible",1,"1"
+"912",4410,92,"Adult","D",NA,"Action Impossible",0,"1"
+"913",841,92,"Adult","D",NA,"Action Impossible",0,"1"
+"914",1241,92,"Adult","D",NA,"Action Possible",1,"1"
+"915",1641,92,"Adult","D",1,"Opinion",1,"1"
+"916",2041,92,"Adult","D",2,"Opinion",1,"1"
+"917",2441,92,"Adult","D",3,"Moral",1,"1"
+"918",2841,92,"Adult","D",4,"Moral",1,"1"
+"919",3241,92,"Adult","D",5,"Immoral",1,"1"
+"920",3641,92,"Adult","D",6,"Immoral",1,"1"
+"921",818,93,"Adult","F",NA,"Action Possible",1,"2"
+"922",858,93,"Adult","F",NA,"Action Impossible",0,"2"
+"923",898,93,"Adult","F",NA,"Action Impossible",0,"2"
+"924",938,93,"Adult","F",NA,"Action Possible",1,"2"
+"925",978,93,"Adult","F",1,"Opinion",1,"2"
+"926",1018,93,"Adult","F",2,"Opinion",1,"2"
+"927",1058,93,"Adult","F",3,"Moral",0,"2"
+"928",1098,93,"Adult","F",4,"Moral",0,"2"
+"929",1138,93,"Adult","F",5,"Immoral",1,"2"
+"930",1178,93,"Adult","F",6,"Immoral",1,"2"
+"931",4081,94,"Adult","E",NA,"Action Possible",1,"2"
+"932",4481,94,"Adult","E",NA,"Action Impossible",0,"2"
+"933",4881,94,"Adult","E",NA,"Action Impossible",0,"2"
+"934",5281,94,"Adult","E",NA,"Action Possible",1,"2"
+"935",5681,94,"Adult","E",1,"Opinion",0,"2"
+"936",6081,94,"Adult","E",2,"Opinion",0,"2"
+"937",6481,94,"Adult","E",3,"Moral",1,"2"
+"938",6881,94,"Adult","E",4,"Moral",1,"2"
+"939",7281,94,"Adult","E",5,"Immoral",1,"2"
+"940",7681,94,"Adult","E",6,"Immoral",1,"2"
+"941",2410,95,"Adult","D",NA,"Action Possible",1,"2"
+"942",6410,95,"Adult","D",NA,"Action Impossible",0,"2"
+"943",1041,95,"Adult","D",NA,"Action Impossible",0,"2"
+"944",1441,95,"Adult","D",NA,"Action Possible",1,"2"
+"945",1841,95,"Adult","D",1,"Opinion",1,"2"
+"946",2241,95,"Adult","D",2,"Opinion",1,"2"
+"947",2641,95,"Adult","D",3,"Moral",0,"2"
+"948",3041,95,"Adult","D",4,"Moral",1,"2"
+"949",3441,95,"Adult","D",5,"Immoral",1,"2"
+"950",3841,95,"Adult","D",6,"Immoral",1,"2"
+"951",1510,96,"Adult","D",NA,"Action Possible",1,"2"
+"952",5510,96,"Adult","D",NA,"Action Impossible",0,"2"
+"953",951,96,"Adult","D",NA,"Action Impossible",0,"2"
+"954",1351,96,"Adult","D",NA,"Action Possible",1,"2"
+"955",1751,96,"Adult","D",1,"Opinion",1,"2"
+"956",2151,96,"Adult","D",2,"Opinion",1,"2"
+"957",2551,96,"Adult","D",3,"Moral",1,"2"
+"958",2951,96,"Adult","D",4,"Moral",1,"2"
+"959",3351,96,"Adult","D",5,"Immoral",1,"2"
+"960",3751,96,"Adult","D",6,"Immoral",1,"2"
+"961",821,97,"Adult","F",NA,"Action Possible",1,"1"
+"962",861,97,"Adult","F",NA,"Action Impossible",0,"1"
+"963",901,97,"Adult","F",NA,"Action Impossible",0,"1"
+"964",941,97,"Adult","F",NA,"Action Possible",1,"1"
+"965",981,97,"Adult","F",1,"Opinion",1,"1"
+"966",1021,97,"Adult","F",2,"Opinion",1,"1"
+"967",1061,97,"Adult","F",3,"Moral",0,"1"
+"968",1101,97,"Adult","F",4,"Moral",1,"1"
+"969",1141,97,"Adult","F",5,"Immoral",1,"1"
+"970",1181,97,"Adult","F",6,"Immoral",1,"1"
+"971",1410,98,"Adult","D",NA,"Action Possible",1,"1"
+"972",5410,98,"Adult","D",NA,"Action Impossible",0,"1"
+"973",944,98,"Adult","D",NA,"Action Impossible",0,"1"
+"974",1341,98,"Adult","D",NA,"Action Possible",1,"1"
+"975",1741,98,"Adult","D",1,"Opinion",1,"1"
+"976",2141,98,"Adult","D",2,"Opinion",1,"1"
+"977",2541,98,"Adult","D",3,"Moral",0,"1"
+"978",2941,98,"Adult","D",4,"Moral",0,"1"
+"979",3341,98,"Adult","D",5,"Immoral",1,"1"
+"980",3741,98,"Adult","D",6,"Immoral",1,"1"
+"981",812,99,"Adult","F",NA,"Action Possible",1,"1"
+"982",852,99,"Adult","F",NA,"Action Impossible",0,"1"
+"983",892,99,"Adult","F",NA,"Action Impossible",0,"1"
+"984",932,99,"Adult","F",NA,"Action Possible",1,"1"
+"985",972,99,"Adult","F",1,"Opinion",1,"1"
+"986",1012,99,"Adult","F",2,"Opinion",1,"1"
+"987",1052,99,"Adult","F",3,"Moral",0,"1"
+"988",1092,99,"Adult","F",4,"Moral",0,"1"
+"989",1132,99,"Adult","F",5,"Immoral",0,"1"
+"990",1172,99,"Adult","F",6,"Immoral",0,"1"
+"991",838,100,"Adult","F",NA,"Action Possible",1,"2"
+"992",878,100,"Adult","F",NA,"Action Impossible",0,"2"
+"993",918,100,"Adult","F",NA,"Action Impossible",0,"2"
+"994",958,100,"Adult","F",NA,"Action Possible",1,"2"
+"995",998,100,"Adult","F",1,"Opinion",1,"2"
+"996",1038,100,"Adult","F",2,"Opinion",1,"2"
+"997",1078,100,"Adult","F",3,"Moral",1,"2"
+"998",1118,100,"Adult","F",4,"Moral",1,"2"
+"999",1158,100,"Adult","F",5,"Immoral",1,"2"
+"1000",1198,100,"Adult","F",6,"Immoral",1,"2"
+"1001",1010,101,"Adult","D",NA,"Action Possible",1,"1"
+"1002",5010,101,"Adult","D",NA,"Action Impossible",0,"1"
+"1003",904,101,"Adult","D",NA,"Action Impossible",0,"1"
+"1004",1301,101,"Adult","D",NA,"Action Possible",1,"1"
+"1005",1701,101,"Adult","D",1,"Opinion",1,"1"
+"1006",2101,101,"Adult","D",2,"Opinion",1,"1"
+"1007",2501,101,"Adult","D",3,"Moral",1,"1"
+"1008",2901,101,"Adult","D",4,"Moral",1,"1"
+"1009",3301,101,"Adult","D",5,"Immoral",1,"1"
+"1010",3701,101,"Adult","D",6,"Immoral",1,"1"
+"1011",4131,102,"Adult","E",NA,"Action Possible",1,"1"
+"1012",4531,102,"Adult","E",NA,"Action Impossible",0,"1"
+"1013",4931,102,"Adult","E",NA,"Action Impossible",0,"1"
+"1014",5331,102,"Adult","E",NA,"Action Possible",1,"1"
+"1015",5731,102,"Adult","E",1,"Opinion",1,"1"
+"1016",6131,102,"Adult","E",2,"Opinion",1,"1"
+"1017",6531,102,"Adult","E",3,"Moral",1,"1"
+"1018",6931,102,"Adult","E",4,"Moral",1,"1"
+"1019",7331,102,"Adult","E",5,"Immoral",1,"1"
+"1020",7731,102,"Adult","E",6,"Immoral",1,"1"
+"1021",3710,103,"Adult","D",NA,"Action Possible",1,"1"
+"1022",7710,103,"Adult","D",NA,"Action Impossible",1,"1"
+"1023",1173,103,"Adult","D",NA,"Action Impossible",1,"1"
+"1024",1571,103,"Adult","D",NA,"Action Possible",1,"1"
+"1025",1971,103,"Adult","D",1,"Opinion",1,"1"
+"1026",2371,103,"Adult","D",2,"Opinion",0,"1"
+"1027",2771,103,"Adult","D",3,"Moral",1,"1"
+"1028",3171,103,"Adult","D",4,"Moral",1,"1"
+"1029",3571,103,"Adult","D",5,"Immoral",1,"1"
+"1030",3971,103,"Adult","D",6,"Immoral",1,"1"
+"1031",828,104,"Adult","F",NA,"Action Possible",1,"1"
+"1032",868,104,"Adult","F",NA,"Action Impossible",0,"1"
+"1033",908,104,"Adult","F",NA,"Action Impossible",0,"1"
+"1034",948,104,"Adult","F",NA,"Action Possible",1,"1"
+"1035",988,104,"Adult","F",1,"Opinion",1,"1"
+"1036",1028,104,"Adult","F",2,"Opinion",1,"1"
+"1037",1068,104,"Adult","F",3,"Moral",0,"1"
+"1038",1108,104,"Adult","F",4,"Moral",0,"1"
+"1039",1148,104,"Adult","F",5,"Immoral",1,"1"
+"1040",1188,104,"Adult","F",6,"Immoral",1,"1"
+"1041",2510,105,"Adult","D",NA,"Action Possible",1,"2"
+"1042",6510,105,"Adult","D",NA,"Action Impossible",0,"2"
+"1043",1053,105,"Adult","D",NA,"Action Impossible",0,"2"
+"1044",1451,105,"Adult","D",NA,"Action Possible",1,"2"
+"1045",1851,105,"Adult","D",1,"Opinion",1,"2"
+"1046",2251,105,"Adult","D",2,"Opinion",1,"2"
+"1047",2651,105,"Adult","D",3,"Moral",0,"2"
+"1048",3051,105,"Adult","D",4,"Moral",0,"2"
+"1049",3451,105,"Adult","D",5,"Immoral",1,"2"
+"1050",3851,105,"Adult","D",6,"Immoral",1,"2"
+"1051",823,106,"Adult","F",NA,"Action Possible",0,"2"
+"1052",863,106,"Adult","F",NA,"Action Impossible",0,"2"
+"1053",903,106,"Adult","F",NA,"Action Impossible",0,"2"
+"1054",943,106,"Adult","F",NA,"Action Possible",0,"2"
+"1055",983,106,"Adult","F",1,"Opinion",0,"2"
+"1056",1023,106,"Adult","F",2,"Opinion",0,"2"
+"1057",1063,106,"Adult","F",3,"Moral",0,"2"
+"1058",1103,106,"Adult","F",4,"Moral",0,"2"
+"1059",1143,106,"Adult","F",5,"Immoral",1,"2"
+"1060",1183,106,"Adult","F",6,"Immoral",0,"2"
+"1061",4021,107,"Adult","E",NA,"Action Possible",1,"2"
+"1062",4421,107,"Adult","E",NA,"Action Impossible",0,"2"
+"1063",4821,107,"Adult","E",NA,"Action Impossible",0,"2"
+"1064",5221,107,"Adult","E",NA,"Action Possible",1,"2"
+"1065",5621,107,"Adult","E",1,"Opinion",1,"2"
+"1066",6021,107,"Adult","E",2,"Opinion",1,"2"
+"1067",6421,107,"Adult","E",3,"Moral",0,"2"
+"1068",6821,107,"Adult","E",4,"Moral",0,"2"
+"1069",7221,107,"Adult","E",5,"Immoral",1,"2"
+"1070",7621,107,"Adult","E",6,"Immoral",1,"2"
+"1071",4201,108,"Adult","E",NA,"Action Possible",1,"1"
+"1072",4601,108,"Adult","E",NA,"Action Impossible",1,"1"
+"1073",5001,108,"Adult","E",NA,"Action Impossible",1,"1"
+"1074",5401,108,"Adult","E",NA,"Action Possible",1,"1"
+"1075",5801,108,"Adult","E",1,"Opinion",1,"1"
+"1076",6201,108,"Adult","E",2,"Opinion",1,"1"
+"1077",6601,108,"Adult","E",3,"Moral",1,"1"
+"1078",7001,108,"Adult","E",4,"Moral",1,"1"
+"1079",7401,108,"Adult","E",5,"Immoral",1,"1"
+"1080",7801,108,"Adult","E",6,"Immoral",1,"1"
+"1081",836,109,"Adult","F",NA,"Action Possible",1,"1"
+"1082",876,109,"Adult","F",NA,"Action Impossible",0,"1"
+"1083",916,109,"Adult","F",NA,"Action Impossible",0,"1"
+"1084",956,109,"Adult","F",NA,"Action Possible",1,"1"
+"1085",996,109,"Adult","F",1,"Opinion",1,"1"
+"1086",1036,109,"Adult","F",2,"Opinion",1,"1"
+"1087",1076,109,"Adult","F",3,"Moral",1,"1"
+"1088",1116,109,"Adult","F",4,"Moral",1,"1"
+"1089",1156,109,"Adult","F",5,"Immoral",1,"1"
+"1090",1196,109,"Adult","F",6,"Immoral",1,"1"
+"1091",830,110,"Adult","F",NA,"Action Possible",1,"1"
+"1092",870,110,"Adult","F",NA,"Action Impossible",0,"1"
+"1093",910,110,"Adult","F",NA,"Action Impossible",0,"1"
+"1094",950,110,"Adult","F",NA,"Action Possible",1,"1"
+"1095",990,110,"Adult","F",1,"Opinion",1,"1"
+"1096",1030,110,"Adult","F",2,"Opinion",1,"1"
+"1097",1070,110,"Adult","F",3,"Moral",0,"1"
+"1098",1110,110,"Adult","F",4,"Moral",1,"1"
+"1099",1150,110,"Adult","F",5,"Immoral",1,"1"
+"1100",1190,110,"Adult","F",6,"Immoral",1,"1"
+"1101",1100,111,"Adult","D",NA,"Action Possible",1,"1"
+"1102",4110,111,"Adult","D",NA,"Action Impossible",1,"1"
+"1103",813,111,"Adult","D",NA,"Action Impossible",1,"1"
+"1104",1211,111,"Adult","D",NA,"Action Possible",1,"1"
+"1105",1611,111,"Adult","D",1,"Opinion",1,"1"
+"1106",2011,111,"Adult","D",2,"Opinion",1,"1"
+"1107",2411,111,"Adult","D",3,"Moral",1,"1"
+"1108",2811,111,"Adult","D",4,"Moral",1,"1"
+"1109",3211,111,"Adult","D",5,"Immoral",1,"1"
+"1110",3611,111,"Adult","D",6,"Immoral",1,"1"
+"1111",3510,112,"Adult","D",NA,"Action Possible",1,"1"
+"1112",7510,112,"Adult","D",NA,"Action Impossible",0,"1"
+"1113",1151,112,"Adult","D",NA,"Action Impossible",0,"1"
+"1114",1551,112,"Adult","D",NA,"Action Possible",1,"1"
+"1115",1951,112,"Adult","D",1,"Opinion",1,"1"
+"1116",2351,112,"Adult","D",2,"Opinion",1,"1"
+"1117",2751,112,"Adult","D",3,"Moral",1,"1"
+"1118",3151,112,"Adult","D",4,"Moral",1,"1"
+"1119",3551,112,"Adult","D",5,"Immoral",1,"1"
+"1120",3951,112,"Adult","D",6,"Immoral",1,"1"
+"1121",4071,113,"Adult","E",NA,"Action Possible",1,"2"
+"1122",4471,113,"Adult","E",NA,"Action Impossible",0,"2"
+"1123",4871,113,"Adult","E",NA,"Action Impossible",0,"2"
+"1124",5271,113,"Adult","E",NA,"Action Possible",1,"2"
+"1125",5671,113,"Adult","E",1,"Opinion",1,"2"
+"1126",6071,113,"Adult","E",2,"Opinion",1,"2"
+"1127",6471,113,"Adult","E",3,"Moral",1,"2"
+"1128",6871,113,"Adult","E",4,"Moral",1,"2"
+"1129",7271,113,"Adult","E",5,"Immoral",1,"2"
+"1130",7671,113,"Adult","E",6,"Immoral",1,"2"
+"1131",4321,114,"Adult","E",NA,"Action Possible",1,"1"
+"1132",4721,114,"Adult","E",NA,"Action Impossible",0,"1"
+"1133",5121,114,"Adult","E",NA,"Action Impossible",0,"1"
+"1134",5521,114,"Adult","E",NA,"Action Possible",1,"1"
+"1135",5921,114,"Adult","E",1,"Opinion",0,"1"
+"1136",6321,114,"Adult","E",2,"Opinion",1,"1"
+"1137",6721,114,"Adult","E",3,"Moral",0,"1"
+"1138",7121,114,"Adult","E",4,"Moral",0,"1"
+"1139",7521,114,"Adult","E",5,"Immoral",1,"1"
+"1140",7921,114,"Adult","E",6,"Immoral",1,"1"
+"1141",3310,115,"Adult","D",NA,"Action Possible",1,"1"
+"1142",7310,115,"Adult","D",NA,"Action Impossible",0,"1"
+"1143",1133,115,"Adult","D",NA,"Action Impossible",0,"1"
+"1144",1531,115,"Adult","D",NA,"Action Possible",1,"1"
+"1145",1931,115,"Adult","D",1,"Opinion",1,"1"
+"1146",2331,115,"Adult","D",2,"Opinion",1,"1"
+"1147",2731,115,"Adult","D",3,"Moral",0,"1"
+"1148",3131,115,"Adult","D",4,"Moral",0,"1"
+"1149",3531,115,"Adult","D",5,"Immoral",1,"1"
+"1150",3931,115,"Adult","D",6,"Immoral",1,"1"
+"1151",805,116,"Adult","F",NA,"Action Possible",1,"2"
+"1152",845,116,"Adult","F",NA,"Action Impossible",0,"2"
+"1153",885,116,"Adult","F",NA,"Action Impossible",0,"2"
+"1154",925,116,"Adult","F",NA,"Action Possible",1,"2"
+"1155",965,116,"Adult","F",1,"Opinion",1,"2"
+"1156",1005,116,"Adult","F",2,"Opinion",1,"2"
+"1157",1045,116,"Adult","F",3,"Moral",1,"2"
+"1158",1085,116,"Adult","F",4,"Moral",1,"2"
+"1159",1125,116,"Adult","F",5,"Immoral",1,"2"
+"1160",1165,116,"Adult","F",6,"Immoral",1,"2"
+"1161",4191,117,"Adult","E",NA,"Action Possible",1,"2"
+"1162",4591,117,"Adult","E",NA,"Action Impossible",0,"2"
+"1163",4991,117,"Adult","E",NA,"Action Impossible",0,"2"
+"1164",5391,117,"Adult","E",NA,"Action Possible",1,"2"
+"1165",5791,117,"Adult","E",1,"Opinion",1,"2"
+"1166",6191,117,"Adult","E",2,"Opinion",1,"2"
+"1167",6591,117,"Adult","E",3,"Moral",1,"2"
+"1168",6991,117,"Adult","E",4,"Moral",1,"2"
+"1169",7391,117,"Adult","E",5,"Immoral",1,"2"
+"1170",7791,117,"Adult","E",6,"Immoral",1,"2"
+"1171",811,118,"Adult","F",NA,"Action Possible",1,"2"
+"1172",851,118,"Adult","F",NA,"Action Impossible",0,"2"
+"1173",891,118,"Adult","F",NA,"Action Impossible",0,"2"
+"1174",931,118,"Adult","F",NA,"Action Possible",1,"2"
+"1175",971,118,"Adult","F",1,"Opinion",1,"2"
+"1176",1011,118,"Adult","F",2,"Opinion",1,"2"
+"1177",1051,118,"Adult","F",3,"Moral",0,"2"
+"1178",1091,118,"Adult","F",4,"Moral",0,"2"
+"1179",1131,118,"Adult","F",5,"Immoral",0,"2"
+"1180",1171,118,"Adult","F",6,"Immoral",1,"2"
+"1181",826,119,"Adult","F",NA,"Action Possible",1,"1"
+"1182",866,119,"Adult","F",NA,"Action Impossible",0,"1"
+"1183",906,119,"Adult","F",NA,"Action Impossible",0,"1"
+"1184",946,119,"Adult","F",NA,"Action Possible",1,"1"
+"1185",986,119,"Adult","F",1,"Opinion",1,"1"
+"1186",1026,119,"Adult","F",2,"Opinion",1,"1"
+"1187",1066,119,"Adult","F",3,"Moral",1,"1"
+"1188",1106,119,"Adult","F",4,"Moral",1,"1"
+"1189",1146,119,"Adult","F",5,"Immoral",1,"1"
+"1190",1186,119,"Adult","F",6,"Immoral",1,"1"
+"1191",3100,120,"Adult","D",NA,"Action Possible",1,"2"
+"1192",4310,120,"Adult","D",NA,"Action Impossible",0,"2"
+"1193",831,120,"Adult","D",NA,"Action Impossible",0,"2"
+"1194",1231,120,"Adult","D",NA,"Action Possible",1,"2"
+"1195",1631,120,"Adult","D",1,"Opinion",1,"2"
+"1196",2031,120,"Adult","D",2,"Opinion",1,"2"
+"1197",2431,120,"Adult","D",3,"Moral",0,"2"
+"1198",2831,120,"Adult","D",4,"Moral",0,"2"
+"1199",3231,120,"Adult","D",5,"Immoral",1,"2"
+"1200",3631,120,"Adult","D",6,"Immoral",1,"2"
